@@ -1,0 +1,161 @@
+sku,product_name,brand,category,variant,mrp,unit,min_shelf_life,max_shelf_life,expiry_date
+SKU0001,Nestle Everyday Milk 1L,Nestle,Dairy,1L,182.98,pcs,14,21,2025-10-26
+SKU0002,Nestle Everyday Milk 500ml,Nestle,Dairy,500ml,230.54,pcs,14,21,2025-11-12
+SKU0003,Nestle Everyday Milk 250ml,Nestle,Dairy,250ml,251.6,pcs,14,21,2025-11-24
+SKU0004,Olpers Full Cream Milk 1L,Olpers,Dairy,1L,222.04,pcs,14,21,2025-10-15
+SKU0005,Olpers Full Cream Milk 500ml,Olpers,Dairy,500ml,280.94,pcs,14,21,2025-10-20
+SKU0006,Haleeb Fresh Milk 1L,Haleeb,Dairy,1L,259.81,pcs,14,21,2025-11-24
+SKU0007,Haleeb Fresh Milk 500ml,Haleeb,Dairy,500ml,205.55,pcs,14,21,2025-11-05
+SKU0008,Nurpur Milk 1L,Nurpur,Dairy,1L,194.2,pcs,14,21,2025-10-10
+SKU0009,Nurpur Milk 500ml,Nurpur,Dairy,500ml,217.31,pcs,14,21,2025-10-30
+SKU0010,Dairy Omung Milk 1L,Dairy Omung,Dairy,1L,212.29,pcs,14,21,2025-11-04
+SKU0011,Nestle Yogurt 400g,Nestle,Dairy,400g,133.62,pcs,21,30,2025-10-21
+SKU0012,Nestle Yogurt 900g,Nestle,Dairy,900g,87.88,pcs,21,30,2025-10-07
+SKU0013,Tarang Dahi 500g,Tarang,Dairy,500g,161.85,pcs,15,25,2025-11-15
+SKU0014,Tarang Dahi 1kg,Tarang,Dairy,1kg,157.74,pcs,15,25,2025-10-04
+SKU0015,Olpers Cheese Slices 200g,Olpers,Dairy,200g,259.16,pcs,90,120,2025-12-25
+SKU0016,Olpers Cheese Slices 400g,Olpers,Dairy,400g,307.88,pcs,90,120,2026-02-16
+SKU0017,Nurpur Butter 200g,Nurpur,Dairy,200g,340.65,pcs,90,180,2026-03-02
+SKU0018,Coca Cola Coke 250ml,Coca Cola,Beverages,250ml,118.01,pcs,180,365,2026-06-23
+SKU0019,Coca Cola Coke 500ml,Coca Cola,Beverages,500ml,74.4,pcs,180,365,2026-06-16
+SKU0020,Coca Cola Coke 1.5L,Coca Cola,Beverages,1.5L,150.53,pcs,180,365,2026-06-07
+SKU0021,Coca Cola Coke 2.25L,Coca Cola,Beverages,2.25L,147.21,pcs,180,365,2026-09-14
+SKU0022,Pepsi Pepsi 250ml,Pepsi,Beverages,250ml,74.82,pcs,180,365,2026-09-08
+SKU0023,Pepsi Pepsi 500ml,Pepsi,Beverages,500ml,73.69,pcs,180,365,2026-05-23
+SKU0024,Pepsi Pepsi 1.5L,Pepsi,Beverages,1.5L,193.48,pcs,180,365,2026-06-21
+SKU0025,Pepsi Pepsi 2.25L,Pepsi,Beverages,2.25L,130.76,pcs,180,365,2026-09-20
+SKU0026,7UP 7UP 250ml,7UP,Beverages,250ml,159.57,pcs,180,365,2026-06-16
+SKU0027,7UP 7UP 500ml,7UP,Beverages,500ml,79.78,pcs,180,365,2026-04-02
+SKU0028,7UP 7UP 1.5L,7UP,Beverages,1.5L,102.15,pcs,180,365,2026-07-24
+SKU0029,Sprite Sprite 250ml,Sprite,Beverages,250ml,168.71,pcs,180,365,2026-06-26
+SKU0030,Sprite Sprite 500ml,Sprite,Beverages,500ml,90.91,pcs,180,365,2026-10-01
+SKU0031,Sprite Sprite 1.5L,Sprite,Beverages,1.5L,101.43,pcs,180,365,2026-08-01
+SKU0032,Fanta Orange 500ml,Fanta,Beverages,500ml,115.89,pcs,180,365,2026-08-21
+SKU0033,Fanta Orange 1.5L,Fanta,Beverages,1.5L,94.66,pcs,180,365,2026-05-26
+SKU0034,Shezan Mango Juice 250ml,Shezan,Beverages,250ml,96.78,pcs,180,270,2026-06-09
+SKU0035,Shezan Mango Juice 1L,Shezan,Beverages,1L,185.7,pcs,180,270,2026-05-24
+SKU0036,Shezan Apple Juice 1L,Shezan,Beverages,1L,188.77,pcs,180,270,2026-05-28
+SKU0037,Nestle Pure Life Water 500ml,Nestle,Beverages,500ml,54.68,pcs,365,730,2027-07-18
+SKU0038,Nestle Pure Life Water 1.5L,Nestle,Beverages,1.5L,73.06,pcs,365,730,2026-10-15
+SKU0039,Aquafina Water 500ml,Aquafina,Beverages,500ml,37.2,pcs,365,730,2027-09-16
+SKU0040,Aquafina Water 1.5L,Aquafina,Beverages,1.5L,56.84,pcs,365,730,2027-04-30
+SKU0041,Gourmet Green Tea 25 bags,Gourmet,Beverages,25 bags,328.77,pcs,365,730,2027-04-28
+SKU0042,Gourmet Green Tea 50 bags,Gourmet,Beverages,50 bags,225.42,pcs,365,730,2027-07-07
+SKU0043,Gourmet Green Tea 100 bags,Gourmet,Beverages,100 bags,354.09,pcs,365,730,2026-10-09
+SKU0044,Lipton Yellow Label Tea 100 bags,Lipton,Beverages,100 bags,515.44,pcs,365,730,2027-10-16
+SKU0045,Lipton Yellow Label Tea 200 bags,Lipton,Beverages,200 bags,480.58,pcs,365,730,2027-02-04
+SKU0046,Vital Energy Drink 250ml,Vital,Beverages,250ml,108.81,pcs,365,540,2026-11-15
+SKU0047,Lays Masala Chips 34g,Lays,Snacks,34g,30.29,pcs,90,180,2026-03-26
+SKU0048,Lays Masala Chips 68g,Lays,Snacks,68g,117.47,pcs,90,180,2026-01-24
+SKU0049,Lays Masala Chips 90g,Lays,Snacks,90g,75.69,pcs,90,180,2026-01-11
+SKU0050,Lays Wavy Chips 68g,Lays,Snacks,68g,85.97,pcs,90,180,2026-04-21
+SKU0051,Kolson Slanty 18g,Kolson,Snacks,18g,44.36,pcs,90,180,2026-03-02
+SKU0052,Kolson Slanty 40g,Kolson,Snacks,40g,50.5,pcs,90,180,2026-03-16
+SKU0053,Super Crisp Nimko 100g,Super Crisp,Snacks,100g,114.57,pcs,60,120,2026-01-22
+SKU0054,Super Crisp Nimko 200g,Super Crisp,Snacks,200g,91.93,pcs,60,120,2025-11-10
+SKU0055,Cheetos Crunchy 48g,Cheetos,Snacks,48g,52.24,pcs,90,180,2026-01-08
+SKU0056,Kurkure Chatpata 62g,Kurkure,Snacks,62g,54.37,pcs,90,180,2026-02-22
+SKU0057,Kurkure Chatpata 110g,Kurkure,Snacks,110g,96.82,pcs,90,180,2026-04-04
+SKU0058,Peek Freans Sooper Biscuit Family Pack,Peek Freans,Snacks,Family Pack,88.6,pcs,120,180,2026-04-18
+SKU0059,Peek Freans Sooper Biscuit Half Roll,Peek Freans,Snacks,Half Roll,93.27,pcs,120,180,2026-04-21
+SKU0060,Peek Freans Chocolate Chip 90g,Peek Freans,Snacks,90g,73.2,pcs,120,180,2026-03-08
+SKU0061,Jubilee Chocolate Biscuit 90g,Jubilee,Snacks,90g,64.95,pcs,120,180,2026-02-11
+SKU0062,Jubilee Coconut Biscuit 90g,Jubilee,Snacks,90g,73.2,pcs,120,180,2026-03-30
+SKU0063,Sooper Cream Biscuit Half Roll,Sooper,Snacks,Half Roll,64.66,pcs,120,180,2026-04-23
+SKU0064,Sooper Cream Biscuit Full Roll,Sooper,Snacks,Full Roll,46.06,pcs,120,180,2026-03-06
+SKU0065,Rio Wafer 18g,Rio,Snacks,18g,49.81,pcs,120,180,2026-03-14
+SKU0066,Rio Wafer 45g,Rio,Snacks,45g,27.52,pcs,120,180,2026-02-18
+SKU0067,English Biscuit White Bread Medium,English Biscuit,Bakery,Medium,87.26,pcs,3,7,2025-10-12
+SKU0068,English Biscuit White Bread Large,English Biscuit,Bakery,Large,100.29,pcs,3,7,2025-10-28
+SKU0069,English Biscuit Brown Bread Medium,English Biscuit,Bakery,Medium,103.81,pcs,3,7,2025-10-09
+SKU0070,English Biscuit Brown Bread Large,English Biscuit,Bakery,Large,94.26,pcs,3,7,2025-10-28
+SKU0071,Peek Freans Cake Rusk Regular,Peek Freans,Bakery,Regular,172.89,pcs,60,90,2025-11-29
+SKU0072,Peek Freans Cake Rusk Chocolate,Peek Freans,Bakery,Chocolate,235.96,pcs,60,90,2025-11-12
+SKU0073,Young's Milk Rusk 300g,Young's,Bakery,300g,149.52,pcs,60,90,2026-01-19
+SKU0074,Bake Parlor Rusk Plain,Bake Parlor,Bakery,Plain,137.14,pcs,60,90,2025-12-11
+SKU0075,Bake Parlor Rusk Zeera,Bake Parlor,Bakery,Zeera,194.84,pcs,60,90,2026-01-22
+SKU0076,Dawn White Bread Medium,Dawn,Bakery,Medium,101.54,pcs,3,7,2025-10-10
+SKU0077,National Biryani Masala 50g,National,Grocery,50g,130.75,pcs,365,730,2027-05-19
+SKU0078,National Biryani Masala 100g,National,Grocery,100g,59.69,pcs,365,730,2026-12-14
+SKU0079,National Korma Masala 50g,National,Grocery,50g,71.18,pcs,365,730,2027-04-11
+SKU0080,National Nihari Masala 50g,National,Grocery,50g,88.67,pcs,365,730,2026-11-06
+SKU0081,Shan Biryani Masala 50g,Shan,Grocery,50g,55.46,pcs,365,730,2026-11-17
+SKU0082,Shan Biryani Masala 100g,Shan,Grocery,100g,122.05,pcs,365,730,2027-03-15
+SKU0083,Shan Chicken Tikka 50g,Shan,Grocery,50g,66.71,pcs,365,730,2027-03-09
+SKU0084,Shan Chicken Karahi 50g,Shan,Grocery,50g,61.31,pcs,365,730,2027-05-22
+SKU0085,Mehran Seekh Kabab 50g,Mehran,Grocery,50g,63.51,pcs,365,730,2027-03-19
+SKU0086,Dalda Cooking Oil 1L,Dalda,Grocery,1L,831.76,pcs,365,545,2026-10-03
+SKU0087,Dalda Cooking Oil 2.5L,Dalda,Grocery,2.5L,417.49,pcs,365,545,2027-02-01
+SKU0088,Dalda Cooking Oil 5L,Dalda,Grocery,5L,1303.23,pcs,365,545,2027-02-13
+SKU0089,Habib Banaspati 1kg,Habib,Grocery,1kg,374.8,pcs,365,545,2027-01-02
+SKU0090,Habib Banaspati 2.5kg,Habib,Grocery,2.5kg,401.84,pcs,365,545,2027-02-08
+SKU0091,Eva Cooking Oil 1L,Eva,Grocery,1L,480.98,pcs,365,545,2026-10-29
+SKU0092,Eva Cooking Oil 5L,Eva,Grocery,5L,597.64,pcs,365,545,2027-02-15
+SKU0093,Tapal Danedar Tea 190g,Tapal,Grocery,190g,349.67,pcs,365,730,2027-05-09
+SKU0094,Tapal Danedar Tea 475g,Tapal,Grocery,475g,613.31,pcs,365,730,2027-07-06
+SKU0095,Tapal Danedar Tea 950g,Tapal,Grocery,950g,282.93,pcs,365,730,2026-12-26
+SKU0096,Lipton Yellow Label 200g,Lipton,Grocery,200g,539.09,pcs,365,730,2026-11-24
+SKU0097,Lipton Yellow Label 450g,Lipton,Grocery,450g,643.74,pcs,365,730,2026-11-05
+SKU0098,Vital Tea 475g,Vital,Grocery,475g,455.05,pcs,365,730,2026-11-30
+SKU0099,Sufi Basmati Rice 5kg,Sufi,Grocery,5kg,957.43,pcs,365,730,2027-07-05
+SKU0100,Sufi Basmati Rice 10kg,Sufi,Grocery,10kg,1651.34,pcs,365,730,2026-11-17
+SKU0101,Guard Super Basmati 5kg,Guard,Grocery,5kg,814.56,pcs,365,730,2027-09-04
+SKU0102,Guard Super Basmati 10kg,Guard,Grocery,10kg,1133.59,pcs,365,730,2027-01-12
+SKU0103,Mehran Basmati Rice 5kg,Mehran,Grocery,5kg,749.24,pcs,365,730,2027-06-27
+SKU0104,Shangrila Vermicelli 200g,Shangrila,Grocery,200g,141.94,pcs,180,365,2026-04-09
+SKU0105,Shangrila Vermicelli 400g,Shangrila,Grocery,400g,138.37,pcs,180,365,2026-09-26
+SKU0106,Kolson Macaroni 200g,Kolson,Grocery,200g,154.12,pcs,180,365,2026-06-23
+SKU0107,Kolson Macaroni 400g,Kolson,Grocery,400g,134.46,pcs,180,365,2026-10-12
+SKU0108,National Salt 800g,National,Grocery,800g,47.92,pcs,730,1095,2028-03-07
+SKU0109,Shan Red Chilli Powder 100g,Shan,Grocery,100g,145.0,pcs,365,730,2027-08-23
+SKU0110,Shan Red Chilli Powder 200g,Shan,Grocery,200g,101.4,pcs,365,730,2026-11-25
+SKU0111,National Turmeric Powder 100g,National,Grocery,100g,119.84,pcs,365,730,2027-07-15
+SKU0112,Lux Beauty Soap 3-pack,Lux,Personal_Care,3-pack,192.63,pcs,730,1095,2028-08-05
+SKU0113,Lux Beauty Soap 6-pack,Lux,Personal_Care,6-pack,336.65,pcs,730,1095,2027-12-29
+SKU0114,Lifebuoy Soap 3-pack,Lifebuoy,Personal_Care,3-pack,278.27,pcs,730,1095,2027-10-18
+SKU0115,Lifebuoy Soap 6-pack,Lifebuoy,Personal_Care,6-pack,148.39,pcs,730,1095,2028-03-09
+SKU0116,Safeguard Soap 3-pack,Safeguard,Personal_Care,3-pack,222.21,pcs,730,1095,2028-06-20
+SKU0117,Dettol Soap 3-pack,Dettol,Personal_Care,3-pack,251.74,pcs,730,1095,2028-08-29
+SKU0118,Dove Beauty Bar 100g,Dove,Personal_Care,100g,197.84,pcs,730,1095,2028-07-06
+SKU0119,Dove Beauty Bar 3-pack,Dove,Personal_Care,3-pack,364.12,pcs,730,1095,2027-11-19
+SKU0120,Fair & Lovely Cream 25g,Fair & Lovely,Personal_Care,25g,128.86,pcs,730,1095,2028-03-14
+SKU0121,Fair & Lovely Cream 50g,Fair & Lovely,Personal_Care,50g,138.86,pcs,730,1095,2028-08-11
+SKU0122,Fair & Lovely Cream 80g,Fair & Lovely,Personal_Care,80g,152.66,pcs,730,1095,2028-08-25
+SKU0123,Pond's Face Cream 50g,Pond's,Personal_Care,50g,298.12,pcs,730,1095,2028-01-30
+SKU0124,Pantene Shampoo 180ml,Pantene,Personal_Care,180ml,452.16,pcs,730,1095,2028-01-28
+SKU0125,Pantene Shampoo 400ml,Pantene,Personal_Care,400ml,286.92,pcs,730,1095,2027-11-18
+SKU0126,Pantene Shampoo 650ml,Pantene,Personal_Care,650ml,267.63,pcs,730,1095,2028-03-01
+SKU0127,Head & Shoulders Shampoo 185ml,Head & Shoulders,Personal_Care,185ml,522.99,pcs,730,1095,2027-12-23
+SKU0128,Head & Shoulders Shampoo 400ml,Head & Shoulders,Personal_Care,400ml,559.43,pcs,730,1095,2028-01-13
+SKU0129,Sunsilk Shampoo 180ml,Sunsilk,Personal_Care,180ml,348.31,pcs,730,1095,2028-09-29
+SKU0130,Sunsilk Shampoo 400ml,Sunsilk,Personal_Care,400ml,242.57,pcs,730,1095,2028-01-04
+SKU0131,Clear Shampoo 185ml,Clear,Personal_Care,185ml,551.18,pcs,730,1095,2028-08-31
+SKU0132,Clear Shampoo 400ml,Clear,Personal_Care,400ml,530.38,pcs,730,1095,2027-10-23
+SKU0133,Colgate Toothpaste 75g,Colgate,Personal_Care,75g,143.7,pcs,730,1095,2028-07-10
+SKU0134,Colgate Toothpaste 150g,Colgate,Personal_Care,150g,169.32,pcs,730,1095,2027-11-21
+SKU0135,Close Up Toothpaste 75g,Close Up,Personal_Care,75g,244.84,pcs,730,1095,2027-10-02
+SKU0136,Close Up Toothpaste 150g,Close Up,Personal_Care,150g,147.43,pcs,730,1095,2028-10-09
+SKU0137,Sensodyne Toothpaste 75g,Sensodyne,Personal_Care,75g,334.61,pcs,730,1095,2028-05-01
+SKU0138,Surf Excel Detergent 1kg,Surf Excel,Household,1kg,1467.3,pcs,730,1095,2028-04-08
+SKU0139,Surf Excel Detergent 3kg,Surf Excel,Household,3kg,1407.2,pcs,730,1095,2027-12-10
+SKU0140,Surf Excel Detergent 6kg,Surf Excel,Household,6kg,1470.26,pcs,730,1095,2028-01-15
+SKU0141,Ariel Detergent 1kg,Ariel,Household,1kg,826.48,pcs,730,1095,2027-12-17
+SKU0142,Ariel Detergent 3kg,Ariel,Household,3kg,736.67,pcs,730,1095,2028-02-06
+SKU0143,Bonus Detergent 1kg,Bonus,Household,1kg,645.18,pcs,730,1095,2028-05-15
+SKU0144,Bonus Detergent 3kg,Bonus,Household,3kg,361.41,pcs,730,1095,2028-01-19
+SKU0145,Wheel Detergent 1kg,Wheel,Household,1kg,187.57,pcs,730,1095,2028-09-12
+SKU0146,Harpic Toilet Cleaner 500ml,Harpic,Household,500ml,321.72,pcs,730,1095,2027-10-03
+SKU0147,Harpic Toilet Cleaner 1L,Harpic,Household,1L,313.32,pcs,730,1095,2028-02-04
+SKU0148,Dettol Disinfectant 500ml,Dettol,Household,500ml,301.36,pcs,730,1095,2028-04-06
+SKU0149,Colin Glass Cleaner 500ml,Colin,Household,500ml,193.38,pcs,730,1095,2028-01-13
+SKU0150,Vim Dishwash Bar 250g,Vim,Household,250g,91.88,pcs,730,1095,2028-01-03
+SKU0151,Vim Dishwash Bar 500g,Vim,Household,500g,137.35,pcs,730,1095,2027-11-26
+SKU0152,K&N's Chicken Nuggets 500g,K&N's,Frozen,500g,688.67,pcs,180,365,2026-07-18
+SKU0153,K&N's Chicken Nuggets 1kg,K&N's,Frozen,1kg,841.52,pcs,180,365,2026-10-02
+SKU0154,K&N's Chicken Seekh Kabab 500g,K&N's,Frozen,500g,543.92,pcs,180,365,2026-06-26
+SKU0155,K&N's Chicken Patties 12-pack,K&N's,Frozen,12-pack,392.5,pcs,180,365,2026-07-05
+SKU0156,Menu Plain Paratha 20-pack,Menu,Frozen,20-pack,274.93,pcs,180,365,2026-04-30
+SKU0157,Menu Plain Paratha 30-pack,Menu,Frozen,30-pack,417.57,pcs,180,365,2026-07-07
+SKU0158,Makkhan Paratha 20-pack,Makkhan,Frozen,20-pack,260.31,pcs,180,365,2026-08-06
+SKU0159,Walls Ice Cream Cornetto Single,Walls,Frozen,Single,115.41,pcs,180,365,2026-05-04
+SKU0160,Walls Magnum Single,Walls,Frozen,Single,190.19,pcs,180,365,2026-05-19

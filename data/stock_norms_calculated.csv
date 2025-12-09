@@ -1,0 +1,1044 @@
+client_id,sku,product_name,brand,category,avg_daily_demand,std_demand,coefficient_of_variation,lead_time_days,safety_stock,lead_time_demand,reorder_point,stock_norm,optimal_order_qty,forecast_method,service_level,z_score,last_updated
+C001,SKU0075,Bake Parlor Rusk Zeera,Bake Parlor,Bakery,2.21,0.49,0.22,3,1.39,6.63,8.02,10.0,15.48,Prophet,0.95,1.64,2025-12-09
+C001,SKU0076,Dawn White Bread Medium,Dawn,Bakery,24.45,7.09,0.29,3,20.21,73.34,93.55,85.56,171.12,Prophet,0.95,1.64,2025-12-09
+C001,SKU0067,English Biscuit White Bread Medium,English Biscuit,Bakery,9.06,4.08,0.45,3,11.62,27.17,38.78,31.7,63.39,Prophet,0.95,1.64,2025-12-09
+C001,SKU0072,Peek Freans Cake Rusk Chocolate,Peek Freans,Bakery,13.36,4.2,0.31,3,11.95,40.08,52.03,62.43,93.51,Prophet,0.95,1.64,2025-12-09
+C001,SKU0071,Peek Freans Cake Rusk Regular,Peek Freans,Bakery,29.88,8.11,0.27,3,23.12,89.64,112.75,135.3,209.15,Prophet,0.95,1.64,2025-12-09
+C001,SKU0073,Young's Milk Rusk 300g,Young's,Bakery,4.89,3.43,0.7,3,9.78,14.66,24.44,29.33,34.22,Prophet,0.95,1.64,2025-12-09
+C001,SKU0028,7UP 7UP 1.5L,7UP,Beverages,13.56,4.04,0.3,3,11.51,40.68,52.19,62.62,94.91,Prophet,0.95,1.64,2025-12-09
+C001,SKU0026,7UP 7UP 250ml,7UP,Beverages,15.52,6.07,0.39,3,17.29,46.57,63.86,76.63,108.66,Prophet,0.95,1.64,2025-12-09
+C001,SKU0027,7UP 7UP 500ml,7UP,Beverages,14.16,6.28,0.44,3,17.89,42.49,60.37,72.45,99.14,Prophet,0.95,1.64,2025-12-09
+C001,SKU0021,Coca Cola Coke 2.25L,Coca Cola,Beverages,1.5,0.88,0.59,3,2.52,4.49,7.01,10.0,10.47,Prophet,0.95,1.64,2025-12-09
+C001,SKU0018,Coca Cola Coke 250ml,Coca Cola,Beverages,6.12,7.16,1.17,3,20.39,18.36,38.75,46.5,42.83,Prophet,0.95,1.64,2025-12-09
+C001,SKU0019,Coca Cola Coke 500ml,Coca Cola,Beverages,12.39,3.63,0.29,3,10.33,37.18,47.51,57.02,86.75,Prophet,0.95,1.64,2025-12-09
+C001,SKU0033,Fanta Orange 1.5L,Fanta,Beverages,14.88,5.28,0.36,3,15.06,44.64,59.69,71.63,104.15,Prophet,0.95,1.64,2025-12-09
+C001,SKU0032,Fanta Orange 500ml,Fanta,Beverages,21.72,5.87,0.27,3,16.71,65.16,81.87,98.24,152.04,Prophet,0.95,1.64,2025-12-09
+C001,SKU0043,Gourmet Green Tea 100 bags,Gourmet,Beverages,3.48,1.07,0.31,3,3.06,10.43,13.48,16.18,24.33,Prophet,0.95,1.64,2025-12-09
+C001,SKU0041,Gourmet Green Tea 25 bags,Gourmet,Beverages,12.82,3.13,0.24,3,8.91,38.45,47.35,56.83,89.71,Prophet,0.95,1.64,2025-12-09
+C001,SKU0044,Lipton Yellow Label Tea 100 bags,Lipton,Beverages,14.14,4.18,0.3,3,11.92,42.42,54.34,65.21,98.98,Prophet,0.95,1.64,2025-12-09
+C001,SKU0037,Nestle Pure Life Water 500ml,Nestle,Beverages,3.79,0.98,0.26,3,2.78,11.37,14.15,16.98,26.52,Prophet,0.95,1.64,2025-12-09
+C001,SKU0024,Pepsi Pepsi 1.5L,Pepsi,Beverages,2.27,0.63,0.28,3,1.8,6.82,8.63,10.35,15.92,Prophet,0.95,1.64,2025-12-09
+C001,SKU0025,Pepsi Pepsi 2.25L,Pepsi,Beverages,27.81,7.28,0.26,3,20.75,83.42,104.17,125.01,194.65,Prophet,0.95,1.64,2025-12-09
+C001,SKU0023,Pepsi Pepsi 500ml,Pepsi,Beverages,14.72,3.88,0.26,3,11.05,44.16,55.2,66.25,103.04,Prophet,0.95,1.64,2025-12-09
+C001,SKU0035,Shezan Mango Juice 1L,Shezan,Beverages,2.86,1.02,0.36,3,2.91,8.59,11.5,13.8,20.05,Prophet,0.95,1.64,2025-12-09
+C001,SKU0031,Sprite Sprite 1.5L,Sprite,Beverages,7.83,2.83,0.36,3,8.05,23.5,31.56,37.87,54.84,Prophet,0.95,1.64,2025-12-09
+C001,SKU0029,Sprite Sprite 250ml,Sprite,Beverages,2.59,4.28,1.65,3,12.2,7.77,19.98,23.97,18.14,Prophet,0.95,1.64,2025-12-09
+C001,SKU0046,Vital Energy Drink 250ml,Vital,Beverages,10.03,2.43,0.24,3,6.92,30.1,37.02,44.42,70.23,Prophet,0.95,1.64,2025-12-09
+C001,SKU0010,Dairy Omung Milk 1L,Dairy Omung,Dairy,10.64,3.11,0.29,3,8.85,31.93,40.78,48.94,74.51,Prophet,0.95,1.64,2025-12-09
+C001,SKU0006,Haleeb Fresh Milk 1L,Haleeb,Dairy,20.8,6.46,0.31,3,18.39,62.41,80.81,96.97,145.63,Prophet,0.95,1.64,2025-12-09
+C001,SKU0007,Haleeb Fresh Milk 500ml,Haleeb,Dairy,7.56,2.27,0.3,3,6.48,22.69,29.17,35.0,52.94,Prophet,0.95,1.64,2025-12-09
+C001,SKU0001,Nestle Everyday Milk 1L,Nestle,Dairy,22.23,6.38,0.29,3,18.17,66.69,84.86,101.83,155.6,Prophet,0.95,1.64,2025-12-09
+C001,SKU0002,Nestle Everyday Milk 500ml,Nestle,Dairy,14.33,3.71,0.26,3,10.57,42.98,53.55,64.26,100.29,Prophet,0.95,1.64,2025-12-09
+C001,SKU0012,Nestle Yogurt 900g,Nestle,Dairy,10.97,4.05,0.37,3,11.53,32.92,44.45,53.34,76.81,Prophet,0.95,1.64,2025-12-09
+C001,SKU0017,Nurpur Butter 200g,Nurpur,Dairy,18.26,6.03,0.33,3,17.19,54.77,71.96,86.35,127.8,Prophet,0.95,1.64,2025-12-09
+C001,SKU0008,Nurpur Milk 1L,Nurpur,Dairy,10.84,7.36,0.68,3,20.98,32.53,53.51,64.21,75.89,Prophet,0.95,1.64,2025-12-09
+C001,SKU0009,Nurpur Milk 500ml,Nurpur,Dairy,2.57,0.89,0.35,3,2.54,7.7,10.24,12.29,17.96,Prophet,0.95,1.64,2025-12-09
+C001,SKU0015,Olpers Cheese Slices 200g,Olpers,Dairy,5.57,2.96,0.53,3,8.45,16.72,25.16,30.19,39.0,Prophet,0.95,1.64,2025-12-09
+C001,SKU0005,Olpers Full Cream Milk 500ml,Olpers,Dairy,1.24,0.42,0.34,3,1.2,3.72,4.92,10.0,8.67,Prophet,0.95,1.64,2025-12-09
+C001,SKU0014,Tarang Dahi 1kg,Tarang,Dairy,15.08,5.23,0.35,3,14.91,45.23,60.14,72.16,105.53,Prophet,0.95,1.64,2025-12-09
+C001,SKU0013,Tarang Dahi 500g,Tarang,Dairy,22.77,8.25,0.36,3,23.5,68.31,91.81,110.17,159.39,Prophet,0.95,1.64,2025-12-09
+C001,SKU0153,K&N's Chicken Nuggets 1kg,K&N's,Frozen,17.18,5.87,0.34,3,16.73,51.53,68.26,81.91,120.23,Prophet,0.95,1.64,2025-12-09
+C001,SKU0152,K&N's Chicken Nuggets 500g,K&N's,Frozen,20.72,6.37,0.31,3,18.14,62.16,80.3,96.35,145.04,Prophet,0.95,1.64,2025-12-09
+C001,SKU0155,K&N's Chicken Patties 12-pack,K&N's,Frozen,4.7,2.47,0.53,3,7.04,14.09,21.14,25.37,32.89,Prophet,0.95,1.64,2025-12-09
+C001,SKU0154,K&N's Chicken Seekh Kabab 500g,K&N's,Frozen,46.93,11.41,0.24,3,32.51,140.78,173.29,207.95,328.49,Prophet,0.95,1.64,2025-12-09
+C001,SKU0158,Makkhan Paratha 20-pack,Makkhan,Frozen,8.75,2.1,0.24,3,5.99,26.25,32.23,38.68,61.25,Prophet,0.95,1.64,2025-12-09
+C001,SKU0157,Menu Plain Paratha 30-pack,Menu,Frozen,26.11,7.06,0.27,3,20.11,78.32,98.42,118.11,182.74,Prophet,0.95,1.64,2025-12-09
+C001,SKU0086,Dalda Cooking Oil 1L,Dalda,Grocery,3.08,0.99,0.32,3,2.82,9.24,12.05,14.46,21.55,Prophet,0.95,1.64,2025-12-09
+C001,SKU0087,Dalda Cooking Oil 2.5L,Dalda,Grocery,7.63,2.47,0.32,3,7.05,22.9,29.95,35.94,53.44,Prophet,0.95,1.64,2025-12-09
+C001,SKU0088,Dalda Cooking Oil 5L,Dalda,Grocery,23.79,7.18,0.3,3,20.46,71.36,91.81,110.18,166.5,Prophet,0.95,1.64,2025-12-09
+C001,SKU0091,Eva Cooking Oil 1L,Eva,Grocery,33.64,10.25,0.3,3,29.21,100.93,130.13,156.16,235.49,Prophet,0.95,1.64,2025-12-09
+C001,SKU0092,Eva Cooking Oil 5L,Eva,Grocery,33.3,9.3,0.28,3,26.5,99.9,126.4,151.68,233.1,Prophet,0.95,1.64,2025-12-09
+C001,SKU0102,Guard Super Basmati 10kg,Guard,Grocery,19.62,5.95,0.3,3,16.94,58.86,75.81,90.97,137.34,Prophet,0.95,1.64,2025-12-09
+C001,SKU0090,Habib Banaspati 2.5kg,Habib,Grocery,10.53,3.55,0.34,3,10.1,31.59,41.69,50.03,73.72,Prophet,0.95,1.64,2025-12-09
+C001,SKU0103,Mehran Basmati Rice 5kg,Mehran,Grocery,9.5,2.77,0.29,3,7.9,28.5,36.4,43.69,66.51,Prophet,0.95,1.64,2025-12-09
+C001,SKU0077,National Biryani Masala 50g,National,Grocery,18.09,4.75,0.26,3,13.54,54.27,67.8,81.36,126.62,Prophet,0.95,1.64,2025-12-09
+C001,SKU0079,National Korma Masala 50g,National,Grocery,29.97,8.01,0.27,3,22.82,89.92,112.74,135.29,209.82,Prophet,0.95,1.64,2025-12-09
+C001,SKU0080,National Nihari Masala 50g,National,Grocery,11.93,3.67,0.31,3,10.44,35.79,46.24,55.48,83.51,Prophet,0.95,1.64,2025-12-09
+C001,SKU0108,National Salt 800g,National,Grocery,25.57,7.56,0.3,3,21.54,76.7,98.24,117.89,178.98,Prophet,0.95,1.64,2025-12-09
+C001,SKU0082,Shan Biryani Masala 100g,Shan,Grocery,3.31,3.84,1.16,3,10.94,9.93,20.87,25.05,23.17,Prophet,0.95,1.64,2025-12-09
+C001,SKU0081,Shan Biryani Masala 50g,Shan,Grocery,9.07,2.61,0.29,3,7.45,27.2,34.64,41.57,63.46,Prophet,0.95,1.64,2025-12-09
+C001,SKU0084,Shan Chicken Karahi 50g,Shan,Grocery,5.3,1.31,0.25,3,3.74,15.9,19.64,23.57,37.09,Prophet,0.95,1.64,2025-12-09
+C001,SKU0083,Shan Chicken Tikka 50g,Shan,Grocery,19.81,6.12,0.31,3,17.43,59.44,76.87,92.24,138.69,Prophet,0.95,1.64,2025-12-09
+C001,SKU0109,Shan Red Chilli Powder 100g,Shan,Grocery,18.08,5.2,0.29,3,14.82,54.25,69.07,82.88,126.57,Prophet,0.95,1.64,2025-12-09
+C001,SKU0104,Shangrila Vermicelli 200g,Shangrila,Grocery,13.63,3.58,0.26,3,10.21,40.88,51.09,61.3,95.39,Prophet,0.95,1.64,2025-12-09
+C001,SKU0105,Shangrila Vermicelli 400g,Shangrila,Grocery,23.39,7.12,0.3,3,20.29,70.18,90.47,108.56,163.75,Prophet,0.95,1.64,2025-12-09
+C001,SKU0100,Sufi Basmati Rice 10kg,Sufi,Grocery,8.12,6.29,0.77,3,17.91,24.35,42.26,50.71,56.82,Prophet,0.95,1.64,2025-12-09
+C001,SKU0093,Tapal Danedar Tea 190g,Tapal,Grocery,5.79,2.39,0.41,3,6.82,17.37,24.19,29.02,40.53,Prophet,0.95,1.64,2025-12-09
+C001,SKU0094,Tapal Danedar Tea 475g,Tapal,Grocery,2.88,4.97,1.73,3,14.16,8.64,22.8,27.36,20.16,Prophet,0.95,1.64,2025-12-09
+C001,SKU0095,Tapal Danedar Tea 950g,Tapal,Grocery,15.85,5.47,0.35,3,15.59,47.54,63.12,75.75,110.92,Prophet,0.95,1.64,2025-12-09
+C001,SKU0098,Vital Tea 475g,Vital,Grocery,1.44,0.61,0.42,3,1.73,4.33,6.06,10.0,10.1,Prophet,0.95,1.64,2025-12-09
+C001,SKU0142,Ariel Detergent 3kg,Ariel,Household,15.72,3.84,0.24,3,10.94,47.16,58.1,69.72,110.03,Prophet,0.95,1.64,2025-12-09
+C001,SKU0143,Bonus Detergent 1kg,Bonus,Household,6.79,2.26,0.33,3,6.42,20.38,26.8,32.16,47.54,Prophet,0.95,1.64,2025-12-09
+C001,SKU0144,Bonus Detergent 3kg,Bonus,Household,21.53,5.39,0.25,3,15.35,64.58,79.93,95.92,150.7,Prophet,0.95,1.64,2025-12-09
+C001,SKU0148,Dettol Disinfectant 500ml,Dettol,Household,7.1,2.25,0.32,3,6.4,21.31,27.71,33.25,49.72,Prophet,0.95,1.64,2025-12-09
+C001,SKU0146,Harpic Toilet Cleaner 500ml,Harpic,Household,9.74,2.48,0.25,3,7.07,29.21,36.28,43.53,68.16,Prophet,0.95,1.64,2025-12-09
+C001,SKU0138,Surf Excel Detergent 1kg,Surf Excel,Household,17.59,4.45,0.25,3,12.66,52.76,65.42,78.51,123.1,Prophet,0.95,1.64,2025-12-09
+C001,SKU0139,Surf Excel Detergent 3kg,Surf Excel,Household,13.0,3.68,0.28,3,10.48,39.01,49.49,59.38,91.01,Prophet,0.95,1.64,2025-12-09
+C001,SKU0150,Vim Dishwash Bar 250g,Vim,Household,3.15,2.8,0.89,3,7.98,9.44,17.42,20.91,22.03,Prophet,0.95,1.64,2025-12-09
+C001,SKU0151,Vim Dishwash Bar 500g,Vim,Household,6.25,3.35,0.54,3,9.55,18.74,28.29,33.95,43.72,Prophet,0.95,1.64,2025-12-09
+C001,SKU0145,Wheel Detergent 1kg,Wheel,Household,16.45,4.66,0.28,3,13.28,49.36,62.64,75.17,115.18,Prophet,0.95,1.64,2025-12-09
+C001,SKU0131,Clear Shampoo 185ml,Clear,Personal_Care,17.26,4.5,0.26,3,12.83,51.77,64.6,77.52,120.79,Prophet,0.95,1.64,2025-12-09
+C001,SKU0132,Clear Shampoo 400ml,Clear,Personal_Care,21.21,7.57,0.36,3,21.57,63.64,85.21,102.25,148.49,Prophet,0.95,1.64,2025-12-09
+C001,SKU0136,Close Up Toothpaste 150g,Close Up,Personal_Care,26.02,6.79,0.26,3,19.36,78.06,97.42,116.9,182.15,Prophet,0.95,1.64,2025-12-09
+C001,SKU0134,Colgate Toothpaste 150g,Colgate,Personal_Care,10.93,3.48,0.32,3,9.91,32.8,42.71,51.25,76.53,Prophet,0.95,1.64,2025-12-09
+C001,SKU0133,Colgate Toothpaste 75g,Colgate,Personal_Care,19.78,5.35,0.27,3,15.23,59.35,74.58,89.5,138.49,Prophet,0.95,1.64,2025-12-09
+C001,SKU0118,Dove Beauty Bar 100g,Dove,Personal_Care,4.93,1.88,0.38,3,5.37,14.8,20.17,24.21,34.54,Prophet,0.95,1.64,2025-12-09
+C001,SKU0121,Fair & Lovely Cream 50g,Fair & Lovely,Personal_Care,1.61,0.45,0.28,3,1.29,4.84,6.12,10.0,11.29,Prophet,0.95,1.64,2025-12-09
+C001,SKU0127,Head & Shoulders Shampoo 185ml,Head & Shoulders,Personal_Care,23.99,6.01,0.25,3,17.12,71.96,89.08,106.89,167.9,Prophet,0.95,1.64,2025-12-09
+C001,SKU0128,Head & Shoulders Shampoo 400ml,Head & Shoulders,Personal_Care,7.1,1.94,0.27,3,5.53,21.3,26.83,32.19,49.7,Prophet,0.95,1.64,2025-12-09
+C001,SKU0115,Lifebuoy Soap 6-pack,Lifebuoy,Personal_Care,2.03,1.03,0.51,3,2.94,6.1,9.03,10.84,14.23,Prophet,0.95,1.64,2025-12-09
+C001,SKU0113,Lux Beauty Soap 6-pack,Lux,Personal_Care,4.24,1.49,0.35,3,4.25,12.73,16.99,20.38,29.71,Prophet,0.95,1.64,2025-12-09
+C001,SKU0116,Safeguard Soap 3-pack,Safeguard,Personal_Care,23.47,6.61,0.28,3,18.84,70.4,89.24,107.08,164.27,Prophet,0.95,1.64,2025-12-09
+C001,SKU0129,Sunsilk Shampoo 180ml,Sunsilk,Personal_Care,10.56,4.51,0.43,3,12.85,31.68,44.53,53.43,73.92,Prophet,0.95,1.64,2025-12-09
+C001,SKU0130,Sunsilk Shampoo 400ml,Sunsilk,Personal_Care,22.16,6.69,0.3,3,19.05,66.49,85.54,102.65,155.14,Prophet,0.95,1.64,2025-12-09
+C001,SKU0055,Cheetos Crunchy 48g,Cheetos,Snacks,29.68,7.85,0.26,3,22.37,89.04,111.41,133.69,207.76,Prophet,0.95,1.64,2025-12-09
+C001,SKU0061,Jubilee Chocolate Biscuit 90g,Jubilee,Snacks,3.25,1.17,0.36,3,3.33,9.75,13.09,15.71,22.76,Prophet,0.95,1.64,2025-12-09
+C001,SKU0062,Jubilee Coconut Biscuit 90g,Jubilee,Snacks,13.16,4.62,0.35,3,13.16,39.48,52.64,63.17,92.12,Prophet,0.95,1.64,2025-12-09
+C001,SKU0051,Kolson Slanty 18g,Kolson,Snacks,14.14,3.44,0.24,3,9.81,42.43,52.25,62.7,99.01,Prophet,0.95,1.64,2025-12-09
+C001,SKU0052,Kolson Slanty 40g,Kolson,Snacks,17.87,5.75,0.32,3,16.38,53.62,70.0,84.0,125.1,Prophet,0.95,1.64,2025-12-09
+C001,SKU0057,Kurkure Chatpata 110g,Kurkure,Snacks,28.61,7.06,0.25,3,20.12,85.84,105.96,127.15,200.3,Prophet,0.95,1.64,2025-12-09
+C001,SKU0048,Lays Masala Chips 68g,Lays,Snacks,3.4,2.77,0.82,3,7.9,10.19,18.09,21.7,23.78,Prophet,0.95,1.64,2025-12-09
+C001,SKU0049,Lays Masala Chips 90g,Lays,Snacks,18.65,5.38,0.29,3,15.34,55.94,71.27,85.53,130.52,Prophet,0.95,1.64,2025-12-09
+C001,SKU0050,Lays Wavy Chips 68g,Lays,Snacks,19.83,5.72,0.29,3,16.3,59.49,75.79,90.95,138.82,Prophet,0.95,1.64,2025-12-09
+C001,SKU0060,Peek Freans Chocolate Chip 90g,Peek Freans,Snacks,28.94,7.53,0.26,3,21.45,86.81,108.26,129.91,202.55,Prophet,0.95,1.64,2025-12-09
+C001,SKU0058,Peek Freans Sooper Biscuit Family Pack,Peek Freans,Snacks,13.26,4.06,0.31,3,11.58,39.78,51.36,61.63,92.82,Prophet,0.95,1.64,2025-12-09
+C001,SKU0059,Peek Freans Sooper Biscuit Half Roll,Peek Freans,Snacks,19.1,5.45,0.29,3,15.53,57.3,72.82,87.39,133.69,Prophet,0.95,1.64,2025-12-09
+C001,SKU0065,Rio Wafer 18g,Rio,Snacks,20.66,6.73,0.33,3,19.16,61.98,81.15,97.38,144.63,Prophet,0.95,1.64,2025-12-09
+C001,SKU0063,Sooper Cream Biscuit Half Roll,Sooper,Snacks,9.41,2.59,0.28,3,7.39,28.23,35.62,42.74,65.88,Prophet,0.95,1.64,2025-12-09
+C001,SKU0054,Super Crisp Nimko 200g,Super Crisp,Snacks,14.24,4.17,0.29,3,11.87,42.72,54.59,65.51,99.67,Prophet,0.95,1.64,2025-12-09
+C002,SKU0074,Bake Parlor Rusk Plain,Bake Parlor,Bakery,22.41,5.63,0.25,3,16.04,67.22,83.26,99.91,156.85,Prophet,0.95,1.64,2025-12-09
+C002,SKU0076,Dawn White Bread Medium,Dawn,Bakery,6.93,2.14,0.31,3,6.11,20.78,26.89,24.25,48.5,Prophet,0.95,1.64,2025-12-09
+C002,SKU0069,English Biscuit Brown Bread Medium,English Biscuit,Bakery,24.8,7.01,0.28,3,19.98,74.41,94.39,86.81,173.62,Prophet,0.95,1.64,2025-12-09
+C002,SKU0068,English Biscuit White Bread Large,English Biscuit,Bakery,1.97,1.07,0.54,3,3.04,5.92,8.96,10.0,13.81,Prophet,0.95,1.64,2025-12-09
+C002,SKU0067,English Biscuit White Bread Medium,English Biscuit,Bakery,19.26,5.37,0.28,3,15.29,57.77,73.06,67.39,134.79,Prophet,0.95,1.64,2025-12-09
+C002,SKU0071,Peek Freans Cake Rusk Regular,Peek Freans,Bakery,19.14,5.17,0.27,3,14.72,57.43,72.15,86.58,133.99,Prophet,0.95,1.64,2025-12-09
+C002,SKU0073,Young's Milk Rusk 300g,Young's,Bakery,16.65,4.31,0.26,3,12.28,49.95,62.23,74.68,116.55,Prophet,0.95,1.64,2025-12-09
+C002,SKU0028,7UP 7UP 1.5L,7UP,Beverages,9.21,2.88,0.31,3,8.22,27.63,35.85,43.02,64.48,Prophet,0.95,1.64,2025-12-09
+C002,SKU0026,7UP 7UP 250ml,7UP,Beverages,11.81,6.67,0.56,3,18.99,35.42,54.42,65.3,82.65,Prophet,0.95,1.64,2025-12-09
+C002,SKU0040,Aquafina Water 1.5L,Aquafina,Beverages,8.96,4.72,0.53,3,13.44,26.89,40.33,48.4,62.74,Prophet,0.95,1.64,2025-12-09
+C002,SKU0020,Coca Cola Coke 1.5L,Coca Cola,Beverages,17.77,5.78,0.33,3,16.46,53.3,69.77,83.72,124.37,Prophet,0.95,1.64,2025-12-09
+C002,SKU0021,Coca Cola Coke 2.25L,Coca Cola,Beverages,15.2,5.5,0.36,3,15.66,45.6,61.27,73.52,106.41,Prophet,0.95,1.64,2025-12-09
+C002,SKU0018,Coca Cola Coke 250ml,Coca Cola,Beverages,19.76,5.27,0.27,3,15.01,59.28,74.3,89.16,138.33,Prophet,0.95,1.64,2025-12-09
+C002,SKU0019,Coca Cola Coke 500ml,Coca Cola,Beverages,11.29,3.6,0.32,3,10.26,33.88,44.14,52.97,79.05,Prophet,0.95,1.64,2025-12-09
+C002,SKU0033,Fanta Orange 1.5L,Fanta,Beverages,18.29,6.09,0.33,3,17.35,54.86,72.22,86.66,128.02,Prophet,0.95,1.64,2025-12-09
+C002,SKU0032,Fanta Orange 500ml,Fanta,Beverages,21.44,5.16,0.24,3,14.71,64.31,79.02,94.83,150.06,Prophet,0.95,1.64,2025-12-09
+C002,SKU0043,Gourmet Green Tea 100 bags,Gourmet,Beverages,10.14,4.2,0.41,3,11.98,30.43,42.41,50.89,71.01,Prophet,0.95,1.64,2025-12-09
+C002,SKU0041,Gourmet Green Tea 25 bags,Gourmet,Beverages,4.34,2.1,0.48,3,5.97,13.01,18.98,22.77,30.35,Prophet,0.95,1.64,2025-12-09
+C002,SKU0042,Gourmet Green Tea 50 bags,Gourmet,Beverages,16.12,4.78,0.3,3,13.63,48.35,61.97,74.37,112.81,Prophet,0.95,1.64,2025-12-09
+C002,SKU0044,Lipton Yellow Label Tea 100 bags,Lipton,Beverages,26.67,7.97,0.3,3,22.71,80.01,102.72,123.27,186.7,Prophet,0.95,1.64,2025-12-09
+C002,SKU0037,Nestle Pure Life Water 500ml,Nestle,Beverages,13.83,5.86,0.42,3,16.71,41.49,58.19,69.83,96.8,Prophet,0.95,1.64,2025-12-09
+C002,SKU0024,Pepsi Pepsi 1.5L,Pepsi,Beverages,7.48,2.79,0.37,3,7.94,22.43,30.37,36.44,52.35,Prophet,0.95,1.64,2025-12-09
+C002,SKU0025,Pepsi Pepsi 2.25L,Pepsi,Beverages,9.89,3.72,0.38,3,10.61,29.66,40.27,48.32,69.2,Prophet,0.95,1.64,2025-12-09
+C002,SKU0023,Pepsi Pepsi 500ml,Pepsi,Beverages,1.07,0.4,0.37,3,1.13,3.22,4.35,10.0,7.52,Prophet,0.95,1.64,2025-12-09
+C002,SKU0036,Shezan Apple Juice 1L,Shezan,Beverages,19.77,6.24,0.32,3,17.78,59.32,77.1,92.52,138.41,Prophet,0.95,1.64,2025-12-09
+C002,SKU0029,Sprite Sprite 250ml,Sprite,Beverages,12.27,8.38,0.68,3,23.86,36.82,60.69,72.82,85.92,Prophet,0.95,1.64,2025-12-09
+C002,SKU0030,Sprite Sprite 500ml,Sprite,Beverages,13.27,4.06,0.31,3,11.56,39.8,51.36,61.63,92.87,Prophet,0.95,1.64,2025-12-09
+C002,SKU0046,Vital Energy Drink 250ml,Vital,Beverages,1.92,0.54,0.28,3,1.54,5.76,7.3,10.0,13.44,Prophet,0.95,1.64,2025-12-09
+C002,SKU0006,Haleeb Fresh Milk 1L,Haleeb,Dairy,12.02,4.74,0.39,3,13.5,36.07,49.58,59.49,84.17,Prophet,0.95,1.64,2025-12-09
+C002,SKU0007,Haleeb Fresh Milk 500ml,Haleeb,Dairy,9.53,2.63,0.28,3,7.49,28.6,36.09,43.31,66.72,Prophet,0.95,1.64,2025-12-09
+C002,SKU0001,Nestle Everyday Milk 1L,Nestle,Dairy,8.14,2.82,0.35,3,8.03,24.43,32.46,38.95,57.01,Prophet,0.95,1.64,2025-12-09
+C002,SKU0003,Nestle Everyday Milk 250ml,Nestle,Dairy,6.66,4.59,0.69,3,13.08,19.97,33.05,39.66,46.6,Prophet,0.95,1.64,2025-12-09
+C002,SKU0002,Nestle Everyday Milk 500ml,Nestle,Dairy,24.39,7.08,0.29,3,20.16,73.18,93.34,112.01,170.76,Prophet,0.95,1.64,2025-12-09
+C002,SKU0011,Nestle Yogurt 400g,Nestle,Dairy,14.85,5.05,0.34,3,14.39,44.56,58.95,70.74,103.97,Prophet,0.95,1.64,2025-12-09
+C002,SKU0012,Nestle Yogurt 900g,Nestle,Dairy,15.43,4.7,0.3,3,13.4,46.29,59.68,71.62,108.0,Prophet,0.95,1.64,2025-12-09
+C002,SKU0017,Nurpur Butter 200g,Nurpur,Dairy,6.97,2.34,0.34,3,6.67,20.91,27.58,33.1,48.8,Prophet,0.95,1.64,2025-12-09
+C002,SKU0008,Nurpur Milk 1L,Nurpur,Dairy,9.62,3.47,0.36,3,9.87,28.85,38.73,46.47,67.33,Prophet,0.95,1.64,2025-12-09
+C002,SKU0009,Nurpur Milk 500ml,Nurpur,Dairy,17.47,7.33,0.42,3,20.88,52.41,73.29,87.95,122.3,Prophet,0.95,1.64,2025-12-09
+C002,SKU0015,Olpers Cheese Slices 200g,Olpers,Dairy,2.51,0.57,0.23,3,1.63,7.52,9.15,10.98,17.55,Prophet,0.95,1.64,2025-12-09
+C002,SKU0014,Tarang Dahi 1kg,Tarang,Dairy,22.41,10.01,0.45,3,28.52,67.24,95.77,114.92,156.9,Prophet,0.95,1.64,2025-12-09
+C002,SKU0013,Tarang Dahi 500g,Tarang,Dairy,18.96,8.37,0.44,3,23.85,56.89,80.74,96.89,132.75,Prophet,0.95,1.64,2025-12-09
+C002,SKU0153,K&N's Chicken Nuggets 1kg,K&N's,Frozen,3.0,1.7,0.57,3,4.83,9.0,13.83,16.6,21.0,Prophet,0.95,1.64,2025-12-09
+C002,SKU0152,K&N's Chicken Nuggets 500g,K&N's,Frozen,7.39,1.6,0.22,3,4.57,22.18,26.75,32.1,51.75,Prophet,0.95,1.64,2025-12-09
+C002,SKU0155,K&N's Chicken Patties 12-pack,K&N's,Frozen,25.67,6.94,0.27,3,19.78,77.0,96.78,116.14,179.66,Prophet,0.95,1.64,2025-12-09
+C002,SKU0158,Makkhan Paratha 20-pack,Makkhan,Frozen,3.32,1.04,0.31,3,2.97,9.96,12.93,15.52,23.25,Prophet,0.95,1.64,2025-12-09
+C002,SKU0156,Menu Plain Paratha 20-pack,Menu,Frozen,23.24,6.2,0.27,3,17.68,69.72,87.4,104.88,162.68,Prophet,0.95,1.64,2025-12-09
+C002,SKU0086,Dalda Cooking Oil 1L,Dalda,Grocery,19.05,5.93,0.31,3,16.91,57.14,74.04,88.85,133.32,Prophet,0.95,1.64,2025-12-09
+C002,SKU0087,Dalda Cooking Oil 2.5L,Dalda,Grocery,5.76,1.64,0.28,3,4.67,17.29,21.96,26.35,40.34,Prophet,0.95,1.64,2025-12-09
+C002,SKU0088,Dalda Cooking Oil 5L,Dalda,Grocery,8.89,4.02,0.45,3,11.45,26.67,38.12,45.74,62.23,Prophet,0.95,1.64,2025-12-09
+C002,SKU0091,Eva Cooking Oil 1L,Eva,Grocery,8.28,2.58,0.31,3,7.34,24.85,32.19,38.63,57.98,Prophet,0.95,1.64,2025-12-09
+C002,SKU0102,Guard Super Basmati 10kg,Guard,Grocery,19.86,5.44,0.27,3,15.51,59.57,75.08,90.1,139.01,Prophet,0.95,1.64,2025-12-09
+C002,SKU0090,Habib Banaspati 2.5kg,Habib,Grocery,15.95,4.89,0.31,3,13.93,47.85,61.78,74.14,111.66,Prophet,0.95,1.64,2025-12-09
+C002,SKU0107,Kolson Macaroni 400g,Kolson,Grocery,15.53,5.69,0.37,3,16.2,46.58,62.78,75.34,108.68,Prophet,0.95,1.64,2025-12-09
+C002,SKU0096,Lipton Yellow Label 200g,Lipton,Grocery,2.02,0.58,0.29,3,1.65,6.06,7.7,10.0,14.13,Prophet,0.95,1.64,2025-12-09
+C002,SKU0103,Mehran Basmati Rice 5kg,Mehran,Grocery,15.21,4.54,0.3,3,12.93,45.63,58.55,70.27,106.47,Prophet,0.95,1.64,2025-12-09
+C002,SKU0085,Mehran Seekh Kabab 50g,Mehran,Grocery,13.04,3.41,0.26,3,9.71,39.13,48.85,58.61,91.31,Prophet,0.95,1.64,2025-12-09
+C002,SKU0080,National Nihari Masala 50g,National,Grocery,4.73,3.41,0.72,3,9.73,14.18,23.91,28.69,33.09,Prophet,0.95,1.64,2025-12-09
+C002,SKU0111,National Turmeric Powder 100g,National,Grocery,20.38,6.3,0.31,3,17.96,61.14,79.1,94.92,142.67,Prophet,0.95,1.64,2025-12-09
+C002,SKU0082,Shan Biryani Masala 100g,Shan,Grocery,24.6,7.0,0.28,3,19.93,73.81,93.74,112.49,172.23,Prophet,0.95,1.64,2025-12-09
+C002,SKU0081,Shan Biryani Masala 50g,Shan,Grocery,10.0,4.41,0.44,3,12.56,29.99,42.55,51.06,69.99,Prophet,0.95,1.64,2025-12-09
+C002,SKU0083,Shan Chicken Tikka 50g,Shan,Grocery,10.39,7.29,0.7,3,20.77,31.18,51.95,62.34,72.76,Prophet,0.95,1.64,2025-12-09
+C002,SKU0104,Shangrila Vermicelli 200g,Shangrila,Grocery,32.05,7.73,0.24,3,22.01,96.15,118.15,141.79,224.34,Prophet,0.95,1.64,2025-12-09
+C002,SKU0105,Shangrila Vermicelli 400g,Shangrila,Grocery,4.72,1.63,0.35,3,4.65,14.16,18.81,22.57,33.05,Prophet,0.95,1.64,2025-12-09
+C002,SKU0100,Sufi Basmati Rice 10kg,Sufi,Grocery,16.45,4.63,0.28,3,13.18,49.34,62.53,75.03,115.14,Prophet,0.95,1.64,2025-12-09
+C002,SKU0093,Tapal Danedar Tea 190g,Tapal,Grocery,13.5,5.15,0.38,3,14.66,40.51,55.18,66.21,94.53,Prophet,0.95,1.64,2025-12-09
+C002,SKU0094,Tapal Danedar Tea 475g,Tapal,Grocery,15.74,5.08,0.32,3,14.46,47.22,61.68,74.02,110.17,Prophet,0.95,1.64,2025-12-09
+C002,SKU0098,Vital Tea 475g,Vital,Grocery,0.15,2.11,14.48,3,6.0,0.44,6.44,10.0,1.02,Prophet,0.95,1.64,2025-12-09
+C002,SKU0142,Ariel Detergent 3kg,Ariel,Household,19.72,6.95,0.35,3,19.79,59.15,78.94,94.72,138.01,Prophet,0.95,1.64,2025-12-09
+C002,SKU0143,Bonus Detergent 1kg,Bonus,Household,3.25,1.4,0.43,3,3.97,9.76,13.73,16.48,22.77,Prophet,0.95,1.64,2025-12-09
+C002,SKU0149,Colin Glass Cleaner 500ml,Colin,Household,19.7,5.3,0.27,3,15.11,59.1,74.21,89.05,137.9,Prophet,0.95,1.64,2025-12-09
+C002,SKU0148,Dettol Disinfectant 500ml,Dettol,Household,15.48,4.19,0.27,3,11.94,46.43,58.37,70.05,108.34,Prophet,0.95,1.64,2025-12-09
+C002,SKU0147,Harpic Toilet Cleaner 1L,Harpic,Household,14.48,3.65,0.25,3,10.41,43.43,53.84,64.61,101.35,Prophet,0.95,1.64,2025-12-09
+C002,SKU0138,Surf Excel Detergent 1kg,Surf Excel,Household,8.14,3.3,0.4,3,9.39,24.43,33.82,40.58,57.0,Prophet,0.95,1.64,2025-12-09
+C002,SKU0140,Surf Excel Detergent 6kg,Surf Excel,Household,22.37,8.55,0.38,3,24.37,67.1,91.46,109.76,156.56,Prophet,0.95,1.64,2025-12-09
+C002,SKU0151,Vim Dishwash Bar 500g,Vim,Household,8.2,1.95,0.24,3,5.56,24.61,30.17,36.2,57.43,Prophet,0.95,1.64,2025-12-09
+C002,SKU0145,Wheel Detergent 1kg,Wheel,Household,18.17,6.34,0.35,3,18.05,54.5,72.55,87.06,127.16,Prophet,0.95,1.64,2025-12-09
+C002,SKU0131,Clear Shampoo 185ml,Clear,Personal_Care,13.56,3.86,0.28,3,11.0,40.67,51.67,62.0,94.9,Prophet,0.95,1.64,2025-12-09
+C002,SKU0132,Clear Shampoo 400ml,Clear,Personal_Care,5.8,1.71,0.29,3,4.87,17.39,22.26,26.72,40.59,Prophet,0.95,1.64,2025-12-09
+C002,SKU0136,Close Up Toothpaste 150g,Close Up,Personal_Care,4.38,1.33,0.3,3,3.78,13.13,16.91,20.3,30.63,Prophet,0.95,1.64,2025-12-09
+C002,SKU0135,Close Up Toothpaste 75g,Close Up,Personal_Care,12.74,3.86,0.3,3,11.0,38.21,49.21,59.06,89.16,Prophet,0.95,1.64,2025-12-09
+C002,SKU0134,Colgate Toothpaste 150g,Colgate,Personal_Care,12.01,5.74,0.48,3,16.37,36.04,52.4,62.89,84.09,Prophet,0.95,1.64,2025-12-09
+C002,SKU0133,Colgate Toothpaste 75g,Colgate,Personal_Care,7.28,2.18,0.3,3,6.2,21.85,28.05,33.66,50.98,Prophet,0.95,1.64,2025-12-09
+C002,SKU0118,Dove Beauty Bar 100g,Dove,Personal_Care,15.21,4.87,0.32,3,13.87,45.64,59.51,71.41,106.48,Prophet,0.95,1.64,2025-12-09
+C002,SKU0121,Fair & Lovely Cream 50g,Fair & Lovely,Personal_Care,18.56,4.8,0.26,3,13.69,55.68,69.37,83.25,129.93,Prophet,0.95,1.64,2025-12-09
+C002,SKU0128,Head & Shoulders Shampoo 400ml,Head & Shoulders,Personal_Care,29.16,8.28,0.28,3,23.6,87.48,111.08,133.3,204.13,Prophet,0.95,1.64,2025-12-09
+C002,SKU0115,Lifebuoy Soap 6-pack,Lifebuoy,Personal_Care,5.08,5.38,1.06,3,15.33,15.24,30.57,36.69,35.57,Prophet,0.95,1.64,2025-12-09
+C002,SKU0113,Lux Beauty Soap 6-pack,Lux,Personal_Care,13.9,3.86,0.28,3,10.99,41.7,52.7,63.23,97.31,Prophet,0.95,1.64,2025-12-09
+C002,SKU0124,Pantene Shampoo 180ml,Pantene,Personal_Care,24.44,6.82,0.28,3,19.43,73.31,92.74,111.29,171.05,Prophet,0.95,1.64,2025-12-09
+C002,SKU0125,Pantene Shampoo 400ml,Pantene,Personal_Care,12.62,3.81,0.3,3,10.84,37.87,48.72,58.46,88.37,Prophet,0.95,1.64,2025-12-09
+C002,SKU0126,Pantene Shampoo 650ml,Pantene,Personal_Care,15.15,6.58,0.43,3,18.74,45.45,64.19,77.03,106.06,Prophet,0.95,1.64,2025-12-09
+C002,SKU0116,Safeguard Soap 3-pack,Safeguard,Personal_Care,12.92,4.51,0.35,3,12.84,38.76,51.61,61.93,90.44,Prophet,0.95,1.64,2025-12-09
+C002,SKU0137,Sensodyne Toothpaste 75g,Sensodyne,Personal_Care,17.22,4.88,0.28,3,13.91,51.65,65.55,78.66,120.51,Prophet,0.95,1.64,2025-12-09
+C002,SKU0129,Sunsilk Shampoo 180ml,Sunsilk,Personal_Care,12.51,3.76,0.3,3,10.72,37.53,48.25,57.9,87.57,Prophet,0.95,1.64,2025-12-09
+C002,SKU0130,Sunsilk Shampoo 400ml,Sunsilk,Personal_Care,2.17,0.99,0.46,3,2.82,6.5,9.32,11.19,15.17,Prophet,0.95,1.64,2025-12-09
+C002,SKU0055,Cheetos Crunchy 48g,Cheetos,Snacks,8.22,3.06,0.37,3,8.71,24.67,33.38,40.06,57.56,Prophet,0.95,1.64,2025-12-09
+C002,SKU0062,Jubilee Coconut Biscuit 90g,Jubilee,Snacks,28.83,8.79,0.31,3,25.05,86.48,111.53,133.84,201.79,Prophet,0.95,1.64,2025-12-09
+C002,SKU0051,Kolson Slanty 18g,Kolson,Snacks,9.6,2.42,0.25,3,6.91,28.81,35.71,42.86,67.21,Prophet,0.95,1.64,2025-12-09
+C002,SKU0052,Kolson Slanty 40g,Kolson,Snacks,16.01,4.13,0.26,3,11.77,48.04,59.81,71.77,112.1,Prophet,0.95,1.64,2025-12-09
+C002,SKU0049,Lays Masala Chips 90g,Lays,Snacks,16.3,4.76,0.29,3,13.57,48.89,62.46,74.95,114.08,Prophet,0.95,1.64,2025-12-09
+C002,SKU0050,Lays Wavy Chips 68g,Lays,Snacks,12.58,3.64,0.29,3,10.38,37.74,48.11,57.74,88.05,Prophet,0.95,1.64,2025-12-09
+C002,SKU0060,Peek Freans Chocolate Chip 90g,Peek Freans,Snacks,24.57,6.32,0.26,3,18.01,73.71,91.72,110.06,171.98,Prophet,0.95,1.64,2025-12-09
+C002,SKU0058,Peek Freans Sooper Biscuit Family Pack,Peek Freans,Snacks,15.49,4.14,0.27,3,11.8,46.46,58.25,69.91,108.41,Prophet,0.95,1.64,2025-12-09
+C002,SKU0059,Peek Freans Sooper Biscuit Half Roll,Peek Freans,Snacks,30.9,10.02,0.32,3,28.54,92.7,121.24,145.49,216.3,Prophet,0.95,1.64,2025-12-09
+C002,SKU0065,Rio Wafer 18g,Rio,Snacks,3.0,0.97,0.32,3,2.77,8.99,11.76,14.12,20.98,Prophet,0.95,1.64,2025-12-09
+C002,SKU0064,Sooper Cream Biscuit Full Roll,Sooper,Snacks,17.13,4.57,0.27,3,13.01,51.39,64.4,77.28,119.92,Prophet,0.95,1.64,2025-12-09
+C002,SKU0063,Sooper Cream Biscuit Half Roll,Sooper,Snacks,16.6,5.34,0.32,3,15.22,49.81,65.03,78.04,116.23,Prophet,0.95,1.64,2025-12-09
+C002,SKU0053,Super Crisp Nimko 100g,Super Crisp,Snacks,7.77,2.35,0.3,3,6.69,23.3,29.99,35.99,54.37,Prophet,0.95,1.64,2025-12-09
+C003,SKU0076,Dawn White Bread Medium,Dawn,Bakery,1.53,0.39,0.25,3,1.11,4.6,5.71,10.0,10.73,Prophet,0.95,1.64,2025-12-09
+C003,SKU0067,English Biscuit White Bread Medium,English Biscuit,Bakery,16.29,4.36,0.27,3,12.42,48.86,61.28,57.01,114.01,Prophet,0.95,1.64,2025-12-09
+C003,SKU0072,Peek Freans Cake Rusk Chocolate,Peek Freans,Bakery,15.01,5.01,0.33,3,14.27,45.02,59.29,71.15,105.04,Prophet,0.95,1.64,2025-12-09
+C003,SKU0071,Peek Freans Cake Rusk Regular,Peek Freans,Bakery,4.63,1.52,0.33,3,4.34,13.9,18.25,21.89,32.44,Prophet,0.95,1.64,2025-12-09
+C003,SKU0073,Young's Milk Rusk 300g,Young's,Bakery,15.78,4.64,0.29,3,13.23,47.33,60.56,72.67,110.45,Prophet,0.95,1.64,2025-12-09
+C003,SKU0026,7UP 7UP 250ml,7UP,Beverages,14.02,4.5,0.32,3,12.82,42.05,54.87,65.84,98.11,Prophet,0.95,1.64,2025-12-09
+C003,SKU0040,Aquafina Water 1.5L,Aquafina,Beverages,11.91,4.41,0.37,3,12.57,35.73,48.3,57.96,83.38,Prophet,0.95,1.64,2025-12-09
+C003,SKU0039,Aquafina Water 500ml,Aquafina,Beverages,15.36,4.22,0.27,3,12.01,46.07,58.08,69.69,107.49,Prophet,0.95,1.64,2025-12-09
+C003,SKU0021,Coca Cola Coke 2.25L,Coca Cola,Beverages,16.73,4.86,0.29,3,13.83,50.2,64.04,76.84,117.13,Prophet,0.95,1.64,2025-12-09
+C003,SKU0033,Fanta Orange 1.5L,Fanta,Beverages,8.93,2.35,0.26,3,6.69,26.79,33.48,40.17,62.5,Prophet,0.95,1.64,2025-12-09
+C003,SKU0032,Fanta Orange 500ml,Fanta,Beverages,9.75,5.68,0.58,3,16.17,29.25,45.42,54.51,68.26,Prophet,0.95,1.64,2025-12-09
+C003,SKU0043,Gourmet Green Tea 100 bags,Gourmet,Beverages,16.37,4.3,0.26,3,12.26,49.11,61.37,73.65,114.59,Prophet,0.95,1.64,2025-12-09
+C003,SKU0041,Gourmet Green Tea 25 bags,Gourmet,Beverages,1.92,0.81,0.42,3,2.3,5.76,8.07,10.0,13.45,Prophet,0.95,1.64,2025-12-09
+C003,SKU0044,Lipton Yellow Label Tea 100 bags,Lipton,Beverages,5.67,1.67,0.29,3,4.75,17.01,21.76,26.11,39.69,Prophet,0.95,1.64,2025-12-09
+C003,SKU0037,Nestle Pure Life Water 500ml,Nestle,Beverages,26.6,7.53,0.28,3,21.45,79.81,101.26,121.51,186.21,Prophet,0.95,1.64,2025-12-09
+C003,SKU0025,Pepsi Pepsi 2.25L,Pepsi,Beverages,24.69,6.43,0.26,3,18.31,74.06,92.37,110.84,172.81,Prophet,0.95,1.64,2025-12-09
+C003,SKU0022,Pepsi Pepsi 250ml,Pepsi,Beverages,12.58,3.36,0.27,3,9.56,37.75,47.31,56.77,88.07,Prophet,0.95,1.64,2025-12-09
+C003,SKU0034,Shezan Mango Juice 250ml,Shezan,Beverages,1.8,0.52,0.29,3,1.48,5.41,6.9,10.0,12.63,Prophet,0.95,1.64,2025-12-09
+C003,SKU0029,Sprite Sprite 250ml,Sprite,Beverages,9.24,2.93,0.32,3,8.33,27.73,36.06,43.27,64.7,Prophet,0.95,1.64,2025-12-09
+C003,SKU0030,Sprite Sprite 500ml,Sprite,Beverages,15.73,5.9,0.38,3,16.82,47.18,64.0,76.8,110.1,Prophet,0.95,1.64,2025-12-09
+C003,SKU0046,Vital Energy Drink 250ml,Vital,Beverages,23.67,7.85,0.33,3,22.36,71.0,93.36,112.03,165.67,Prophet,0.95,1.64,2025-12-09
+C003,SKU0006,Haleeb Fresh Milk 1L,Haleeb,Dairy,8.32,3.65,0.44,3,10.4,24.95,35.36,42.43,58.22,Prophet,0.95,1.64,2025-12-09
+C003,SKU0001,Nestle Everyday Milk 1L,Nestle,Dairy,16.53,5.49,0.33,3,15.63,49.59,65.22,78.26,115.71,Prophet,0.95,1.64,2025-12-09
+C003,SKU0017,Nurpur Butter 200g,Nurpur,Dairy,2.3,0.86,0.38,3,2.46,6.89,9.35,11.22,16.07,Prophet,0.95,1.64,2025-12-09
+C003,SKU0008,Nurpur Milk 1L,Nurpur,Dairy,34.66,9.17,0.26,3,26.14,103.97,130.11,156.13,242.6,Prophet,0.95,1.64,2025-12-09
+C003,SKU0015,Olpers Cheese Slices 200g,Olpers,Dairy,15.29,3.99,0.26,3,11.37,45.87,57.24,68.69,107.02,Prophet,0.95,1.64,2025-12-09
+C003,SKU0004,Olpers Full Cream Milk 1L,Olpers,Dairy,15.81,5.15,0.33,3,14.67,47.44,62.1,74.52,110.68,Prophet,0.95,1.64,2025-12-09
+C003,SKU0005,Olpers Full Cream Milk 500ml,Olpers,Dairy,8.56,2.07,0.24,3,5.89,25.67,31.56,37.87,59.89,Prophet,0.95,1.64,2025-12-09
+C003,SKU0014,Tarang Dahi 1kg,Tarang,Dairy,3.75,2.32,0.62,3,6.6,11.24,17.84,21.41,26.22,Prophet,0.95,1.64,2025-12-09
+C003,SKU0013,Tarang Dahi 500g,Tarang,Dairy,19.68,5.22,0.27,3,14.86,59.05,73.92,88.7,137.79,Prophet,0.95,1.64,2025-12-09
+C003,SKU0152,K&N's Chicken Nuggets 500g,K&N's,Frozen,1.45,0.4,0.28,3,1.15,4.34,5.49,10.0,10.12,Prophet,0.95,1.64,2025-12-09
+C003,SKU0155,K&N's Chicken Patties 12-pack,K&N's,Frozen,8.34,2.41,0.29,3,6.86,25.02,31.88,38.26,58.38,Prophet,0.95,1.64,2025-12-09
+C003,SKU0158,Makkhan Paratha 20-pack,Makkhan,Frozen,17.16,5.08,0.3,3,14.46,51.48,65.94,79.13,120.13,Prophet,0.95,1.64,2025-12-09
+C003,SKU0156,Menu Plain Paratha 20-pack,Menu,Frozen,26.28,7.99,0.3,3,22.76,78.85,101.61,121.93,183.99,Prophet,0.95,1.64,2025-12-09
+C003,SKU0157,Menu Plain Paratha 30-pack,Menu,Frozen,22.33,7.31,0.33,3,20.84,67.0,87.84,105.4,156.33,Prophet,0.95,1.64,2025-12-09
+C003,SKU0160,Walls Magnum Single,Walls,Frozen,21.15,6.51,0.31,3,18.55,63.44,81.99,98.39,148.03,Prophet,0.95,1.64,2025-12-09
+C003,SKU0086,Dalda Cooking Oil 1L,Dalda,Grocery,13.19,3.52,0.27,3,10.02,39.56,49.58,59.49,92.31,Prophet,0.95,1.64,2025-12-09
+C003,SKU0087,Dalda Cooking Oil 2.5L,Dalda,Grocery,12.26,4.3,0.35,3,12.26,36.79,49.05,58.86,85.85,Prophet,0.95,1.64,2025-12-09
+C003,SKU0088,Dalda Cooking Oil 5L,Dalda,Grocery,32.37,9.05,0.28,3,25.78,97.11,122.89,147.47,226.59,Prophet,0.95,1.64,2025-12-09
+C003,SKU0091,Eva Cooking Oil 1L,Eva,Grocery,15.14,7.83,0.52,3,22.3,45.43,67.73,81.27,105.99,Prophet,0.95,1.64,2025-12-09
+C003,SKU0102,Guard Super Basmati 10kg,Guard,Grocery,8.3,3.26,0.39,3,9.29,24.89,34.18,41.02,58.08,Prophet,0.95,1.64,2025-12-09
+C003,SKU0101,Guard Super Basmati 5kg,Guard,Grocery,10.1,3.43,0.34,3,9.76,30.3,40.07,48.08,70.71,Prophet,0.95,1.64,2025-12-09
+C003,SKU0089,Habib Banaspati 1kg,Habib,Grocery,3.2,0.78,0.24,3,2.21,9.6,11.81,14.17,22.39,Prophet,0.95,1.64,2025-12-09
+C003,SKU0106,Kolson Macaroni 200g,Kolson,Grocery,23.64,6.65,0.28,3,18.95,70.93,89.88,107.85,165.5,Prophet,0.95,1.64,2025-12-09
+C003,SKU0097,Lipton Yellow Label 450g,Lipton,Grocery,9.1,6.09,0.67,3,17.34,27.29,44.62,53.55,63.67,Prophet,0.95,1.64,2025-12-09
+C003,SKU0085,Mehran Seekh Kabab 50g,Mehran,Grocery,10.78,3.42,0.32,3,9.74,32.34,42.08,50.49,75.46,Prophet,0.95,1.64,2025-12-09
+C003,SKU0080,National Nihari Masala 50g,National,Grocery,25.4,6.84,0.27,3,19.47,76.21,95.69,114.82,177.83,Prophet,0.95,1.64,2025-12-09
+C003,SKU0108,National Salt 800g,National,Grocery,11.93,3.61,0.3,3,10.28,35.8,46.08,55.3,83.54,Prophet,0.95,1.64,2025-12-09
+C003,SKU0082,Shan Biryani Masala 100g,Shan,Grocery,16.55,4.31,0.26,3,12.27,49.66,61.94,74.32,115.88,Prophet,0.95,1.64,2025-12-09
+C003,SKU0081,Shan Biryani Masala 50g,Shan,Grocery,7.76,2.35,0.3,3,6.68,23.28,29.96,35.96,54.32,Prophet,0.95,1.64,2025-12-09
+C003,SKU0084,Shan Chicken Karahi 50g,Shan,Grocery,32.61,8.58,0.26,3,24.44,97.84,122.28,146.74,228.3,Prophet,0.95,1.64,2025-12-09
+C003,SKU0083,Shan Chicken Tikka 50g,Shan,Grocery,7.98,2.67,0.33,3,7.59,23.94,31.53,37.84,55.85,Prophet,0.95,1.64,2025-12-09
+C003,SKU0110,Shan Red Chilli Powder 200g,Shan,Grocery,34.81,8.94,0.26,3,25.48,104.43,129.91,155.89,243.67,Prophet,0.95,1.64,2025-12-09
+C003,SKU0104,Shangrila Vermicelli 200g,Shangrila,Grocery,16.2,8.0,0.49,3,22.8,48.6,71.39,85.67,113.39,Prophet,0.95,1.64,2025-12-09
+C003,SKU0105,Shangrila Vermicelli 400g,Shangrila,Grocery,2.29,0.66,0.29,3,1.89,6.87,8.76,10.51,16.03,Prophet,0.95,1.64,2025-12-09
+C003,SKU0100,Sufi Basmati Rice 10kg,Sufi,Grocery,13.19,4.27,0.32,3,12.17,39.58,51.76,62.11,92.36,Prophet,0.95,1.64,2025-12-09
+C003,SKU0094,Tapal Danedar Tea 475g,Tapal,Grocery,16.63,6.92,0.42,3,19.71,49.88,69.59,83.5,116.38,Prophet,0.95,1.64,2025-12-09
+C003,SKU0098,Vital Tea 475g,Vital,Grocery,11.26,3.93,0.35,3,11.2,33.78,44.97,53.97,78.81,Prophet,0.95,1.64,2025-12-09
+C003,SKU0142,Ariel Detergent 3kg,Ariel,Household,9.34,2.94,0.31,3,8.36,28.03,36.39,43.67,65.39,Prophet,0.95,1.64,2025-12-09
+C003,SKU0144,Bonus Detergent 3kg,Bonus,Household,17.01,4.11,0.24,3,11.7,51.03,62.73,75.28,119.07,Prophet,0.95,1.64,2025-12-09
+C003,SKU0149,Colin Glass Cleaner 500ml,Colin,Household,22.45,6.7,0.3,3,19.09,67.36,86.45,103.73,157.17,Prophet,0.95,1.64,2025-12-09
+C003,SKU0148,Dettol Disinfectant 500ml,Dettol,Household,12.05,3.44,0.29,3,9.8,36.14,45.94,55.13,84.33,Prophet,0.95,1.64,2025-12-09
+C003,SKU0147,Harpic Toilet Cleaner 1L,Harpic,Household,16.1,6.74,0.42,3,19.2,48.3,67.5,81.0,112.71,Prophet,0.95,1.64,2025-12-09
+C003,SKU0138,Surf Excel Detergent 1kg,Surf Excel,Household,19.07,6.49,0.34,3,18.5,57.22,75.71,90.86,133.5,Prophet,0.95,1.64,2025-12-09
+C003,SKU0139,Surf Excel Detergent 3kg,Surf Excel,Household,17.33,5.38,0.31,3,15.33,51.98,67.3,80.76,121.28,Prophet,0.95,1.64,2025-12-09
+C003,SKU0140,Surf Excel Detergent 6kg,Surf Excel,Household,24.97,7.25,0.29,3,20.64,74.92,95.57,114.68,174.82,Prophet,0.95,1.64,2025-12-09
+C003,SKU0150,Vim Dishwash Bar 250g,Vim,Household,12.77,3.21,0.25,3,9.13,38.3,47.43,56.92,89.36,Prophet,0.95,1.64,2025-12-09
+C003,SKU0151,Vim Dishwash Bar 500g,Vim,Household,1.8,0.49,0.27,3,1.41,5.39,6.8,10.0,12.58,Prophet,0.95,1.64,2025-12-09
+C003,SKU0131,Clear Shampoo 185ml,Clear,Personal_Care,36.93,9.68,0.26,3,27.58,110.79,138.37,166.05,258.51,Prophet,0.95,1.64,2025-12-09
+C003,SKU0132,Clear Shampoo 400ml,Clear,Personal_Care,6.09,2.93,0.48,3,8.34,18.27,26.62,31.94,42.64,Prophet,0.95,1.64,2025-12-09
+C003,SKU0135,Close Up Toothpaste 75g,Close Up,Personal_Care,3.79,2.32,0.61,3,6.6,11.36,17.96,21.55,26.5,Prophet,0.95,1.64,2025-12-09
+C003,SKU0134,Colgate Toothpaste 150g,Colgate,Personal_Care,31.31,7.71,0.25,3,21.96,93.92,115.88,139.06,219.16,Prophet,0.95,1.64,2025-12-09
+C003,SKU0133,Colgate Toothpaste 75g,Colgate,Personal_Care,7.16,2.18,0.31,3,6.22,21.47,27.68,33.22,50.09,Prophet,0.95,1.64,2025-12-09
+C003,SKU0119,Dove Beauty Bar 3-pack,Dove,Personal_Care,22.78,5.8,0.25,3,16.53,68.33,84.87,101.84,159.44,Prophet,0.95,1.64,2025-12-09
+C003,SKU0120,Fair & Lovely Cream 25g,Fair & Lovely,Personal_Care,20.64,5.81,0.28,3,16.56,61.91,78.47,94.16,144.46,Prophet,0.95,1.64,2025-12-09
+C003,SKU0121,Fair & Lovely Cream 50g,Fair & Lovely,Personal_Care,8.59,2.81,0.33,3,8.01,25.76,33.77,40.53,60.11,Prophet,0.95,1.64,2025-12-09
+C003,SKU0122,Fair & Lovely Cream 80g,Fair & Lovely,Personal_Care,24.38,6.44,0.26,3,18.34,73.14,91.48,109.78,170.65,Prophet,0.95,1.64,2025-12-09
+C003,SKU0128,Head & Shoulders Shampoo 400ml,Head & Shoulders,Personal_Care,22.08,6.43,0.29,3,18.32,66.23,84.55,101.46,154.54,Prophet,0.95,1.64,2025-12-09
+C003,SKU0114,Lifebuoy Soap 3-pack,Lifebuoy,Personal_Care,1.07,0.27,0.25,3,0.77,3.22,3.99,10.0,7.51,Prophet,0.95,1.64,2025-12-09
+C003,SKU0113,Lux Beauty Soap 6-pack,Lux,Personal_Care,2.92,0.63,0.22,3,1.79,8.76,10.55,12.66,20.44,Prophet,0.95,1.64,2025-12-09
+C003,SKU0124,Pantene Shampoo 180ml,Pantene,Personal_Care,3.73,1.24,0.33,3,3.53,11.19,14.72,17.66,26.11,Prophet,0.95,1.64,2025-12-09
+C003,SKU0116,Safeguard Soap 3-pack,Safeguard,Personal_Care,18.82,4.98,0.26,3,14.2,56.46,70.66,84.79,131.74,Prophet,0.95,1.64,2025-12-09
+C003,SKU0129,Sunsilk Shampoo 180ml,Sunsilk,Personal_Care,21.61,6.48,0.3,3,18.46,64.83,83.29,99.95,151.26,Prophet,0.95,1.64,2025-12-09
+C003,SKU0130,Sunsilk Shampoo 400ml,Sunsilk,Personal_Care,20.78,6.48,0.31,3,18.46,62.33,80.78,96.94,145.43,Prophet,0.95,1.64,2025-12-09
+C003,SKU0051,Kolson Slanty 18g,Kolson,Snacks,17.07,4.22,0.25,3,12.03,51.21,63.24,75.88,119.49,Prophet,0.95,1.64,2025-12-09
+C003,SKU0052,Kolson Slanty 40g,Kolson,Snacks,19.62,5.95,0.3,3,16.95,58.85,75.8,90.96,137.32,Prophet,0.95,1.64,2025-12-09
+C003,SKU0057,Kurkure Chatpata 110g,Kurkure,Snacks,11.99,2.74,0.23,3,7.8,35.97,43.77,52.53,83.92,Prophet,0.95,1.64,2025-12-09
+C003,SKU0047,Lays Masala Chips 34g,Lays,Snacks,8.83,4.15,0.47,3,11.84,26.48,38.31,45.98,61.78,Prophet,0.95,1.64,2025-12-09
+C003,SKU0048,Lays Masala Chips 68g,Lays,Snacks,7.26,3.14,0.43,3,8.95,21.77,30.72,36.86,50.8,Prophet,0.95,1.64,2025-12-09
+C003,SKU0050,Lays Wavy Chips 68g,Lays,Snacks,8.78,3.21,0.37,3,9.13,26.34,35.47,42.57,61.46,Prophet,0.95,1.64,2025-12-09
+C003,SKU0060,Peek Freans Chocolate Chip 90g,Peek Freans,Snacks,9.18,3.11,0.34,3,8.86,27.54,36.4,43.68,64.26,Prophet,0.95,1.64,2025-12-09
+C003,SKU0058,Peek Freans Sooper Biscuit Family Pack,Peek Freans,Snacks,9.82,2.51,0.26,3,7.16,29.46,36.62,43.94,68.74,Prophet,0.95,1.64,2025-12-09
+C003,SKU0059,Peek Freans Sooper Biscuit Half Roll,Peek Freans,Snacks,16.65,5.72,0.34,3,16.3,49.96,66.26,79.51,116.57,Prophet,0.95,1.64,2025-12-09
+C003,SKU0066,Rio Wafer 45g,Rio,Snacks,24.97,6.79,0.27,3,19.35,74.91,94.26,113.12,174.79,Prophet,0.95,1.64,2025-12-09
+C003,SKU0064,Sooper Cream Biscuit Full Roll,Sooper,Snacks,27.35,6.86,0.25,3,19.54,82.04,101.58,121.89,191.42,Prophet,0.95,1.64,2025-12-09
+C003,SKU0054,Super Crisp Nimko 200g,Super Crisp,Snacks,8.25,2.49,0.3,3,7.09,24.75,31.84,38.21,57.75,Prophet,0.95,1.64,2025-12-09
+C004,SKU0075,Bake Parlor Rusk Zeera,Bake Parlor,Bakery,19.06,4.87,0.26,3,13.87,57.19,71.06,85.27,133.45,Prophet,0.95,1.64,2025-12-09
+C004,SKU0076,Dawn White Bread Medium,Dawn,Bakery,13.56,5.61,0.41,3,15.98,40.67,56.65,47.45,94.89,Prophet,0.95,1.64,2025-12-09
+C004,SKU0069,English Biscuit Brown Bread Medium,English Biscuit,Bakery,2.66,0.63,0.24,3,1.78,7.97,9.75,10.0,18.6,Prophet,0.95,1.64,2025-12-09
+C004,SKU0068,English Biscuit White Bread Large,English Biscuit,Bakery,8.7,2.33,0.27,3,6.63,26.11,32.74,30.46,60.92,Prophet,0.95,1.64,2025-12-09
+C004,SKU0072,Peek Freans Cake Rusk Chocolate,Peek Freans,Bakery,21.47,5.92,0.28,3,16.88,64.4,81.28,97.54,150.28,Prophet,0.95,1.64,2025-12-09
+C004,SKU0026,7UP 7UP 250ml,7UP,Beverages,14.47,4.09,0.28,3,11.65,43.42,55.07,66.08,101.32,Prophet,0.95,1.64,2025-12-09
+C004,SKU0039,Aquafina Water 500ml,Aquafina,Beverages,7.74,1.97,0.25,3,5.62,23.22,28.84,34.6,54.17,Prophet,0.95,1.64,2025-12-09
+C004,SKU0020,Coca Cola Coke 1.5L,Coca Cola,Beverages,5.0,1.53,0.31,3,4.36,14.99,19.35,23.22,34.97,Prophet,0.95,1.64,2025-12-09
+C004,SKU0021,Coca Cola Coke 2.25L,Coca Cola,Beverages,1.2,0.36,0.3,3,1.02,3.61,4.64,10.0,8.43,Prophet,0.95,1.64,2025-12-09
+C004,SKU0018,Coca Cola Coke 250ml,Coca Cola,Beverages,1.8,0.81,0.45,3,2.3,5.39,7.69,10.0,12.58,Prophet,0.95,1.64,2025-12-09
+C004,SKU0033,Fanta Orange 1.5L,Fanta,Beverages,4.76,2.39,0.5,3,6.8,14.27,21.07,25.28,33.29,Prophet,0.95,1.64,2025-12-09
+C004,SKU0032,Fanta Orange 500ml,Fanta,Beverages,8.37,2.19,0.26,3,6.23,25.12,31.36,37.63,58.62,Prophet,0.95,1.64,2025-12-09
+C004,SKU0043,Gourmet Green Tea 100 bags,Gourmet,Beverages,17.5,5.39,0.31,3,15.37,52.5,67.87,81.44,122.5,Prophet,0.95,1.64,2025-12-09
+C004,SKU0042,Gourmet Green Tea 50 bags,Gourmet,Beverages,31.6,8.67,0.27,3,24.69,94.79,119.48,143.37,221.17,Prophet,0.95,1.64,2025-12-09
+C004,SKU0044,Lipton Yellow Label Tea 100 bags,Lipton,Beverages,11.93,4.33,0.36,3,12.32,35.78,48.1,57.73,83.49,Prophet,0.95,1.64,2025-12-09
+C004,SKU0045,Lipton Yellow Label Tea 200 bags,Lipton,Beverages,10.69,3.84,0.36,3,10.93,32.06,42.99,51.58,74.8,Prophet,0.95,1.64,2025-12-09
+C004,SKU0038,Nestle Pure Life Water 1.5L,Nestle,Beverages,5.8,1.91,0.33,3,5.45,17.4,22.85,27.42,40.6,Prophet,0.95,1.64,2025-12-09
+C004,SKU0037,Nestle Pure Life Water 500ml,Nestle,Beverages,5.03,2.84,0.56,3,8.09,15.08,23.17,27.8,35.19,Prophet,0.95,1.64,2025-12-09
+C004,SKU0024,Pepsi Pepsi 1.5L,Pepsi,Beverages,22.79,5.87,0.26,3,16.73,68.37,85.11,102.13,159.54,Prophet,0.95,1.64,2025-12-09
+C004,SKU0025,Pepsi Pepsi 2.25L,Pepsi,Beverages,0.99,0.37,0.37,3,1.05,2.96,4.02,10.0,6.91,Prophet,0.95,1.64,2025-12-09
+C004,SKU0023,Pepsi Pepsi 500ml,Pepsi,Beverages,20.94,7.49,0.36,3,21.34,62.82,84.16,100.99,146.57,Prophet,0.95,1.64,2025-12-09
+C004,SKU0036,Shezan Apple Juice 1L,Shezan,Beverages,3.15,1.12,0.36,3,3.2,9.46,12.66,15.19,22.06,Prophet,0.95,1.64,2025-12-09
+C004,SKU0035,Shezan Mango Juice 1L,Shezan,Beverages,2.05,0.59,0.29,3,1.69,6.15,7.84,10.0,14.35,Prophet,0.95,1.64,2025-12-09
+C004,SKU0034,Shezan Mango Juice 250ml,Shezan,Beverages,3.7,1.47,0.4,3,4.19,11.1,15.29,18.35,25.9,Prophet,0.95,1.64,2025-12-09
+C004,SKU0031,Sprite Sprite 1.5L,Sprite,Beverages,2.25,0.69,0.31,3,1.98,6.75,8.73,10.48,15.76,Prophet,0.95,1.64,2025-12-09
+C004,SKU0029,Sprite Sprite 250ml,Sprite,Beverages,20.1,5.19,0.26,3,14.79,60.3,75.09,90.11,140.7,Prophet,0.95,1.64,2025-12-09
+C004,SKU0046,Vital Energy Drink 250ml,Vital,Beverages,4.94,2.43,0.49,3,6.94,14.82,21.75,26.11,34.58,Prophet,0.95,1.64,2025-12-09
+C004,SKU0006,Haleeb Fresh Milk 1L,Haleeb,Dairy,6.13,2.05,0.34,3,5.85,18.39,24.24,29.09,42.9,Prophet,0.95,1.64,2025-12-09
+C004,SKU0007,Haleeb Fresh Milk 500ml,Haleeb,Dairy,8.94,7.64,0.85,3,21.77,26.82,48.59,58.31,62.58,Prophet,0.95,1.64,2025-12-09
+C004,SKU0001,Nestle Everyday Milk 1L,Nestle,Dairy,11.01,4.79,0.44,3,13.65,33.03,46.68,56.02,77.07,Prophet,0.95,1.64,2025-12-09
+C004,SKU0003,Nestle Everyday Milk 250ml,Nestle,Dairy,7.81,2.53,0.32,3,7.22,23.43,30.65,36.78,54.68,Prophet,0.95,1.64,2025-12-09
+C004,SKU0012,Nestle Yogurt 900g,Nestle,Dairy,34.41,9.25,0.27,3,26.35,103.22,129.57,155.49,240.84,Prophet,0.95,1.64,2025-12-09
+C004,SKU0017,Nurpur Butter 200g,Nurpur,Dairy,21.04,5.88,0.28,3,16.75,63.11,79.86,95.83,147.26,Prophet,0.95,1.64,2025-12-09
+C004,SKU0008,Nurpur Milk 1L,Nurpur,Dairy,30.5,7.87,0.26,3,22.42,91.51,113.93,136.72,213.52,Prophet,0.95,1.64,2025-12-09
+C004,SKU0009,Nurpur Milk 500ml,Nurpur,Dairy,13.11,3.34,0.25,3,9.52,39.34,48.86,58.63,91.79,Prophet,0.95,1.64,2025-12-09
+C004,SKU0015,Olpers Cheese Slices 200g,Olpers,Dairy,11.45,3.25,0.28,3,9.26,34.35,43.61,52.33,80.15,Prophet,0.95,1.64,2025-12-09
+C004,SKU0016,Olpers Cheese Slices 400g,Olpers,Dairy,10.63,3.48,0.33,3,9.92,31.9,41.82,50.18,74.44,Prophet,0.95,1.64,2025-12-09
+C004,SKU0004,Olpers Full Cream Milk 1L,Olpers,Dairy,19.68,5.65,0.29,3,16.1,59.04,75.14,90.17,137.76,Prophet,0.95,1.64,2025-12-09
+C004,SKU0005,Olpers Full Cream Milk 500ml,Olpers,Dairy,12.64,5.08,0.4,3,14.47,37.93,52.4,62.87,88.5,Prophet,0.95,1.64,2025-12-09
+C004,SKU0014,Tarang Dahi 1kg,Tarang,Dairy,1.58,0.63,0.4,3,1.79,4.74,6.53,10.0,11.06,Prophet,0.95,1.64,2025-12-09
+C004,SKU0013,Tarang Dahi 500g,Tarang,Dairy,20.79,5.64,0.27,3,16.07,62.36,78.43,94.12,145.51,Prophet,0.95,1.64,2025-12-09
+C004,SKU0153,K&N's Chicken Nuggets 1kg,K&N's,Frozen,5.72,2.61,0.46,3,7.44,17.16,24.6,29.52,40.04,Prophet,0.95,1.64,2025-12-09
+C004,SKU0152,K&N's Chicken Nuggets 500g,K&N's,Frozen,27.55,7.14,0.26,3,20.35,82.65,103.0,123.6,192.85,Prophet,0.95,1.64,2025-12-09
+C004,SKU0155,K&N's Chicken Patties 12-pack,K&N's,Frozen,24.13,6.15,0.25,3,17.52,72.39,89.91,107.89,168.91,Prophet,0.95,1.64,2025-12-09
+C004,SKU0154,K&N's Chicken Seekh Kabab 500g,K&N's,Frozen,16.03,4.4,0.27,3,12.53,48.1,60.63,72.75,112.23,Prophet,0.95,1.64,2025-12-09
+C004,SKU0158,Makkhan Paratha 20-pack,Makkhan,Frozen,14.02,3.69,0.26,3,10.51,42.06,52.57,63.08,98.14,Prophet,0.95,1.64,2025-12-09
+C004,SKU0157,Menu Plain Paratha 30-pack,Menu,Frozen,10.47,2.73,0.26,3,7.79,31.42,39.21,47.05,73.32,Prophet,0.95,1.64,2025-12-09
+C004,SKU0086,Dalda Cooking Oil 1L,Dalda,Grocery,17.33,7.38,0.43,3,21.02,51.99,73.01,87.61,121.31,Prophet,0.95,1.64,2025-12-09
+C004,SKU0087,Dalda Cooking Oil 2.5L,Dalda,Grocery,11.92,3.18,0.27,3,9.07,35.77,44.84,53.81,83.46,Prophet,0.95,1.64,2025-12-09
+C004,SKU0088,Dalda Cooking Oil 5L,Dalda,Grocery,2.92,0.45,0.15,3,1.27,8.75,10.02,12.02,20.41,Prophet,0.95,1.64,2025-12-09
+C004,SKU0091,Eva Cooking Oil 1L,Eva,Grocery,6.35,1.89,0.3,3,5.38,19.06,24.43,29.32,44.47,Prophet,0.95,1.64,2025-12-09
+C004,SKU0092,Eva Cooking Oil 5L,Eva,Grocery,8.94,4.82,0.54,3,13.73,26.81,40.55,48.66,62.57,Prophet,0.95,1.64,2025-12-09
+C004,SKU0102,Guard Super Basmati 10kg,Guard,Grocery,21.4,6.02,0.28,3,17.15,64.2,81.35,97.62,149.79,Prophet,0.95,1.64,2025-12-09
+C004,SKU0089,Habib Banaspati 1kg,Habib,Grocery,7.41,2.04,0.28,3,5.82,22.24,28.06,33.67,51.89,Prophet,0.95,1.64,2025-12-09
+C004,SKU0106,Kolson Macaroni 200g,Kolson,Grocery,7.53,2.41,0.32,3,6.88,22.6,29.48,35.38,52.73,Prophet,0.95,1.64,2025-12-09
+C004,SKU0107,Kolson Macaroni 400g,Kolson,Grocery,2.89,1.01,0.35,3,2.86,8.67,11.54,13.84,20.23,Prophet,0.95,1.64,2025-12-09
+C004,SKU0097,Lipton Yellow Label 450g,Lipton,Grocery,30.87,8.36,0.27,3,23.83,92.6,116.43,139.72,216.06,Prophet,0.95,1.64,2025-12-09
+C004,SKU0103,Mehran Basmati Rice 5kg,Mehran,Grocery,7.88,2.4,0.3,3,6.84,23.63,30.47,36.57,55.15,Prophet,0.95,1.64,2025-12-09
+C004,SKU0085,Mehran Seekh Kabab 50g,Mehran,Grocery,9.06,2.52,0.28,3,7.19,27.19,34.38,41.26,63.45,Prophet,0.95,1.64,2025-12-09
+C004,SKU0077,National Biryani Masala 50g,National,Grocery,10.3,3.62,0.35,3,10.3,30.91,41.21,49.46,72.13,Prophet,0.95,1.64,2025-12-09
+C004,SKU0079,National Korma Masala 50g,National,Grocery,13.72,3.93,0.29,3,11.2,41.16,52.36,62.83,96.04,Prophet,0.95,1.64,2025-12-09
+C004,SKU0080,National Nihari Masala 50g,National,Grocery,11.02,3.26,0.3,3,9.29,33.05,42.35,50.82,77.13,Prophet,0.95,1.64,2025-12-09
+C004,SKU0108,National Salt 800g,National,Grocery,2.43,0.81,0.33,3,2.3,7.3,9.6,11.52,17.04,Prophet,0.95,1.64,2025-12-09
+C004,SKU0111,National Turmeric Powder 100g,National,Grocery,20.73,5.47,0.26,3,15.58,62.2,77.78,93.34,145.13,Prophet,0.95,1.64,2025-12-09
+C004,SKU0082,Shan Biryani Masala 100g,Shan,Grocery,7.85,4.2,0.54,3,11.98,23.56,35.53,42.64,54.97,Prophet,0.95,1.64,2025-12-09
+C004,SKU0081,Shan Biryani Masala 50g,Shan,Grocery,5.51,1.73,0.31,3,4.94,16.52,21.46,25.75,38.55,Prophet,0.95,1.64,2025-12-09
+C004,SKU0084,Shan Chicken Karahi 50g,Shan,Grocery,3.97,1.27,0.32,3,3.61,11.92,15.52,18.63,27.81,Prophet,0.95,1.64,2025-12-09
+C004,SKU0083,Shan Chicken Tikka 50g,Shan,Grocery,17.13,6.14,0.36,3,17.5,51.4,68.9,82.68,119.94,Prophet,0.95,1.64,2025-12-09
+C004,SKU0104,Shangrila Vermicelli 200g,Shangrila,Grocery,26.58,8.42,0.32,3,23.98,79.75,103.73,124.48,186.09,Prophet,0.95,1.64,2025-12-09
+C004,SKU0105,Shangrila Vermicelli 400g,Shangrila,Grocery,14.42,3.9,0.27,3,11.11,43.25,54.36,65.23,100.91,Prophet,0.95,1.64,2025-12-09
+C004,SKU0100,Sufi Basmati Rice 10kg,Sufi,Grocery,5.4,1.35,0.25,3,3.84,16.2,20.05,24.06,37.81,Prophet,0.95,1.64,2025-12-09
+C004,SKU0099,Sufi Basmati Rice 5kg,Sufi,Grocery,3.92,1.11,0.28,3,3.15,11.77,14.92,17.91,27.46,Prophet,0.95,1.64,2025-12-09
+C004,SKU0093,Tapal Danedar Tea 190g,Tapal,Grocery,7.87,2.81,0.36,3,8.02,23.62,31.64,37.96,55.12,Prophet,0.95,1.64,2025-12-09
+C004,SKU0098,Vital Tea 475g,Vital,Grocery,12.61,3.7,0.29,3,10.54,37.84,48.37,58.04,88.28,Prophet,0.95,1.64,2025-12-09
+C004,SKU0142,Ariel Detergent 3kg,Ariel,Household,1.3,0.42,0.33,3,1.21,3.9,5.1,10.0,9.09,Prophet,0.95,1.64,2025-12-09
+C004,SKU0144,Bonus Detergent 3kg,Bonus,Household,21.79,6.36,0.29,3,18.12,65.36,83.48,100.18,152.5,Prophet,0.95,1.64,2025-12-09
+C004,SKU0149,Colin Glass Cleaner 500ml,Colin,Household,10.95,3.03,0.28,3,8.63,32.85,41.48,49.77,76.65,Prophet,0.95,1.64,2025-12-09
+C004,SKU0148,Dettol Disinfectant 500ml,Dettol,Household,13.61,4.66,0.34,3,13.28,40.82,54.1,64.92,95.26,Prophet,0.95,1.64,2025-12-09
+C004,SKU0147,Harpic Toilet Cleaner 1L,Harpic,Household,6.64,2.35,0.35,3,6.71,19.92,26.63,31.95,46.49,Prophet,0.95,1.64,2025-12-09
+C004,SKU0138,Surf Excel Detergent 1kg,Surf Excel,Household,3.86,1.08,0.28,3,3.09,11.58,14.66,17.6,27.02,Prophet,0.95,1.64,2025-12-09
+C004,SKU0140,Surf Excel Detergent 6kg,Surf Excel,Household,10.27,3.41,0.33,3,9.7,30.81,40.51,48.62,71.89,Prophet,0.95,1.64,2025-12-09
+C004,SKU0150,Vim Dishwash Bar 250g,Vim,Household,2.35,0.8,0.34,3,2.27,7.04,9.31,11.17,16.44,Prophet,0.95,1.64,2025-12-09
+C004,SKU0145,Wheel Detergent 1kg,Wheel,Household,25.57,6.22,0.24,3,17.71,76.7,94.41,113.29,178.97,Prophet,0.95,1.64,2025-12-09
+C004,SKU0131,Clear Shampoo 185ml,Clear,Personal_Care,3.23,2.24,0.69,3,6.38,9.7,16.07,19.29,22.63,Prophet,0.95,1.64,2025-12-09
+C004,SKU0132,Clear Shampoo 400ml,Clear,Personal_Care,16.63,5.14,0.31,3,14.63,49.9,64.54,77.44,116.44,Prophet,0.95,1.64,2025-12-09
+C004,SKU0136,Close Up Toothpaste 150g,Close Up,Personal_Care,14.64,4.02,0.27,3,11.44,43.91,55.35,66.42,102.45,Prophet,0.95,1.64,2025-12-09
+C004,SKU0135,Close Up Toothpaste 75g,Close Up,Personal_Care,14.43,4.12,0.29,3,11.73,43.3,55.03,66.03,101.02,Prophet,0.95,1.64,2025-12-09
+C004,SKU0134,Colgate Toothpaste 150g,Colgate,Personal_Care,8.49,3.51,0.41,3,10.01,25.48,35.49,42.59,59.45,Prophet,0.95,1.64,2025-12-09
+C004,SKU0133,Colgate Toothpaste 75g,Colgate,Personal_Care,25.44,7.65,0.3,3,21.8,76.33,98.13,117.76,178.1,Prophet,0.95,1.64,2025-12-09
+C004,SKU0117,Dettol Soap 3-pack,Dettol,Personal_Care,8.91,2.94,0.33,3,8.38,26.74,35.12,42.14,62.39,Prophet,0.95,1.64,2025-12-09
+C004,SKU0120,Fair & Lovely Cream 25g,Fair & Lovely,Personal_Care,4.0,1.1,0.27,3,3.14,12.01,15.15,18.18,28.03,Prophet,0.95,1.64,2025-12-09
+C004,SKU0121,Fair & Lovely Cream 50g,Fair & Lovely,Personal_Care,10.36,6.37,0.62,3,18.16,31.07,49.23,59.07,72.5,Prophet,0.95,1.64,2025-12-09
+C004,SKU0127,Head & Shoulders Shampoo 185ml,Head & Shoulders,Personal_Care,12.84,4.57,0.36,3,13.03,38.52,51.55,61.86,89.89,Prophet,0.95,1.64,2025-12-09
+C004,SKU0128,Head & Shoulders Shampoo 400ml,Head & Shoulders,Personal_Care,15.9,4.75,0.3,3,13.52,47.7,61.22,73.46,111.3,Prophet,0.95,1.64,2025-12-09
+C004,SKU0114,Lifebuoy Soap 3-pack,Lifebuoy,Personal_Care,15.11,4.76,0.31,3,13.56,45.33,58.89,70.67,105.77,Prophet,0.95,1.64,2025-12-09
+C004,SKU0115,Lifebuoy Soap 6-pack,Lifebuoy,Personal_Care,3.51,3.88,1.11,3,11.04,10.52,21.56,25.87,24.54,Prophet,0.95,1.64,2025-12-09
+C004,SKU0112,Lux Beauty Soap 3-pack,Lux,Personal_Care,4.06,1.2,0.3,3,3.42,12.17,15.59,18.71,28.4,Prophet,0.95,1.64,2025-12-09
+C004,SKU0113,Lux Beauty Soap 6-pack,Lux,Personal_Care,1.97,0.73,0.37,3,2.07,5.91,7.98,10.0,13.78,Prophet,0.95,1.64,2025-12-09
+C004,SKU0124,Pantene Shampoo 180ml,Pantene,Personal_Care,4.44,1.22,0.27,3,3.47,13.31,16.77,20.13,31.05,Prophet,0.95,1.64,2025-12-09
+C004,SKU0123,Pond's Face Cream 50g,Pond's,Personal_Care,15.11,4.46,0.3,3,12.7,45.33,58.03,69.63,105.76,Prophet,0.95,1.64,2025-12-09
+C004,SKU0116,Safeguard Soap 3-pack,Safeguard,Personal_Care,15.8,4.13,0.26,3,11.78,47.39,59.17,71.01,110.59,Prophet,0.95,1.64,2025-12-09
+C004,SKU0137,Sensodyne Toothpaste 75g,Sensodyne,Personal_Care,16.93,5.06,0.3,3,14.41,50.78,65.19,78.23,118.49,Prophet,0.95,1.64,2025-12-09
+C004,SKU0129,Sunsilk Shampoo 180ml,Sunsilk,Personal_Care,10.22,3.58,0.35,3,10.2,30.67,40.88,49.05,71.57,Prophet,0.95,1.64,2025-12-09
+C004,SKU0051,Kolson Slanty 18g,Kolson,Snacks,6.81,2.55,0.37,3,7.25,20.44,27.69,33.23,47.69,Prophet,0.95,1.64,2025-12-09
+C004,SKU0057,Kurkure Chatpata 110g,Kurkure,Snacks,21.88,6.59,0.3,3,18.77,65.64,84.41,101.3,153.16,Prophet,0.95,1.64,2025-12-09
+C004,SKU0056,Kurkure Chatpata 62g,Kurkure,Snacks,2.02,0.72,0.35,3,2.04,6.07,8.11,10.0,14.17,Prophet,0.95,1.64,2025-12-09
+C004,SKU0048,Lays Masala Chips 68g,Lays,Snacks,22.03,6.82,0.31,3,19.43,66.09,85.52,102.63,154.21,Prophet,0.95,1.64,2025-12-09
+C004,SKU0050,Lays Wavy Chips 68g,Lays,Snacks,24.52,6.37,0.26,3,18.16,73.55,91.7,110.04,171.61,Prophet,0.95,1.64,2025-12-09
+C004,SKU0060,Peek Freans Chocolate Chip 90g,Peek Freans,Snacks,20.13,5.02,0.25,3,14.29,60.39,74.68,89.61,140.9,Prophet,0.95,1.64,2025-12-09
+C004,SKU0058,Peek Freans Sooper Biscuit Family Pack,Peek Freans,Snacks,6.76,2.9,0.43,3,8.26,20.28,28.54,34.25,47.33,Prophet,0.95,1.64,2025-12-09
+C004,SKU0059,Peek Freans Sooper Biscuit Half Roll,Peek Freans,Snacks,9.72,3.01,0.31,3,8.57,29.17,37.73,45.28,68.06,Prophet,0.95,1.64,2025-12-09
+C004,SKU0065,Rio Wafer 18g,Rio,Snacks,1.91,0.67,0.35,3,1.92,5.72,7.64,10.0,13.35,Prophet,0.95,1.64,2025-12-09
+C004,SKU0066,Rio Wafer 45g,Rio,Snacks,10.39,3.37,0.32,3,9.61,31.16,40.77,48.92,72.7,Prophet,0.95,1.64,2025-12-09
+C004,SKU0064,Sooper Cream Biscuit Full Roll,Sooper,Snacks,21.55,5.76,0.27,3,16.42,64.66,81.08,97.29,150.87,Prophet,0.95,1.64,2025-12-09
+C004,SKU0063,Sooper Cream Biscuit Half Roll,Sooper,Snacks,20.23,5.93,0.29,3,16.89,60.7,77.59,93.1,141.63,Prophet,0.95,1.64,2025-12-09
+C004,SKU0054,Super Crisp Nimko 200g,Super Crisp,Snacks,27.38,6.74,0.25,3,19.21,82.15,101.36,121.64,191.69,Prophet,0.95,1.64,2025-12-09
+C005,SKU0075,Bake Parlor Rusk Zeera,Bake Parlor,Bakery,25.97,8.0,0.31,3,22.79,77.9,100.69,120.83,181.76,Prophet,0.95,1.64,2025-12-09
+C005,SKU0076,Dawn White Bread Medium,Dawn,Bakery,16.61,6.54,0.39,3,18.63,49.82,68.45,58.13,116.25,Prophet,0.95,1.64,2025-12-09
+C005,SKU0068,English Biscuit White Bread Large,English Biscuit,Bakery,27.17,8.28,0.3,3,23.6,81.5,105.1,95.09,190.18,Prophet,0.95,1.64,2025-12-09
+C005,SKU0072,Peek Freans Cake Rusk Chocolate,Peek Freans,Bakery,8.44,3.05,0.36,3,8.69,25.33,34.02,40.82,59.11,Prophet,0.95,1.64,2025-12-09
+C005,SKU0071,Peek Freans Cake Rusk Regular,Peek Freans,Bakery,6.2,1.79,0.29,3,5.09,18.61,23.7,28.44,43.41,Prophet,0.95,1.64,2025-12-09
+C005,SKU0073,Young's Milk Rusk 300g,Young's,Bakery,30.58,8.43,0.28,3,24.02,91.73,115.76,138.91,214.05,Prophet,0.95,1.64,2025-12-09
+C005,SKU0028,7UP 7UP 1.5L,7UP,Beverages,20.1,8.55,0.43,3,24.35,60.3,84.65,101.58,140.7,Prophet,0.95,1.64,2025-12-09
+C005,SKU0026,7UP 7UP 250ml,7UP,Beverages,17.91,7.68,0.43,3,21.88,53.73,75.61,90.73,125.37,Prophet,0.95,1.64,2025-12-09
+C005,SKU0027,7UP 7UP 500ml,7UP,Beverages,23.95,6.38,0.27,3,18.18,71.85,90.03,108.03,167.64,Prophet,0.95,1.64,2025-12-09
+C005,SKU0040,Aquafina Water 1.5L,Aquafina,Beverages,10.26,2.9,0.28,3,8.27,30.79,39.06,46.87,71.85,Prophet,0.95,1.64,2025-12-09
+C005,SKU0039,Aquafina Water 500ml,Aquafina,Beverages,20.09,6.47,0.32,3,18.43,60.27,78.7,94.44,140.64,Prophet,0.95,1.64,2025-12-09
+C005,SKU0021,Coca Cola Coke 2.25L,Coca Cola,Beverages,10.97,3.66,0.33,3,10.42,32.9,43.32,51.99,76.77,Prophet,0.95,1.64,2025-12-09
+C005,SKU0018,Coca Cola Coke 250ml,Coca Cola,Beverages,11.49,3.23,0.28,3,9.2,34.47,43.67,52.4,80.42,Prophet,0.95,1.64,2025-12-09
+C005,SKU0019,Coca Cola Coke 500ml,Coca Cola,Beverages,13.4,4.37,0.33,3,12.45,40.21,52.66,63.19,93.83,Prophet,0.95,1.64,2025-12-09
+C005,SKU0033,Fanta Orange 1.5L,Fanta,Beverages,20.28,5.25,0.26,3,14.94,60.83,75.77,90.93,141.93,Prophet,0.95,1.64,2025-12-09
+C005,SKU0032,Fanta Orange 500ml,Fanta,Beverages,13.59,8.08,0.59,3,23.03,40.77,63.79,76.55,95.12,Prophet,0.95,1.64,2025-12-09
+C005,SKU0043,Gourmet Green Tea 100 bags,Gourmet,Beverages,16.08,4.96,0.31,3,14.14,48.23,62.37,74.85,112.53,Prophet,0.95,1.64,2025-12-09
+C005,SKU0042,Gourmet Green Tea 50 bags,Gourmet,Beverages,5.36,2.3,0.43,3,6.56,16.09,22.66,27.19,37.55,Prophet,0.95,1.64,2025-12-09
+C005,SKU0044,Lipton Yellow Label Tea 100 bags,Lipton,Beverages,5.23,1.5,0.29,3,4.28,15.69,19.97,23.96,36.61,Prophet,0.95,1.64,2025-12-09
+C005,SKU0037,Nestle Pure Life Water 500ml,Nestle,Beverages,10.76,2.51,0.23,3,7.15,32.27,39.42,47.3,75.29,Prophet,0.95,1.64,2025-12-09
+C005,SKU0024,Pepsi Pepsi 1.5L,Pepsi,Beverages,15.57,4.49,0.29,3,12.78,46.72,59.5,71.4,109.02,Prophet,0.95,1.64,2025-12-09
+C005,SKU0025,Pepsi Pepsi 2.25L,Pepsi,Beverages,20.82,6.31,0.3,3,17.99,62.46,80.45,96.53,145.73,Prophet,0.95,1.64,2025-12-09
+C005,SKU0022,Pepsi Pepsi 250ml,Pepsi,Beverages,23.77,7.51,0.32,3,21.4,71.31,92.71,111.26,166.4,Prophet,0.95,1.64,2025-12-09
+C005,SKU0023,Pepsi Pepsi 500ml,Pepsi,Beverages,1.74,0.66,0.38,3,1.88,5.21,7.09,10.0,12.16,Prophet,0.95,1.64,2025-12-09
+C005,SKU0036,Shezan Apple Juice 1L,Shezan,Beverages,1.98,0.51,0.26,3,1.44,5.94,7.38,10.0,13.87,Prophet,0.95,1.64,2025-12-09
+C005,SKU0035,Shezan Mango Juice 1L,Shezan,Beverages,26.65,7.28,0.27,3,20.75,79.96,100.72,120.86,186.58,Prophet,0.95,1.64,2025-12-09
+C005,SKU0034,Shezan Mango Juice 250ml,Shezan,Beverages,18.68,5.01,0.27,3,14.28,56.03,70.3,84.37,130.73,Prophet,0.95,1.64,2025-12-09
+C005,SKU0029,Sprite Sprite 250ml,Sprite,Beverages,19.74,5.68,0.29,3,16.18,59.22,75.4,90.48,138.19,Prophet,0.95,1.64,2025-12-09
+C005,SKU0030,Sprite Sprite 500ml,Sprite,Beverages,10.48,4.78,0.46,3,13.62,31.43,45.05,54.06,73.33,Prophet,0.95,1.64,2025-12-09
+C005,SKU0006,Haleeb Fresh Milk 1L,Haleeb,Dairy,11.47,5.3,0.46,3,15.09,34.4,49.5,59.4,80.28,Prophet,0.95,1.64,2025-12-09
+C005,SKU0008,Nurpur Milk 1L,Nurpur,Dairy,11.14,2.75,0.25,3,7.82,33.41,41.23,49.48,77.95,Prophet,0.95,1.64,2025-12-09
+C005,SKU0009,Nurpur Milk 500ml,Nurpur,Dairy,21.19,7.47,0.35,3,21.28,63.56,84.83,101.8,148.3,Prophet,0.95,1.64,2025-12-09
+C005,SKU0015,Olpers Cheese Slices 200g,Olpers,Dairy,24.62,6.08,0.25,3,17.33,73.86,91.2,109.44,172.35,Prophet,0.95,1.64,2025-12-09
+C005,SKU0004,Olpers Full Cream Milk 1L,Olpers,Dairy,7.22,4.17,0.58,3,11.87,21.65,33.52,40.22,50.52,Prophet,0.95,1.64,2025-12-09
+C005,SKU0005,Olpers Full Cream Milk 500ml,Olpers,Dairy,8.04,3.24,0.4,3,9.23,24.13,33.36,40.03,56.3,Prophet,0.95,1.64,2025-12-09
+C005,SKU0014,Tarang Dahi 1kg,Tarang,Dairy,15.07,4.84,0.32,3,13.78,45.2,58.97,70.77,105.46,Prophet,0.95,1.64,2025-12-09
+C005,SKU0013,Tarang Dahi 500g,Tarang,Dairy,1.74,0.34,0.19,3,0.96,5.22,6.18,10.0,12.18,Prophet,0.95,1.64,2025-12-09
+C005,SKU0155,K&N's Chicken Patties 12-pack,K&N's,Frozen,11.7,3.96,0.34,3,11.28,35.11,46.39,55.67,81.93,Prophet,0.95,1.64,2025-12-09
+C005,SKU0154,K&N's Chicken Seekh Kabab 500g,K&N's,Frozen,12.29,3.25,0.26,3,9.25,36.86,46.11,55.33,86.01,Prophet,0.95,1.64,2025-12-09
+C005,SKU0158,Makkhan Paratha 20-pack,Makkhan,Frozen,2.75,0.66,0.24,3,1.87,8.24,10.11,12.13,19.23,Prophet,0.95,1.64,2025-12-09
+C005,SKU0157,Menu Plain Paratha 30-pack,Menu,Frozen,8.42,3.48,0.41,3,9.92,25.27,35.2,42.24,58.97,Prophet,0.95,1.64,2025-12-09
+C005,SKU0086,Dalda Cooking Oil 1L,Dalda,Grocery,11.19,4.55,0.41,3,12.96,33.58,46.54,55.85,78.36,Prophet,0.95,1.64,2025-12-09
+C005,SKU0087,Dalda Cooking Oil 2.5L,Dalda,Grocery,31.13,8.32,0.27,3,23.69,93.38,117.07,140.48,217.88,Prophet,0.95,1.64,2025-12-09
+C005,SKU0088,Dalda Cooking Oil 5L,Dalda,Grocery,30.07,8.42,0.28,3,23.99,90.2,114.2,137.04,210.48,Prophet,0.95,1.64,2025-12-09
+C005,SKU0091,Eva Cooking Oil 1L,Eva,Grocery,2.28,0.65,0.28,3,1.85,6.84,8.69,10.42,15.96,Prophet,0.95,1.64,2025-12-09
+C005,SKU0102,Guard Super Basmati 10kg,Guard,Grocery,23.18,7.21,0.31,3,20.54,69.54,90.08,108.09,162.26,Prophet,0.95,1.64,2025-12-09
+C005,SKU0101,Guard Super Basmati 5kg,Guard,Grocery,3.4,1.35,0.4,3,3.84,10.2,14.04,16.85,23.81,Prophet,0.95,1.64,2025-12-09
+C005,SKU0106,Kolson Macaroni 200g,Kolson,Grocery,2.36,0.5,0.21,3,1.43,7.08,8.51,10.21,16.51,Prophet,0.95,1.64,2025-12-09
+C005,SKU0096,Lipton Yellow Label 200g,Lipton,Grocery,2.69,1.06,0.39,3,3.02,8.07,11.09,13.31,18.83,Prophet,0.95,1.64,2025-12-09
+C005,SKU0085,Mehran Seekh Kabab 50g,Mehran,Grocery,9.33,2.17,0.23,3,6.18,27.98,34.16,40.99,65.28,Prophet,0.95,1.64,2025-12-09
+C005,SKU0077,National Biryani Masala 50g,National,Grocery,12.72,6.45,0.51,3,18.37,38.17,56.54,67.84,89.05,Prophet,0.95,1.64,2025-12-09
+C005,SKU0080,National Nihari Masala 50g,National,Grocery,7.04,4.79,0.68,3,13.65,21.11,34.76,41.72,49.26,Prophet,0.95,1.64,2025-12-09
+C005,SKU0108,National Salt 800g,National,Grocery,15.56,3.54,0.23,3,10.1,46.69,56.79,68.15,108.95,Prophet,0.95,1.64,2025-12-09
+C005,SKU0082,Shan Biryani Masala 100g,Shan,Grocery,21.26,5.69,0.27,3,16.21,63.77,79.98,95.98,148.8,Prophet,0.95,1.64,2025-12-09
+C005,SKU0110,Shan Red Chilli Powder 200g,Shan,Grocery,16.86,4.68,0.28,3,13.33,50.59,63.92,76.71,118.04,Prophet,0.95,1.64,2025-12-09
+C005,SKU0104,Shangrila Vermicelli 200g,Shangrila,Grocery,21.57,6.96,0.32,3,19.83,64.7,84.53,101.43,150.97,Prophet,0.95,1.64,2025-12-09
+C005,SKU0105,Shangrila Vermicelli 400g,Shangrila,Grocery,2.15,0.51,0.24,3,1.46,6.44,7.9,10.0,15.03,Prophet,0.95,1.64,2025-12-09
+C005,SKU0100,Sufi Basmati Rice 10kg,Sufi,Grocery,27.19,7.32,0.27,3,20.85,81.57,102.42,122.9,190.32,Prophet,0.95,1.64,2025-12-09
+C005,SKU0093,Tapal Danedar Tea 190g,Tapal,Grocery,18.18,4.54,0.25,3,12.92,54.54,67.47,80.96,127.27,Prophet,0.95,1.64,2025-12-09
+C005,SKU0094,Tapal Danedar Tea 475g,Tapal,Grocery,5.87,1.76,0.3,3,5.0,17.61,22.61,27.13,41.09,Prophet,0.95,1.64,2025-12-09
+C005,SKU0098,Vital Tea 475g,Vital,Grocery,8.49,2.58,0.3,3,7.34,25.46,32.8,39.37,59.41,Prophet,0.95,1.64,2025-12-09
+C005,SKU0141,Ariel Detergent 1kg,Ariel,Household,10.4,2.8,0.27,3,7.98,31.2,39.18,47.02,72.8,Prophet,0.95,1.64,2025-12-09
+C005,SKU0142,Ariel Detergent 3kg,Ariel,Household,8.31,2.85,0.34,3,8.12,24.93,33.05,39.66,58.17,Prophet,0.95,1.64,2025-12-09
+C005,SKU0143,Bonus Detergent 1kg,Bonus,Household,3.73,1.52,0.41,3,4.34,11.18,15.51,18.62,26.08,Prophet,0.95,1.64,2025-12-09
+C005,SKU0149,Colin Glass Cleaner 500ml,Colin,Household,10.21,2.59,0.25,3,7.38,30.64,38.03,45.63,71.5,Prophet,0.95,1.64,2025-12-09
+C005,SKU0148,Dettol Disinfectant 500ml,Dettol,Household,29.36,8.52,0.29,3,24.27,88.07,112.34,134.81,205.5,Prophet,0.95,1.64,2025-12-09
+C005,SKU0147,Harpic Toilet Cleaner 1L,Harpic,Household,16.31,3.86,0.24,3,10.99,48.94,59.93,71.92,114.2,Prophet,0.95,1.64,2025-12-09
+C005,SKU0140,Surf Excel Detergent 6kg,Surf Excel,Household,17.87,5.72,0.32,3,16.31,53.61,69.91,83.9,125.08,Prophet,0.95,1.64,2025-12-09
+C005,SKU0131,Clear Shampoo 185ml,Clear,Personal_Care,12.77,3.86,0.3,3,11.0,38.31,49.31,59.17,89.38,Prophet,0.95,1.64,2025-12-09
+C005,SKU0132,Clear Shampoo 400ml,Clear,Personal_Care,18.74,5.14,0.27,3,14.65,56.22,70.87,85.04,131.17,Prophet,0.95,1.64,2025-12-09
+C005,SKU0136,Close Up Toothpaste 150g,Close Up,Personal_Care,29.93,9.4,0.31,3,26.78,89.79,116.57,139.88,209.5,Prophet,0.95,1.64,2025-12-09
+C005,SKU0135,Close Up Toothpaste 75g,Close Up,Personal_Care,14.05,4.13,0.29,3,11.77,42.14,53.91,64.69,98.33,Prophet,0.95,1.64,2025-12-09
+C005,SKU0134,Colgate Toothpaste 150g,Colgate,Personal_Care,33.77,8.32,0.25,3,23.71,101.31,125.02,150.02,236.38,Prophet,0.95,1.64,2025-12-09
+C005,SKU0118,Dove Beauty Bar 100g,Dove,Personal_Care,21.95,6.34,0.29,3,18.08,65.85,83.92,100.71,153.64,Prophet,0.95,1.64,2025-12-09
+C005,SKU0120,Fair & Lovely Cream 25g,Fair & Lovely,Personal_Care,5.9,3.75,0.64,3,10.68,17.69,28.37,34.05,41.29,Prophet,0.95,1.64,2025-12-09
+C005,SKU0122,Fair & Lovely Cream 80g,Fair & Lovely,Personal_Care,14.92,4.1,0.27,3,11.68,44.76,56.45,67.73,104.44,Prophet,0.95,1.64,2025-12-09
+C005,SKU0128,Head & Shoulders Shampoo 400ml,Head & Shoulders,Personal_Care,2.32,2.83,1.22,3,8.06,6.97,15.03,18.04,16.27,Prophet,0.95,1.64,2025-12-09
+C005,SKU0114,Lifebuoy Soap 3-pack,Lifebuoy,Personal_Care,18.92,5.51,0.29,3,15.7,56.76,72.46,86.95,132.43,Prophet,0.95,1.64,2025-12-09
+C005,SKU0115,Lifebuoy Soap 6-pack,Lifebuoy,Personal_Care,13.38,3.52,0.26,3,10.02,40.13,50.15,60.18,93.64,Prophet,0.95,1.64,2025-12-09
+C005,SKU0113,Lux Beauty Soap 6-pack,Lux,Personal_Care,12.11,4.12,0.34,3,11.73,36.32,48.05,57.66,84.75,Prophet,0.95,1.64,2025-12-09
+C005,SKU0124,Pantene Shampoo 180ml,Pantene,Personal_Care,8.79,3.19,0.36,3,9.09,26.36,35.45,42.54,61.51,Prophet,0.95,1.64,2025-12-09
+C005,SKU0125,Pantene Shampoo 400ml,Pantene,Personal_Care,14.54,8.44,0.58,3,24.04,43.61,67.65,81.18,101.75,Prophet,0.95,1.64,2025-12-09
+C005,SKU0126,Pantene Shampoo 650ml,Pantene,Personal_Care,4.95,1.53,0.31,3,4.37,14.84,19.21,23.05,34.62,Prophet,0.95,1.64,2025-12-09
+C005,SKU0123,Pond's Face Cream 50g,Pond's,Personal_Care,20.56,5.81,0.28,3,16.54,61.67,78.21,93.85,143.9,Prophet,0.95,1.64,2025-12-09
+C005,SKU0116,Safeguard Soap 3-pack,Safeguard,Personal_Care,11.22,3.15,0.28,3,8.98,33.67,42.65,51.18,78.55,Prophet,0.95,1.64,2025-12-09
+C005,SKU0137,Sensodyne Toothpaste 75g,Sensodyne,Personal_Care,12.83,3.41,0.27,3,9.71,38.48,48.19,57.83,89.8,Prophet,0.95,1.64,2025-12-09
+C005,SKU0129,Sunsilk Shampoo 180ml,Sunsilk,Personal_Care,19.33,6.46,0.33,3,18.39,58.0,76.39,91.67,135.33,Prophet,0.95,1.64,2025-12-09
+C005,SKU0055,Cheetos Crunchy 48g,Cheetos,Snacks,22.11,6.73,0.3,3,19.19,66.32,85.51,102.61,154.76,Prophet,0.95,1.64,2025-12-09
+C005,SKU0061,Jubilee Chocolate Biscuit 90g,Jubilee,Snacks,9.15,3.36,0.37,3,9.58,27.46,37.05,44.46,64.08,Prophet,0.95,1.64,2025-12-09
+C005,SKU0056,Kurkure Chatpata 62g,Kurkure,Snacks,2.6,0.88,0.34,3,2.5,7.81,10.31,12.37,18.22,Prophet,0.95,1.64,2025-12-09
+C005,SKU0048,Lays Masala Chips 68g,Lays,Snacks,18.84,5.68,0.3,3,16.19,56.51,72.7,87.24,131.86,Prophet,0.95,1.64,2025-12-09
+C005,SKU0049,Lays Masala Chips 90g,Lays,Snacks,20.74,5.6,0.27,3,15.96,62.21,78.17,93.8,145.15,Prophet,0.95,1.64,2025-12-09
+C005,SKU0050,Lays Wavy Chips 68g,Lays,Snacks,17.49,5.61,0.32,3,15.98,52.46,68.44,82.13,122.4,Prophet,0.95,1.64,2025-12-09
+C005,SKU0060,Peek Freans Chocolate Chip 90g,Peek Freans,Snacks,4.04,1.21,0.3,3,3.44,12.11,15.55,18.66,28.26,Prophet,0.95,1.64,2025-12-09
+C005,SKU0058,Peek Freans Sooper Biscuit Family Pack,Peek Freans,Snacks,16.68,5.11,0.31,3,14.57,50.04,64.6,77.52,116.75,Prophet,0.95,1.64,2025-12-09
+C005,SKU0059,Peek Freans Sooper Biscuit Half Roll,Peek Freans,Snacks,8.54,2.88,0.34,3,8.2,25.62,33.82,40.58,59.78,Prophet,0.95,1.64,2025-12-09
+C005,SKU0066,Rio Wafer 45g,Rio,Snacks,19.0,6.21,0.33,3,17.68,57.0,74.68,89.61,132.99,Prophet,0.95,1.64,2025-12-09
+C005,SKU0053,Super Crisp Nimko 100g,Super Crisp,Snacks,17.77,4.68,0.26,3,13.34,53.31,66.65,79.98,124.4,Prophet,0.95,1.64,2025-12-09
+C006,SKU0074,Bake Parlor Rusk Plain,Bake Parlor,Bakery,7.07,1.91,0.27,3,5.44,21.21,26.65,31.98,49.5,Prophet,0.95,1.64,2025-12-09
+C006,SKU0076,Dawn White Bread Medium,Dawn,Bakery,3.3,3.51,1.07,3,10.0,9.89,19.89,11.54,23.07,Prophet,0.95,1.64,2025-12-09
+C006,SKU0070,English Biscuit Brown Bread Large,English Biscuit,Bakery,22.65,6.4,0.28,3,18.22,67.94,86.16,79.26,158.52,Prophet,0.95,1.64,2025-12-09
+C006,SKU0067,English Biscuit White Bread Medium,English Biscuit,Bakery,3.19,1.0,0.31,3,2.85,9.57,12.43,11.17,22.34,Prophet,0.95,1.64,2025-12-09
+C006,SKU0072,Peek Freans Cake Rusk Chocolate,Peek Freans,Bakery,7.6,1.98,0.26,3,5.65,22.8,28.44,34.13,53.19,Prophet,0.95,1.64,2025-12-09
+C006,SKU0071,Peek Freans Cake Rusk Regular,Peek Freans,Bakery,8.64,2.58,0.3,3,7.34,25.92,33.26,39.91,60.48,Prophet,0.95,1.64,2025-12-09
+C006,SKU0073,Young's Milk Rusk 300g,Young's,Bakery,31.04,8.24,0.27,3,23.46,93.13,116.6,139.92,217.31,Prophet,0.95,1.64,2025-12-09
+C006,SKU0026,7UP 7UP 250ml,7UP,Beverages,14.41,4.11,0.28,3,11.7,43.24,54.94,65.92,100.89,Prophet,0.95,1.64,2025-12-09
+C006,SKU0027,7UP 7UP 500ml,7UP,Beverages,4.05,1.09,0.27,3,3.12,12.15,15.27,18.32,28.34,Prophet,0.95,1.64,2025-12-09
+C006,SKU0040,Aquafina Water 1.5L,Aquafina,Beverages,13.04,3.69,0.28,3,10.52,39.13,49.65,59.58,91.31,Prophet,0.95,1.64,2025-12-09
+C006,SKU0039,Aquafina Water 500ml,Aquafina,Beverages,18.78,5.01,0.27,3,14.28,56.33,70.6,84.73,131.43,Prophet,0.95,1.64,2025-12-09
+C006,SKU0020,Coca Cola Coke 1.5L,Coca Cola,Beverages,27.14,7.68,0.28,3,21.89,81.41,103.3,123.96,189.96,Prophet,0.95,1.64,2025-12-09
+C006,SKU0018,Coca Cola Coke 250ml,Coca Cola,Beverages,21.09,6.58,0.31,3,18.75,63.28,82.03,98.44,147.66,Prophet,0.95,1.64,2025-12-09
+C006,SKU0019,Coca Cola Coke 500ml,Coca Cola,Beverages,17.41,4.99,0.29,3,14.22,52.24,66.45,79.75,121.88,Prophet,0.95,1.64,2025-12-09
+C006,SKU0033,Fanta Orange 1.5L,Fanta,Beverages,22.01,5.6,0.25,3,15.97,66.02,81.99,98.38,154.05,Prophet,0.95,1.64,2025-12-09
+C006,SKU0032,Fanta Orange 500ml,Fanta,Beverages,1.29,0.35,0.27,3,1.0,3.88,4.88,10.0,9.05,Prophet,0.95,1.64,2025-12-09
+C006,SKU0044,Lipton Yellow Label Tea 100 bags,Lipton,Beverages,3.6,2.17,0.6,3,6.18,10.81,17.0,20.4,25.23,Prophet,0.95,1.64,2025-12-09
+C006,SKU0045,Lipton Yellow Label Tea 200 bags,Lipton,Beverages,13.47,3.56,0.26,3,10.14,40.42,50.55,60.67,94.31,Prophet,0.95,1.64,2025-12-09
+C006,SKU0037,Nestle Pure Life Water 500ml,Nestle,Beverages,20.12,5.25,0.26,3,14.95,60.35,75.3,90.36,140.81,Prophet,0.95,1.64,2025-12-09
+C006,SKU0024,Pepsi Pepsi 1.5L,Pepsi,Beverages,13.5,4.49,0.33,3,12.8,40.51,53.31,63.97,94.52,Prophet,0.95,1.64,2025-12-09
+C006,SKU0023,Pepsi Pepsi 500ml,Pepsi,Beverages,22.61,6.79,0.3,3,19.35,67.84,87.18,104.62,158.28,Prophet,0.95,1.64,2025-12-09
+C006,SKU0036,Shezan Apple Juice 1L,Shezan,Beverages,9.63,3.92,0.41,3,11.17,28.88,40.05,48.06,67.38,Prophet,0.95,1.64,2025-12-09
+C006,SKU0035,Shezan Mango Juice 1L,Shezan,Beverages,20.12,5.26,0.26,3,14.97,60.36,75.34,90.4,140.84,Prophet,0.95,1.64,2025-12-09
+C006,SKU0034,Shezan Mango Juice 250ml,Shezan,Beverages,20.29,6.51,0.32,3,18.54,60.88,79.43,95.31,142.06,Prophet,0.95,1.64,2025-12-09
+C006,SKU0029,Sprite Sprite 250ml,Sprite,Beverages,3.57,1.23,0.34,3,3.49,10.71,14.2,17.04,24.98,Prophet,0.95,1.64,2025-12-09
+C006,SKU0030,Sprite Sprite 500ml,Sprite,Beverages,12.92,4.24,0.33,3,12.07,38.75,50.82,60.98,90.41,Prophet,0.95,1.64,2025-12-09
+C006,SKU0046,Vital Energy Drink 250ml,Vital,Beverages,22.75,6.05,0.27,3,17.23,68.25,85.48,102.57,159.25,Prophet,0.95,1.64,2025-12-09
+C006,SKU0010,Dairy Omung Milk 1L,Dairy Omung,Dairy,10.84,2.77,0.26,3,7.9,32.51,40.41,48.49,75.86,Prophet,0.95,1.64,2025-12-09
+C006,SKU0006,Haleeb Fresh Milk 1L,Haleeb,Dairy,23.82,6.21,0.26,3,17.7,71.47,89.17,107.0,166.77,Prophet,0.95,1.64,2025-12-09
+C006,SKU0007,Haleeb Fresh Milk 500ml,Haleeb,Dairy,12.83,3.03,0.24,3,8.63,38.5,47.14,56.56,89.84,Prophet,0.95,1.64,2025-12-09
+C006,SKU0001,Nestle Everyday Milk 1L,Nestle,Dairy,25.94,9.73,0.38,3,27.72,77.83,105.55,126.67,181.61,Prophet,0.95,1.64,2025-12-09
+C006,SKU0003,Nestle Everyday Milk 250ml,Nestle,Dairy,20.73,6.56,0.32,3,18.69,62.19,80.88,97.06,145.11,Prophet,0.95,1.64,2025-12-09
+C006,SKU0011,Nestle Yogurt 400g,Nestle,Dairy,8.73,2.76,0.32,3,7.87,26.19,34.06,40.87,61.11,Prophet,0.95,1.64,2025-12-09
+C006,SKU0012,Nestle Yogurt 900g,Nestle,Dairy,4.74,3.64,0.77,3,10.36,14.22,24.58,29.49,33.18,Prophet,0.95,1.64,2025-12-09
+C006,SKU0017,Nurpur Butter 200g,Nurpur,Dairy,5.65,3.19,0.57,3,9.1,16.94,26.04,31.24,39.52,Prophet,0.95,1.64,2025-12-09
+C006,SKU0008,Nurpur Milk 1L,Nurpur,Dairy,5.47,2.27,0.41,3,6.45,16.41,22.87,27.44,38.3,Prophet,0.95,1.64,2025-12-09
+C006,SKU0009,Nurpur Milk 500ml,Nurpur,Dairy,12.53,3.68,0.29,3,10.49,37.58,48.07,57.68,87.69,Prophet,0.95,1.64,2025-12-09
+C006,SKU0015,Olpers Cheese Slices 200g,Olpers,Dairy,3.46,1.09,0.31,3,3.11,10.39,13.5,16.2,24.25,Prophet,0.95,1.64,2025-12-09
+C006,SKU0016,Olpers Cheese Slices 400g,Olpers,Dairy,9.81,2.91,0.3,3,8.3,29.42,37.72,45.26,68.64,Prophet,0.95,1.64,2025-12-09
+C006,SKU0004,Olpers Full Cream Milk 1L,Olpers,Dairy,26.92,7.25,0.27,3,20.67,80.77,101.43,121.72,188.46,Prophet,0.95,1.64,2025-12-09
+C006,SKU0005,Olpers Full Cream Milk 500ml,Olpers,Dairy,10.99,2.83,0.26,3,8.07,32.98,41.05,49.26,76.96,Prophet,0.95,1.64,2025-12-09
+C006,SKU0014,Tarang Dahi 1kg,Tarang,Dairy,2.44,0.94,0.38,3,2.67,7.31,9.97,11.97,17.05,Prophet,0.95,1.64,2025-12-09
+C006,SKU0013,Tarang Dahi 500g,Tarang,Dairy,19.7,5.52,0.28,3,15.74,59.11,74.85,89.82,137.93,Prophet,0.95,1.64,2025-12-09
+C006,SKU0153,K&N's Chicken Nuggets 1kg,K&N's,Frozen,14.11,3.85,0.27,3,10.96,42.33,53.28,63.94,98.77,Prophet,0.95,1.64,2025-12-09
+C006,SKU0152,K&N's Chicken Nuggets 500g,K&N's,Frozen,10.25,3.12,0.3,3,8.88,30.75,39.63,47.56,71.74,Prophet,0.95,1.64,2025-12-09
+C006,SKU0155,K&N's Chicken Patties 12-pack,K&N's,Frozen,2.89,0.67,0.23,3,1.9,8.68,10.58,12.7,20.25,Prophet,0.95,1.64,2025-12-09
+C006,SKU0154,K&N's Chicken Seekh Kabab 500g,K&N's,Frozen,4.9,1.52,0.31,3,4.34,14.69,19.03,22.84,34.28,Prophet,0.95,1.64,2025-12-09
+C006,SKU0158,Makkhan Paratha 20-pack,Makkhan,Frozen,14.25,4.96,0.35,3,14.13,42.75,56.88,68.26,99.75,Prophet,0.95,1.64,2025-12-09
+C006,SKU0156,Menu Plain Paratha 20-pack,Menu,Frozen,9.78,2.75,0.28,3,7.84,29.33,37.17,44.6,68.43,Prophet,0.95,1.64,2025-12-09
+C006,SKU0157,Menu Plain Paratha 30-pack,Menu,Frozen,9.0,3.37,0.37,3,9.61,27.0,36.61,43.93,63.0,Prophet,0.95,1.64,2025-12-09
+C006,SKU0159,Walls Ice Cream Cornetto Single,Walls,Frozen,11.02,3.08,0.28,3,8.77,33.07,41.84,50.21,77.16,Prophet,0.95,1.64,2025-12-09
+C006,SKU0087,Dalda Cooking Oil 2.5L,Dalda,Grocery,22.99,5.98,0.26,3,17.04,68.96,86.0,103.2,160.91,Prophet,0.95,1.64,2025-12-09
+C006,SKU0092,Eva Cooking Oil 5L,Eva,Grocery,16.39,6.35,0.39,3,18.09,49.16,67.24,80.69,114.7,Prophet,0.95,1.64,2025-12-09
+C006,SKU0102,Guard Super Basmati 10kg,Guard,Grocery,5.43,1.64,0.3,3,4.67,16.3,20.97,25.17,38.03,Prophet,0.95,1.64,2025-12-09
+C006,SKU0089,Habib Banaspati 1kg,Habib,Grocery,5.78,3.65,0.63,3,10.4,17.33,27.73,33.27,40.44,Prophet,0.95,1.64,2025-12-09
+C006,SKU0090,Habib Banaspati 2.5kg,Habib,Grocery,13.27,4.41,0.33,3,12.55,39.81,52.36,62.84,92.9,Prophet,0.95,1.64,2025-12-09
+C006,SKU0106,Kolson Macaroni 200g,Kolson,Grocery,22.0,5.87,0.27,3,16.72,65.99,82.71,99.26,153.99,Prophet,0.95,1.64,2025-12-09
+C006,SKU0107,Kolson Macaroni 400g,Kolson,Grocery,6.61,2.09,0.32,3,5.95,19.83,25.78,30.94,46.26,Prophet,0.95,1.64,2025-12-09
+C006,SKU0096,Lipton Yellow Label 200g,Lipton,Grocery,29.37,7.22,0.25,3,20.58,88.11,108.69,130.42,205.59,Prophet,0.95,1.64,2025-12-09
+C006,SKU0085,Mehran Seekh Kabab 50g,Mehran,Grocery,15.83,4.4,0.28,3,12.54,47.49,60.03,72.04,110.82,Prophet,0.95,1.64,2025-12-09
+C006,SKU0077,National Biryani Masala 50g,National,Grocery,9.72,3.71,0.38,3,10.58,29.15,39.73,47.68,68.02,Prophet,0.95,1.64,2025-12-09
+C006,SKU0108,National Salt 800g,National,Grocery,9.89,3.06,0.31,3,8.73,29.66,38.39,46.06,69.2,Prophet,0.95,1.64,2025-12-09
+C006,SKU0111,National Turmeric Powder 100g,National,Grocery,28.72,6.84,0.24,3,19.48,86.15,105.63,126.76,201.02,Prophet,0.95,1.64,2025-12-09
+C006,SKU0082,Shan Biryani Masala 100g,Shan,Grocery,7.95,3.37,0.42,3,9.61,23.84,33.45,40.14,55.63,Prophet,0.95,1.64,2025-12-09
+C006,SKU0084,Shan Chicken Karahi 50g,Shan,Grocery,19.69,5.77,0.29,3,16.44,59.06,75.51,90.61,137.81,Prophet,0.95,1.64,2025-12-09
+C006,SKU0083,Shan Chicken Tikka 50g,Shan,Grocery,2.86,1.23,0.43,3,3.51,8.57,12.08,14.5,20.0,Prophet,0.95,1.64,2025-12-09
+C006,SKU0109,Shan Red Chilli Powder 100g,Shan,Grocery,33.12,8.86,0.27,3,25.24,99.36,124.6,149.52,231.84,Prophet,0.95,1.64,2025-12-09
+C006,SKU0110,Shan Red Chilli Powder 200g,Shan,Grocery,11.76,3.51,0.3,3,10.01,35.28,45.29,54.35,82.33,Prophet,0.95,1.64,2025-12-09
+C006,SKU0104,Shangrila Vermicelli 200g,Shangrila,Grocery,1.38,0.72,0.52,3,2.05,4.14,6.18,10.0,9.65,Prophet,0.95,1.64,2025-12-09
+C006,SKU0105,Shangrila Vermicelli 400g,Shangrila,Grocery,6.47,2.2,0.34,3,6.27,19.41,25.68,30.81,45.29,Prophet,0.95,1.64,2025-12-09
+C006,SKU0100,Sufi Basmati Rice 10kg,Sufi,Grocery,9.62,5.18,0.54,3,14.74,28.85,43.59,52.31,67.32,Prophet,0.95,1.64,2025-12-09
+C006,SKU0094,Tapal Danedar Tea 475g,Tapal,Grocery,2.39,0.58,0.24,3,1.65,7.17,8.82,10.58,16.74,Prophet,0.95,1.64,2025-12-09
+C006,SKU0095,Tapal Danedar Tea 950g,Tapal,Grocery,17.66,6.63,0.38,3,18.89,52.98,71.87,86.25,123.62,Prophet,0.95,1.64,2025-12-09
+C006,SKU0098,Vital Tea 475g,Vital,Grocery,9.61,2.43,0.25,3,6.93,28.83,35.76,42.91,67.28,Prophet,0.95,1.64,2025-12-09
+C006,SKU0142,Ariel Detergent 3kg,Ariel,Household,2.82,0.61,0.22,3,1.74,8.45,10.2,12.24,19.72,Prophet,0.95,1.64,2025-12-09
+C006,SKU0144,Bonus Detergent 3kg,Bonus,Household,23.83,6.8,0.29,3,19.38,71.49,90.87,109.05,166.81,Prophet,0.95,1.64,2025-12-09
+C006,SKU0149,Colin Glass Cleaner 500ml,Colin,Household,11.93,6.02,0.5,3,17.14,35.8,52.94,63.53,83.54,Prophet,0.95,1.64,2025-12-09
+C006,SKU0148,Dettol Disinfectant 500ml,Dettol,Household,20.58,5.48,0.27,3,15.6,61.75,77.36,92.83,144.09,Prophet,0.95,1.64,2025-12-09
+C006,SKU0147,Harpic Toilet Cleaner 1L,Harpic,Household,2.66,0.98,0.37,3,2.78,7.98,10.77,12.92,18.63,Prophet,0.95,1.64,2025-12-09
+C006,SKU0146,Harpic Toilet Cleaner 500ml,Harpic,Household,7.05,2.14,0.3,3,6.09,21.15,27.24,32.68,49.34,Prophet,0.95,1.64,2025-12-09
+C006,SKU0138,Surf Excel Detergent 1kg,Surf Excel,Household,13.47,3.6,0.27,3,10.26,40.41,50.67,60.8,94.29,Prophet,0.95,1.64,2025-12-09
+C006,SKU0140,Surf Excel Detergent 6kg,Surf Excel,Household,18.8,7.41,0.39,3,21.1,56.4,77.5,93.0,131.6,Prophet,0.95,1.64,2025-12-09
+C006,SKU0145,Wheel Detergent 1kg,Wheel,Household,13.86,4.65,0.34,3,13.25,41.58,54.83,65.8,97.02,Prophet,0.95,1.64,2025-12-09
+C006,SKU0132,Clear Shampoo 400ml,Clear,Personal_Care,10.53,2.9,0.28,3,8.26,31.59,39.85,47.81,73.71,Prophet,0.95,1.64,2025-12-09
+C006,SKU0136,Close Up Toothpaste 150g,Close Up,Personal_Care,21.43,6.23,0.29,3,17.74,64.3,82.04,98.45,150.03,Prophet,0.95,1.64,2025-12-09
+C006,SKU0135,Close Up Toothpaste 75g,Close Up,Personal_Care,13.63,3.6,0.26,3,10.26,40.9,51.16,61.4,95.44,Prophet,0.95,1.64,2025-12-09
+C006,SKU0117,Dettol Soap 3-pack,Dettol,Personal_Care,13.72,4.78,0.35,3,13.63,41.15,54.78,65.73,96.01,Prophet,0.95,1.64,2025-12-09
+C006,SKU0118,Dove Beauty Bar 100g,Dove,Personal_Care,10.45,3.14,0.3,3,8.94,31.34,40.27,48.33,73.12,Prophet,0.95,1.64,2025-12-09
+C006,SKU0120,Fair & Lovely Cream 25g,Fair & Lovely,Personal_Care,16.03,5.39,0.34,3,15.35,48.09,63.44,76.13,112.21,Prophet,0.95,1.64,2025-12-09
+C006,SKU0128,Head & Shoulders Shampoo 400ml,Head & Shoulders,Personal_Care,20.62,6.82,0.33,3,19.42,61.87,81.29,97.55,144.36,Prophet,0.95,1.64,2025-12-09
+C006,SKU0114,Lifebuoy Soap 3-pack,Lifebuoy,Personal_Care,18.22,5.25,0.29,3,14.95,54.66,69.6,83.52,127.53,Prophet,0.95,1.64,2025-12-09
+C006,SKU0115,Lifebuoy Soap 6-pack,Lifebuoy,Personal_Care,1.28,0.33,0.26,3,0.93,3.84,4.77,10.0,8.96,Prophet,0.95,1.64,2025-12-09
+C006,SKU0112,Lux Beauty Soap 3-pack,Lux,Personal_Care,10.05,2.67,0.27,3,7.6,30.15,37.74,45.29,70.34,Prophet,0.95,1.64,2025-12-09
+C006,SKU0113,Lux Beauty Soap 6-pack,Lux,Personal_Care,14.95,4.79,0.32,3,13.65,44.84,58.49,70.19,104.63,Prophet,0.95,1.64,2025-12-09
+C006,SKU0124,Pantene Shampoo 180ml,Pantene,Personal_Care,28.53,8.9,0.31,3,25.36,85.6,110.96,133.15,199.73,Prophet,0.95,1.64,2025-12-09
+C006,SKU0125,Pantene Shampoo 400ml,Pantene,Personal_Care,15.96,4.51,0.28,3,12.85,47.87,60.72,72.87,111.71,Prophet,0.95,1.64,2025-12-09
+C006,SKU0126,Pantene Shampoo 650ml,Pantene,Personal_Care,12.32,4.88,0.4,3,13.92,36.97,50.89,61.07,86.27,Prophet,0.95,1.64,2025-12-09
+C006,SKU0116,Safeguard Soap 3-pack,Safeguard,Personal_Care,21.65,6.04,0.28,3,17.21,64.94,82.15,98.59,151.53,Prophet,0.95,1.64,2025-12-09
+C006,SKU0137,Sensodyne Toothpaste 75g,Sensodyne,Personal_Care,2.31,0.85,0.37,3,2.43,6.93,9.36,11.24,16.18,Prophet,0.95,1.64,2025-12-09
+C006,SKU0061,Jubilee Chocolate Biscuit 90g,Jubilee,Snacks,7.41,2.65,0.36,3,7.55,22.22,29.77,35.73,51.85,Prophet,0.95,1.64,2025-12-09
+C006,SKU0051,Kolson Slanty 18g,Kolson,Snacks,4.68,1.44,0.31,3,4.09,14.03,18.12,21.75,32.73,Prophet,0.95,1.64,2025-12-09
+C006,SKU0047,Lays Masala Chips 34g,Lays,Snacks,11.11,4.57,0.41,3,13.03,33.33,46.37,55.64,77.78,Prophet,0.95,1.64,2025-12-09
+C006,SKU0048,Lays Masala Chips 68g,Lays,Snacks,11.61,4.19,0.36,3,11.94,34.83,46.77,56.13,81.27,Prophet,0.95,1.64,2025-12-09
+C006,SKU0049,Lays Masala Chips 90g,Lays,Snacks,11.55,4.4,0.38,3,12.55,34.64,47.19,56.62,80.83,Prophet,0.95,1.64,2025-12-09
+C006,SKU0060,Peek Freans Chocolate Chip 90g,Peek Freans,Snacks,11.18,4.55,0.41,3,12.97,33.55,46.52,55.82,78.28,Prophet,0.95,1.64,2025-12-09
+C006,SKU0058,Peek Freans Sooper Biscuit Family Pack,Peek Freans,Snacks,18.74,5.88,0.31,3,16.75,56.21,72.96,87.55,131.15,Prophet,0.95,1.64,2025-12-09
+C006,SKU0059,Peek Freans Sooper Biscuit Half Roll,Peek Freans,Snacks,6.32,3.85,0.61,3,10.98,18.97,29.95,35.93,44.26,Prophet,0.95,1.64,2025-12-09
+C006,SKU0065,Rio Wafer 18g,Rio,Snacks,5.93,2.05,0.35,3,5.84,17.79,23.63,28.36,41.52,Prophet,0.95,1.64,2025-12-09
+C006,SKU0066,Rio Wafer 45g,Rio,Snacks,19.08,6.49,0.34,3,18.48,57.25,75.73,90.88,133.58,Prophet,0.95,1.64,2025-12-09
+C006,SKU0063,Sooper Cream Biscuit Half Roll,Sooper,Snacks,10.75,3.04,0.28,3,8.67,32.24,40.91,49.09,75.22,Prophet,0.95,1.64,2025-12-09
+C007,SKU0076,Dawn White Bread Medium,Dawn,Bakery,10.23,2.93,0.29,3,8.36,30.7,39.06,35.82,71.64,Prophet,0.95,1.64,2025-12-09
+C007,SKU0069,English Biscuit Brown Bread Medium,English Biscuit,Bakery,3.16,0.93,0.29,3,2.64,9.49,12.13,11.08,22.15,Prophet,0.95,1.64,2025-12-09
+C007,SKU0068,English Biscuit White Bread Large,English Biscuit,Bakery,34.04,8.9,0.26,3,25.36,102.12,127.48,119.14,238.27,Prophet,0.95,1.64,2025-12-09
+C007,SKU0067,English Biscuit White Bread Medium,English Biscuit,Bakery,4.2,2.62,0.62,3,7.45,12.61,20.07,14.72,29.43,Prophet,0.95,1.64,2025-12-09
+C007,SKU0073,Young's Milk Rusk 300g,Young's,Bakery,11.15,3.86,0.35,3,11.0,33.44,44.43,53.32,78.02,Prophet,0.95,1.64,2025-12-09
+C007,SKU0028,7UP 7UP 1.5L,7UP,Beverages,7.3,2.02,0.28,3,5.76,21.89,27.65,33.18,51.08,Prophet,0.95,1.64,2025-12-09
+C007,SKU0026,7UP 7UP 250ml,7UP,Beverages,10.22,4.34,0.42,3,12.35,30.66,43.01,51.61,71.54,Prophet,0.95,1.64,2025-12-09
+C007,SKU0040,Aquafina Water 1.5L,Aquafina,Beverages,17.81,4.52,0.25,3,12.88,53.43,66.3,79.57,124.66,Prophet,0.95,1.64,2025-12-09
+C007,SKU0039,Aquafina Water 500ml,Aquafina,Beverages,14.33,3.79,0.26,3,10.81,42.99,53.8,64.56,100.32,Prophet,0.95,1.64,2025-12-09
+C007,SKU0021,Coca Cola Coke 2.25L,Coca Cola,Beverages,14.89,4.15,0.28,3,11.83,44.67,56.49,67.79,104.23,Prophet,0.95,1.64,2025-12-09
+C007,SKU0019,Coca Cola Coke 500ml,Coca Cola,Beverages,17.05,4.61,0.27,3,13.13,51.15,64.28,77.13,119.35,Prophet,0.95,1.64,2025-12-09
+C007,SKU0033,Fanta Orange 1.5L,Fanta,Beverages,16.62,4.28,0.26,3,12.19,49.86,62.04,74.45,116.33,Prophet,0.95,1.64,2025-12-09
+C007,SKU0032,Fanta Orange 500ml,Fanta,Beverages,11.02,3.15,0.29,3,8.97,33.06,42.04,50.45,77.15,Prophet,0.95,1.64,2025-12-09
+C007,SKU0043,Gourmet Green Tea 100 bags,Gourmet,Beverages,24.41,6.41,0.26,3,18.26,73.24,91.5,109.8,170.9,Prophet,0.95,1.64,2025-12-09
+C007,SKU0041,Gourmet Green Tea 25 bags,Gourmet,Beverages,6.69,2.86,0.43,3,8.16,20.06,28.22,33.86,46.81,Prophet,0.95,1.64,2025-12-09
+C007,SKU0042,Gourmet Green Tea 50 bags,Gourmet,Beverages,14.13,4.37,0.31,3,12.44,42.38,54.81,65.78,98.88,Prophet,0.95,1.64,2025-12-09
+C007,SKU0044,Lipton Yellow Label Tea 100 bags,Lipton,Beverages,1.9,0.69,0.36,3,1.96,5.69,7.65,10.0,13.27,Prophet,0.95,1.64,2025-12-09
+C007,SKU0045,Lipton Yellow Label Tea 200 bags,Lipton,Beverages,7.82,3.4,0.43,3,9.68,23.45,33.13,39.75,54.72,Prophet,0.95,1.64,2025-12-09
+C007,SKU0038,Nestle Pure Life Water 1.5L,Nestle,Beverages,16.29,4.15,0.25,3,11.84,48.88,60.72,72.86,114.06,Prophet,0.95,1.64,2025-12-09
+C007,SKU0037,Nestle Pure Life Water 500ml,Nestle,Beverages,3.84,1.74,0.45,3,4.96,11.53,16.5,19.79,26.91,Prophet,0.95,1.64,2025-12-09
+C007,SKU0024,Pepsi Pepsi 1.5L,Pepsi,Beverages,22.23,7.0,0.32,3,19.95,66.68,86.63,103.96,155.6,Prophet,0.95,1.64,2025-12-09
+C007,SKU0025,Pepsi Pepsi 2.25L,Pepsi,Beverages,16.15,5.93,0.37,3,16.89,48.45,65.33,78.4,113.04,Prophet,0.95,1.64,2025-12-09
+C007,SKU0023,Pepsi Pepsi 500ml,Pepsi,Beverages,8.78,2.3,0.26,3,6.56,26.33,32.89,39.47,61.44,Prophet,0.95,1.64,2025-12-09
+C007,SKU0035,Shezan Mango Juice 1L,Shezan,Beverages,26.05,6.65,0.26,3,18.96,78.16,97.12,116.54,182.36,Prophet,0.95,1.64,2025-12-09
+C007,SKU0034,Shezan Mango Juice 250ml,Shezan,Beverages,8.5,3.27,0.38,3,9.31,25.49,34.8,41.76,59.48,Prophet,0.95,1.64,2025-12-09
+C007,SKU0029,Sprite Sprite 250ml,Sprite,Beverages,6.65,2.41,0.36,3,6.87,19.94,26.81,32.17,46.53,Prophet,0.95,1.64,2025-12-09
+C007,SKU0030,Sprite Sprite 500ml,Sprite,Beverages,3.57,0.85,0.24,3,2.42,10.7,13.13,15.75,24.97,Prophet,0.95,1.64,2025-12-09
+C007,SKU0046,Vital Energy Drink 250ml,Vital,Beverages,17.88,6.81,0.38,3,19.41,53.63,73.04,87.65,125.15,Prophet,0.95,1.64,2025-12-09
+C007,SKU0006,Haleeb Fresh Milk 1L,Haleeb,Dairy,37.76,10.03,0.27,3,28.58,113.28,141.86,170.23,264.32,Prophet,0.95,1.64,2025-12-09
+C007,SKU0007,Haleeb Fresh Milk 500ml,Haleeb,Dairy,6.82,2.63,0.39,3,7.5,20.45,27.95,33.54,47.71,Prophet,0.95,1.64,2025-12-09
+C007,SKU0001,Nestle Everyday Milk 1L,Nestle,Dairy,25.71,8.0,0.31,3,22.78,77.12,99.9,119.88,179.94,Prophet,0.95,1.64,2025-12-09
+C007,SKU0002,Nestle Everyday Milk 500ml,Nestle,Dairy,13.19,3.85,0.29,3,10.96,39.58,50.54,60.64,92.35,Prophet,0.95,1.64,2025-12-09
+C007,SKU0012,Nestle Yogurt 900g,Nestle,Dairy,22.46,7.5,0.33,3,21.38,67.37,88.74,106.49,157.19,Prophet,0.95,1.64,2025-12-09
+C007,SKU0017,Nurpur Butter 200g,Nurpur,Dairy,26.32,6.46,0.25,3,18.4,78.96,97.36,116.83,184.25,Prophet,0.95,1.64,2025-12-09
+C007,SKU0008,Nurpur Milk 1L,Nurpur,Dairy,32.41,8.62,0.27,3,24.57,97.24,121.8,146.16,226.88,Prophet,0.95,1.64,2025-12-09
+C007,SKU0009,Nurpur Milk 500ml,Nurpur,Dairy,9.53,2.96,0.31,3,8.42,28.59,37.01,44.41,66.71,Prophet,0.95,1.64,2025-12-09
+C007,SKU0015,Olpers Cheese Slices 200g,Olpers,Dairy,10.74,3.64,0.34,3,10.36,32.21,42.56,51.08,75.15,Prophet,0.95,1.64,2025-12-09
+C007,SKU0016,Olpers Cheese Slices 400g,Olpers,Dairy,7.58,2.27,0.3,3,6.48,22.73,29.21,35.06,53.04,Prophet,0.95,1.64,2025-12-09
+C007,SKU0004,Olpers Full Cream Milk 1L,Olpers,Dairy,16.89,7.14,0.42,3,20.33,50.68,71.02,85.22,118.26,Prophet,0.95,1.64,2025-12-09
+C007,SKU0014,Tarang Dahi 1kg,Tarang,Dairy,20.74,6.6,0.32,3,18.8,62.22,81.03,97.23,145.19,Prophet,0.95,1.64,2025-12-09
+C007,SKU0013,Tarang Dahi 500g,Tarang,Dairy,22.18,6.42,0.29,3,18.28,66.53,84.81,101.77,155.24,Prophet,0.95,1.64,2025-12-09
+C007,SKU0153,K&N's Chicken Nuggets 1kg,K&N's,Frozen,2.04,0.9,0.44,3,2.55,6.11,8.66,10.39,14.25,Prophet,0.95,1.64,2025-12-09
+C007,SKU0152,K&N's Chicken Nuggets 500g,K&N's,Frozen,9.1,3.21,0.35,3,9.15,27.29,36.44,43.73,63.68,Prophet,0.95,1.64,2025-12-09
+C007,SKU0155,K&N's Chicken Patties 12-pack,K&N's,Frozen,15.33,4.93,0.32,3,14.05,45.99,60.04,72.05,107.32,Prophet,0.95,1.64,2025-12-09
+C007,SKU0154,K&N's Chicken Seekh Kabab 500g,K&N's,Frozen,19.39,4.42,0.23,3,12.6,58.18,70.78,84.94,135.74,Prophet,0.95,1.64,2025-12-09
+C007,SKU0158,Makkhan Paratha 20-pack,Makkhan,Frozen,10.66,3.77,0.35,3,10.75,31.99,42.74,51.29,74.65,Prophet,0.95,1.64,2025-12-09
+C007,SKU0157,Menu Plain Paratha 30-pack,Menu,Frozen,0.03,3.4,117.9,3,9.68,0.09,9.77,11.72,0.2,Prophet,0.95,1.64,2025-12-09
+C007,SKU0159,Walls Ice Cream Cornetto Single,Walls,Frozen,17.0,5.23,0.31,3,14.9,51.01,65.9,79.09,119.02,Prophet,0.95,1.64,2025-12-09
+C007,SKU0086,Dalda Cooking Oil 1L,Dalda,Grocery,15.45,5.14,0.33,3,14.65,46.36,61.01,73.21,108.16,Prophet,0.95,1.64,2025-12-09
+C007,SKU0087,Dalda Cooking Oil 2.5L,Dalda,Grocery,10.61,4.0,0.38,3,11.4,31.82,43.22,51.86,74.24,Prophet,0.95,1.64,2025-12-09
+C007,SKU0088,Dalda Cooking Oil 5L,Dalda,Grocery,4.73,1.34,0.28,3,3.83,14.18,18.01,21.61,33.08,Prophet,0.95,1.64,2025-12-09
+C007,SKU0102,Guard Super Basmati 10kg,Guard,Grocery,4.51,1.48,0.33,3,4.22,13.52,17.73,21.28,31.54,Prophet,0.95,1.64,2025-12-09
+C007,SKU0089,Habib Banaspati 1kg,Habib,Grocery,26.69,8.12,0.3,3,23.14,80.08,103.22,123.87,186.85,Prophet,0.95,1.64,2025-12-09
+C007,SKU0090,Habib Banaspati 2.5kg,Habib,Grocery,12.17,6.25,0.51,3,17.8,36.51,54.31,65.17,85.2,Prophet,0.95,1.64,2025-12-09
+C007,SKU0096,Lipton Yellow Label 200g,Lipton,Grocery,21.55,6.45,0.3,3,18.36,64.64,83.0,99.6,150.82,Prophet,0.95,1.64,2025-12-09
+C007,SKU0097,Lipton Yellow Label 450g,Lipton,Grocery,16.49,5.34,0.32,3,15.2,49.47,64.68,77.61,115.44,Prophet,0.95,1.64,2025-12-09
+C007,SKU0078,National Biryani Masala 100g,National,Grocery,25.36,6.39,0.25,3,18.21,76.07,94.28,113.14,177.49,Prophet,0.95,1.64,2025-12-09
+C007,SKU0077,National Biryani Masala 50g,National,Grocery,13.76,3.84,0.28,3,10.95,41.29,52.24,62.68,96.34,Prophet,0.95,1.64,2025-12-09
+C007,SKU0080,National Nihari Masala 50g,National,Grocery,21.23,5.89,0.28,3,16.78,63.7,80.48,96.57,148.63,Prophet,0.95,1.64,2025-12-09
+C007,SKU0108,National Salt 800g,National,Grocery,10.19,4.89,0.48,3,13.94,30.56,44.5,53.4,71.32,Prophet,0.95,1.64,2025-12-09
+C007,SKU0082,Shan Biryani Masala 100g,Shan,Grocery,20.3,5.71,0.28,3,16.27,60.9,77.17,92.6,142.1,Prophet,0.95,1.64,2025-12-09
+C007,SKU0081,Shan Biryani Masala 50g,Shan,Grocery,21.09,5.69,0.27,3,16.2,63.26,79.46,95.35,147.6,Prophet,0.95,1.64,2025-12-09
+C007,SKU0109,Shan Red Chilli Powder 100g,Shan,Grocery,3.46,0.57,0.16,3,1.62,10.39,12.01,14.41,24.24,Prophet,0.95,1.64,2025-12-09
+C007,SKU0110,Shan Red Chilli Powder 200g,Shan,Grocery,9.82,2.76,0.28,3,7.86,29.45,37.32,44.78,68.73,Prophet,0.95,1.64,2025-12-09
+C007,SKU0104,Shangrila Vermicelli 200g,Shangrila,Grocery,16.66,4.54,0.27,3,12.94,49.98,62.92,75.5,116.62,Prophet,0.95,1.64,2025-12-09
+C007,SKU0105,Shangrila Vermicelli 400g,Shangrila,Grocery,18.79,6.62,0.35,3,18.87,56.38,75.26,90.31,131.56,Prophet,0.95,1.64,2025-12-09
+C007,SKU0099,Sufi Basmati Rice 5kg,Sufi,Grocery,12.49,3.35,0.27,3,9.55,37.46,47.01,56.41,87.41,Prophet,0.95,1.64,2025-12-09
+C007,SKU0093,Tapal Danedar Tea 190g,Tapal,Grocery,11.6,3.46,0.3,3,9.87,34.79,44.66,53.59,81.18,Prophet,0.95,1.64,2025-12-09
+C007,SKU0095,Tapal Danedar Tea 950g,Tapal,Grocery,2.76,0.79,0.28,3,2.24,8.29,10.52,12.63,19.34,Prophet,0.95,1.64,2025-12-09
+C007,SKU0098,Vital Tea 475g,Vital,Grocery,22.34,6.57,0.29,3,18.72,67.03,85.75,102.9,156.39,Prophet,0.95,1.64,2025-12-09
+C007,SKU0142,Ariel Detergent 3kg,Ariel,Household,17.49,5.18,0.3,3,14.77,52.47,67.23,80.68,122.42,Prophet,0.95,1.64,2025-12-09
+C007,SKU0143,Bonus Detergent 1kg,Bonus,Household,5.92,1.87,0.32,3,5.33,17.75,23.09,27.7,41.42,Prophet,0.95,1.64,2025-12-09
+C007,SKU0144,Bonus Detergent 3kg,Bonus,Household,14.26,5.12,0.36,3,14.58,42.78,57.35,68.83,99.81,Prophet,0.95,1.64,2025-12-09
+C007,SKU0147,Harpic Toilet Cleaner 1L,Harpic,Household,8.41,2.68,0.32,3,7.64,25.24,32.88,39.45,58.89,Prophet,0.95,1.64,2025-12-09
+C007,SKU0140,Surf Excel Detergent 6kg,Surf Excel,Household,8.32,6.58,0.79,3,18.75,24.95,43.7,52.44,58.21,Prophet,0.95,1.64,2025-12-09
+C007,SKU0150,Vim Dishwash Bar 250g,Vim,Household,26.9,8.88,0.33,3,25.3,80.71,106.01,127.21,188.32,Prophet,0.95,1.64,2025-12-09
+C007,SKU0151,Vim Dishwash Bar 500g,Vim,Household,15.7,4.05,0.26,3,11.54,47.11,58.64,70.37,109.92,Prophet,0.95,1.64,2025-12-09
+C007,SKU0145,Wheel Detergent 1kg,Wheel,Household,27.09,6.76,0.25,3,19.27,81.28,100.55,120.66,189.66,Prophet,0.95,1.64,2025-12-09
+C007,SKU0131,Clear Shampoo 185ml,Clear,Personal_Care,6.8,4.55,0.67,3,12.97,20.4,33.37,40.04,47.6,Prophet,0.95,1.64,2025-12-09
+C007,SKU0132,Clear Shampoo 400ml,Clear,Personal_Care,6.36,2.65,0.42,3,7.55,19.09,26.63,31.96,44.53,Prophet,0.95,1.64,2025-12-09
+C007,SKU0135,Close Up Toothpaste 75g,Close Up,Personal_Care,18.0,4.7,0.26,3,13.38,53.99,67.38,80.85,125.98,Prophet,0.95,1.64,2025-12-09
+C007,SKU0134,Colgate Toothpaste 150g,Colgate,Personal_Care,31.84,9.57,0.3,3,27.27,95.52,122.79,147.35,222.88,Prophet,0.95,1.64,2025-12-09
+C007,SKU0118,Dove Beauty Bar 100g,Dove,Personal_Care,24.33,6.03,0.25,3,17.17,72.98,90.15,108.18,170.29,Prophet,0.95,1.64,2025-12-09
+C007,SKU0119,Dove Beauty Bar 3-pack,Dove,Personal_Care,7.05,2.59,0.37,3,7.38,21.14,28.53,34.23,49.33,Prophet,0.95,1.64,2025-12-09
+C007,SKU0128,Head & Shoulders Shampoo 400ml,Head & Shoulders,Personal_Care,15.94,4.14,0.26,3,11.79,47.81,59.61,71.53,111.56,Prophet,0.95,1.64,2025-12-09
+C007,SKU0114,Lifebuoy Soap 3-pack,Lifebuoy,Personal_Care,12.97,3.97,0.31,3,11.31,38.9,50.21,60.25,90.78,Prophet,0.95,1.64,2025-12-09
+C007,SKU0124,Pantene Shampoo 180ml,Pantene,Personal_Care,13.65,3.7,0.27,3,10.54,40.95,51.49,61.79,95.56,Prophet,0.95,1.64,2025-12-09
+C007,SKU0125,Pantene Shampoo 400ml,Pantene,Personal_Care,27.54,7.82,0.28,3,22.28,82.62,104.9,125.88,192.78,Prophet,0.95,1.64,2025-12-09
+C007,SKU0126,Pantene Shampoo 650ml,Pantene,Personal_Care,2.23,0.55,0.25,3,1.56,6.68,8.24,10.0,15.58,Prophet,0.95,1.64,2025-12-09
+C007,SKU0116,Safeguard Soap 3-pack,Safeguard,Personal_Care,34.74,9.74,0.28,3,27.74,104.21,131.95,158.34,243.15,Prophet,0.95,1.64,2025-12-09
+C007,SKU0137,Sensodyne Toothpaste 75g,Sensodyne,Personal_Care,10.58,3.88,0.37,3,11.05,31.75,42.8,51.36,74.08,Prophet,0.95,1.64,2025-12-09
+C007,SKU0129,Sunsilk Shampoo 180ml,Sunsilk,Personal_Care,4.62,2.36,0.51,3,6.73,13.87,20.6,24.72,32.36,Prophet,0.95,1.64,2025-12-09
+C007,SKU0062,Jubilee Coconut Biscuit 90g,Jubilee,Snacks,26.34,8.67,0.33,3,24.71,79.03,103.74,124.48,184.4,Prophet,0.95,1.64,2025-12-09
+C007,SKU0052,Kolson Slanty 40g,Kolson,Snacks,17.4,4.88,0.28,3,13.91,52.2,66.11,79.33,121.8,Prophet,0.95,1.64,2025-12-09
+C007,SKU0056,Kurkure Chatpata 62g,Kurkure,Snacks,22.22,5.89,0.27,3,16.78,66.66,83.44,100.13,155.54,Prophet,0.95,1.64,2025-12-09
+C007,SKU0048,Lays Masala Chips 68g,Lays,Snacks,12.96,4.52,0.35,3,12.87,38.87,51.75,62.1,90.71,Prophet,0.95,1.64,2025-12-09
+C007,SKU0049,Lays Masala Chips 90g,Lays,Snacks,18.88,5.08,0.27,3,14.47,56.64,71.11,85.34,132.17,Prophet,0.95,1.64,2025-12-09
+C007,SKU0050,Lays Wavy Chips 68g,Lays,Snacks,34.34,8.94,0.26,3,25.46,103.01,128.47,154.16,240.35,Prophet,0.95,1.64,2025-12-09
+C007,SKU0060,Peek Freans Chocolate Chip 90g,Peek Freans,Snacks,10.77,4.41,0.41,3,12.56,32.3,44.86,53.83,75.36,Prophet,0.95,1.64,2025-12-09
+C007,SKU0058,Peek Freans Sooper Biscuit Family Pack,Peek Freans,Snacks,2.61,0.65,0.25,3,1.86,7.82,9.68,11.62,18.24,Prophet,0.95,1.64,2025-12-09
+C007,SKU0065,Rio Wafer 18g,Rio,Snacks,18.8,6.64,0.35,3,18.92,56.41,75.32,90.39,131.61,Prophet,0.95,1.64,2025-12-09
+C007,SKU0066,Rio Wafer 45g,Rio,Snacks,2.75,0.72,0.26,3,2.05,8.24,10.29,12.34,19.22,Prophet,0.95,1.64,2025-12-09
+C007,SKU0064,Sooper Cream Biscuit Full Roll,Sooper,Snacks,6.3,2.06,0.33,3,5.87,18.91,24.78,29.74,44.13,Prophet,0.95,1.64,2025-12-09
+C008,SKU0074,Bake Parlor Rusk Plain,Bake Parlor,Bakery,2.12,0.45,0.21,3,1.28,6.37,7.65,10.0,14.86,Prophet,0.95,1.64,2025-12-09
+C008,SKU0076,Dawn White Bread Medium,Dawn,Bakery,8.11,9.03,1.11,3,25.74,24.32,50.05,28.37,56.74,Prophet,0.95,1.64,2025-12-09
+C008,SKU0070,English Biscuit Brown Bread Large,English Biscuit,Bakery,12.34,3.61,0.29,3,10.28,37.01,47.29,43.18,86.37,Prophet,0.95,1.64,2025-12-09
+C008,SKU0069,English Biscuit Brown Bread Medium,English Biscuit,Bakery,21.65,5.55,0.26,3,15.81,64.95,80.76,75.77,151.54,Prophet,0.95,1.64,2025-12-09
+C008,SKU0068,English Biscuit White Bread Large,English Biscuit,Bakery,2.74,0.62,0.23,3,1.76,8.22,9.98,10.0,19.18,Prophet,0.95,1.64,2025-12-09
+C008,SKU0072,Peek Freans Cake Rusk Chocolate,Peek Freans,Bakery,6.8,2.75,0.4,3,7.82,20.39,28.21,33.86,47.57,Prophet,0.95,1.64,2025-12-09
+C008,SKU0071,Peek Freans Cake Rusk Regular,Peek Freans,Bakery,20.74,5.23,0.25,3,14.89,62.23,77.11,92.54,145.19,Prophet,0.95,1.64,2025-12-09
+C008,SKU0028,7UP 7UP 1.5L,7UP,Beverages,13.39,6.13,0.46,3,17.48,40.18,57.65,69.19,93.75,Prophet,0.95,1.64,2025-12-09
+C008,SKU0026,7UP 7UP 250ml,7UP,Beverages,19.49,6.33,0.32,3,18.04,58.46,76.5,91.8,136.41,Prophet,0.95,1.64,2025-12-09
+C008,SKU0040,Aquafina Water 1.5L,Aquafina,Beverages,1.95,0.5,0.26,3,1.42,5.84,7.27,10.0,13.63,Prophet,0.95,1.64,2025-12-09
+C008,SKU0039,Aquafina Water 500ml,Aquafina,Beverages,18.23,4.13,0.23,3,11.76,54.68,66.45,79.74,127.6,Prophet,0.95,1.64,2025-12-09
+C008,SKU0021,Coca Cola Coke 2.25L,Coca Cola,Beverages,15.38,4.69,0.31,3,13.37,46.13,59.5,71.4,107.63,Prophet,0.95,1.64,2025-12-09
+C008,SKU0019,Coca Cola Coke 500ml,Coca Cola,Beverages,3.82,1.37,0.36,3,3.91,11.45,15.36,18.43,26.72,Prophet,0.95,1.64,2025-12-09
+C008,SKU0033,Fanta Orange 1.5L,Fanta,Beverages,6.18,2.22,0.36,3,6.32,18.55,24.87,29.85,43.29,Prophet,0.95,1.64,2025-12-09
+C008,SKU0032,Fanta Orange 500ml,Fanta,Beverages,26.66,7.15,0.27,3,20.36,79.99,100.35,120.43,186.65,Prophet,0.95,1.64,2025-12-09
+C008,SKU0043,Gourmet Green Tea 100 bags,Gourmet,Beverages,21.25,6.3,0.3,3,17.96,63.76,81.72,98.06,148.77,Prophet,0.95,1.64,2025-12-09
+C008,SKU0041,Gourmet Green Tea 25 bags,Gourmet,Beverages,24.23,6.24,0.26,3,17.77,72.68,90.45,108.54,169.58,Prophet,0.95,1.64,2025-12-09
+C008,SKU0044,Lipton Yellow Label Tea 100 bags,Lipton,Beverages,15.12,4.22,0.28,3,12.04,45.35,57.38,68.86,105.81,Prophet,0.95,1.64,2025-12-09
+C008,SKU0037,Nestle Pure Life Water 500ml,Nestle,Beverages,4.23,1.14,0.27,3,3.24,12.69,15.93,19.11,29.6,Prophet,0.95,1.64,2025-12-09
+C008,SKU0024,Pepsi Pepsi 1.5L,Pepsi,Beverages,16.89,4.51,0.27,3,12.84,50.67,63.51,76.21,118.23,Prophet,0.95,1.64,2025-12-09
+C008,SKU0025,Pepsi Pepsi 2.25L,Pepsi,Beverages,18.41,6.91,0.38,3,19.69,55.23,74.92,89.91,128.87,Prophet,0.95,1.64,2025-12-09
+C008,SKU0035,Shezan Mango Juice 1L,Shezan,Beverages,7.14,3.23,0.45,3,9.2,21.43,30.63,36.75,50.0,Prophet,0.95,1.64,2025-12-09
+C008,SKU0029,Sprite Sprite 250ml,Sprite,Beverages,9.66,2.78,0.29,3,7.91,28.99,36.9,44.28,67.64,Prophet,0.95,1.64,2025-12-09
+C008,SKU0046,Vital Energy Drink 250ml,Vital,Beverages,20.37,7.48,0.37,3,21.32,61.11,82.43,98.92,142.6,Prophet,0.95,1.64,2025-12-09
+C008,SKU0006,Haleeb Fresh Milk 1L,Haleeb,Dairy,19.21,6.24,0.33,3,17.79,57.63,75.42,90.5,134.47,Prophet,0.95,1.64,2025-12-09
+C008,SKU0007,Haleeb Fresh Milk 500ml,Haleeb,Dairy,21.98,5.84,0.27,3,16.63,65.93,82.57,99.08,153.85,Prophet,0.95,1.64,2025-12-09
+C008,SKU0001,Nestle Everyday Milk 1L,Nestle,Dairy,31.97,7.88,0.25,3,22.46,95.9,118.36,142.03,223.77,Prophet,0.95,1.64,2025-12-09
+C008,SKU0012,Nestle Yogurt 900g,Nestle,Dairy,3.64,0.94,0.26,3,2.68,10.92,13.6,16.32,25.48,Prophet,0.95,1.64,2025-12-09
+C008,SKU0017,Nurpur Butter 200g,Nurpur,Dairy,6.72,1.83,0.27,3,5.21,20.16,25.37,30.44,47.04,Prophet,0.95,1.64,2025-12-09
+C008,SKU0008,Nurpur Milk 1L,Nurpur,Dairy,12.25,4.01,0.33,3,11.43,36.76,48.19,57.83,85.77,Prophet,0.95,1.64,2025-12-09
+C008,SKU0015,Olpers Cheese Slices 200g,Olpers,Dairy,11.97,3.09,0.26,3,8.8,35.9,44.7,53.64,83.76,Prophet,0.95,1.64,2025-12-09
+C008,SKU0016,Olpers Cheese Slices 400g,Olpers,Dairy,25.29,6.77,0.27,3,19.29,75.87,95.16,114.19,177.02,Prophet,0.95,1.64,2025-12-09
+C008,SKU0005,Olpers Full Cream Milk 500ml,Olpers,Dairy,9.38,3.18,0.34,3,9.06,28.13,37.19,44.63,65.63,Prophet,0.95,1.64,2025-12-09
+C008,SKU0014,Tarang Dahi 1kg,Tarang,Dairy,5.21,1.48,0.28,3,4.21,15.64,19.85,23.82,36.49,Prophet,0.95,1.64,2025-12-09
+C008,SKU0013,Tarang Dahi 500g,Tarang,Dairy,13.1,3.72,0.28,3,10.61,39.3,49.92,59.9,91.71,Prophet,0.95,1.64,2025-12-09
+C008,SKU0153,K&N's Chicken Nuggets 1kg,K&N's,Frozen,17.38,5.3,0.3,3,15.09,52.13,67.22,80.67,121.65,Prophet,0.95,1.64,2025-12-09
+C008,SKU0152,K&N's Chicken Nuggets 500g,K&N's,Frozen,20.69,5.73,0.28,3,16.32,62.07,78.39,94.06,144.82,Prophet,0.95,1.64,2025-12-09
+C008,SKU0158,Makkhan Paratha 20-pack,Makkhan,Frozen,4.28,1.13,0.27,3,3.23,12.83,16.06,19.27,29.94,Prophet,0.95,1.64,2025-12-09
+C008,SKU0156,Menu Plain Paratha 20-pack,Menu,Frozen,7.24,2.5,0.35,3,7.12,21.71,28.83,34.59,50.66,Prophet,0.95,1.64,2025-12-09
+C008,SKU0157,Menu Plain Paratha 30-pack,Menu,Frozen,20.46,4.86,0.24,3,13.86,61.38,75.24,90.29,143.23,Prophet,0.95,1.64,2025-12-09
+C008,SKU0159,Walls Ice Cream Cornetto Single,Walls,Frozen,4.64,1.34,0.29,3,3.82,13.91,17.73,21.28,32.45,Prophet,0.95,1.64,2025-12-09
+C008,SKU0086,Dalda Cooking Oil 1L,Dalda,Grocery,5.21,1.55,0.3,3,4.43,15.63,20.06,24.07,36.48,Prophet,0.95,1.64,2025-12-09
+C008,SKU0087,Dalda Cooking Oil 2.5L,Dalda,Grocery,20.57,5.66,0.28,3,16.13,61.71,77.84,93.4,143.99,Prophet,0.95,1.64,2025-12-09
+C008,SKU0088,Dalda Cooking Oil 5L,Dalda,Grocery,5.85,1.52,0.26,3,4.34,17.55,21.89,26.27,40.96,Prophet,0.95,1.64,2025-12-09
+C008,SKU0091,Eva Cooking Oil 1L,Eva,Grocery,10.6,6.57,0.62,3,18.72,31.79,50.51,60.61,74.17,Prophet,0.95,1.64,2025-12-09
+C008,SKU0102,Guard Super Basmati 10kg,Guard,Grocery,24.23,6.76,0.28,3,19.26,72.7,91.96,110.35,169.64,Prophet,0.95,1.64,2025-12-09
+C008,SKU0090,Habib Banaspati 2.5kg,Habib,Grocery,4.2,1.69,0.4,3,4.82,12.59,17.41,20.89,29.38,Prophet,0.95,1.64,2025-12-09
+C008,SKU0103,Mehran Basmati Rice 5kg,Mehran,Grocery,22.39,5.8,0.26,3,16.53,67.17,83.7,100.44,156.73,Prophet,0.95,1.64,2025-12-09
+C008,SKU0085,Mehran Seekh Kabab 50g,Mehran,Grocery,21.36,5.63,0.26,3,16.03,64.07,80.11,96.13,149.5,Prophet,0.95,1.64,2025-12-09
+C008,SKU0078,National Biryani Masala 100g,National,Grocery,13.43,3.62,0.27,3,10.32,40.29,50.6,60.72,94.0,Prophet,0.95,1.64,2025-12-09
+C008,SKU0080,National Nihari Masala 50g,National,Grocery,28.7,7.88,0.27,3,22.45,86.11,108.56,130.27,200.92,Prophet,0.95,1.64,2025-12-09
+C008,SKU0081,Shan Biryani Masala 50g,Shan,Grocery,19.53,5.09,0.26,3,14.5,58.6,73.1,87.71,136.72,Prophet,0.95,1.64,2025-12-09
+C008,SKU0083,Shan Chicken Tikka 50g,Shan,Grocery,4.92,3.3,0.67,3,9.39,14.77,24.16,28.99,34.46,Prophet,0.95,1.64,2025-12-09
+C008,SKU0110,Shan Red Chilli Powder 200g,Shan,Grocery,3.22,1.08,0.34,3,3.08,9.66,12.74,15.29,22.55,Prophet,0.95,1.64,2025-12-09
+C008,SKU0104,Shangrila Vermicelli 200g,Shangrila,Grocery,11.51,3.64,0.32,3,10.37,34.53,44.89,53.87,80.56,Prophet,0.95,1.64,2025-12-09
+C008,SKU0105,Shangrila Vermicelli 400g,Shangrila,Grocery,13.35,3.58,0.27,3,10.2,40.04,50.25,60.3,93.43,Prophet,0.95,1.64,2025-12-09
+C008,SKU0100,Sufi Basmati Rice 10kg,Sufi,Grocery,16.38,5.32,0.32,3,15.16,49.13,64.29,77.15,114.64,Prophet,0.95,1.64,2025-12-09
+C008,SKU0093,Tapal Danedar Tea 190g,Tapal,Grocery,12.89,5.21,0.4,3,14.85,38.68,53.53,64.24,90.26,Prophet,0.95,1.64,2025-12-09
+C008,SKU0094,Tapal Danedar Tea 475g,Tapal,Grocery,11.88,4.54,0.38,3,12.95,35.63,48.58,58.3,83.15,Prophet,0.95,1.64,2025-12-09
+C008,SKU0098,Vital Tea 475g,Vital,Grocery,21.83,6.84,0.31,3,19.5,65.5,85.0,102.0,152.82,Prophet,0.95,1.64,2025-12-09
+C008,SKU0141,Ariel Detergent 1kg,Ariel,Household,21.26,5.66,0.27,3,16.13,63.79,79.91,95.9,148.84,Prophet,0.95,1.64,2025-12-09
+C008,SKU0142,Ariel Detergent 3kg,Ariel,Household,19.71,5.38,0.27,3,15.32,59.12,74.44,89.32,137.94,Prophet,0.95,1.64,2025-12-09
+C008,SKU0143,Bonus Detergent 1kg,Bonus,Household,19.93,6.3,0.32,3,17.94,59.8,77.74,93.28,139.53,Prophet,0.95,1.64,2025-12-09
+C008,SKU0144,Bonus Detergent 3kg,Bonus,Household,20.3,5.81,0.29,3,16.54,60.9,77.44,92.93,142.1,Prophet,0.95,1.64,2025-12-09
+C008,SKU0148,Dettol Disinfectant 500ml,Dettol,Household,15.24,6.54,0.43,3,18.65,45.73,64.37,77.24,106.69,Prophet,0.95,1.64,2025-12-09
+C008,SKU0147,Harpic Toilet Cleaner 1L,Harpic,Household,5.77,1.72,0.3,3,4.91,17.32,22.24,26.68,40.42,Prophet,0.95,1.64,2025-12-09
+C008,SKU0138,Surf Excel Detergent 1kg,Surf Excel,Household,16.28,5.23,0.32,3,14.9,48.85,63.76,76.51,113.99,Prophet,0.95,1.64,2025-12-09
+C008,SKU0139,Surf Excel Detergent 3kg,Surf Excel,Household,16.47,4.19,0.25,3,11.93,49.41,61.35,73.61,115.3,Prophet,0.95,1.64,2025-12-09
+C008,SKU0140,Surf Excel Detergent 6kg,Surf Excel,Household,9.01,2.55,0.28,3,7.25,27.02,34.27,41.12,63.04,Prophet,0.95,1.64,2025-12-09
+C008,SKU0150,Vim Dishwash Bar 250g,Vim,Household,15.11,5.94,0.39,3,16.93,45.33,62.27,74.72,105.78,Prophet,0.95,1.64,2025-12-09
+C008,SKU0151,Vim Dishwash Bar 500g,Vim,Household,13.97,4.35,0.31,3,12.38,41.92,54.31,65.17,97.81,Prophet,0.95,1.64,2025-12-09
+C008,SKU0145,Wheel Detergent 1kg,Wheel,Household,15.72,4.42,0.28,3,12.6,47.16,59.77,71.72,110.05,Prophet,0.95,1.64,2025-12-09
+C008,SKU0131,Clear Shampoo 185ml,Clear,Personal_Care,25.88,6.58,0.25,3,18.75,77.65,96.4,115.68,181.18,Prophet,0.95,1.64,2025-12-09
+C008,SKU0132,Clear Shampoo 400ml,Clear,Personal_Care,1.37,0.46,0.34,3,1.32,4.12,5.44,10.0,9.62,Prophet,0.95,1.64,2025-12-09
+C008,SKU0136,Close Up Toothpaste 150g,Close Up,Personal_Care,10.58,5.84,0.55,3,16.64,31.74,48.38,58.06,74.07,Prophet,0.95,1.64,2025-12-09
+C008,SKU0135,Close Up Toothpaste 75g,Close Up,Personal_Care,6.9,2.29,0.33,3,6.52,20.7,27.23,32.67,48.31,Prophet,0.95,1.64,2025-12-09
+C008,SKU0133,Colgate Toothpaste 75g,Colgate,Personal_Care,21.94,5.73,0.26,3,16.34,65.83,82.17,98.6,153.59,Prophet,0.95,1.64,2025-12-09
+C008,SKU0117,Dettol Soap 3-pack,Dettol,Personal_Care,12.72,4.0,0.31,3,11.38,38.16,49.55,59.46,89.05,Prophet,0.95,1.64,2025-12-09
+C008,SKU0118,Dove Beauty Bar 100g,Dove,Personal_Care,8.02,5.52,0.69,3,15.72,24.05,39.76,47.72,56.12,Prophet,0.95,1.64,2025-12-09
+C008,SKU0119,Dove Beauty Bar 3-pack,Dove,Personal_Care,23.3,6.87,0.29,3,19.58,69.9,89.48,107.37,163.1,Prophet,0.95,1.64,2025-12-09
+C008,SKU0121,Fair & Lovely Cream 50g,Fair & Lovely,Personal_Care,7.58,2.9,0.38,3,8.26,22.75,31.01,37.21,53.09,Prophet,0.95,1.64,2025-12-09
+C008,SKU0127,Head & Shoulders Shampoo 185ml,Head & Shoulders,Personal_Care,7.87,3.83,0.49,3,10.91,23.61,34.52,41.42,55.08,Prophet,0.95,1.64,2025-12-09
+C008,SKU0128,Head & Shoulders Shampoo 400ml,Head & Shoulders,Personal_Care,17.55,6.69,0.38,3,19.05,52.66,71.72,86.06,122.88,Prophet,0.95,1.64,2025-12-09
+C008,SKU0114,Lifebuoy Soap 3-pack,Lifebuoy,Personal_Care,20.08,8.41,0.42,3,23.95,60.25,84.19,101.03,140.58,Prophet,0.95,1.64,2025-12-09
+C008,SKU0112,Lux Beauty Soap 3-pack,Lux,Personal_Care,11.92,3.25,0.27,3,9.25,35.77,45.02,54.02,83.45,Prophet,0.95,1.64,2025-12-09
+C008,SKU0113,Lux Beauty Soap 6-pack,Lux,Personal_Care,7.62,4.04,0.53,3,11.52,22.86,34.38,41.26,53.34,Prophet,0.95,1.64,2025-12-09
+C008,SKU0124,Pantene Shampoo 180ml,Pantene,Personal_Care,14.61,4.94,0.34,3,14.07,43.83,57.9,69.48,102.27,Prophet,0.95,1.64,2025-12-09
+C008,SKU0126,Pantene Shampoo 650ml,Pantene,Personal_Care,15.04,3.76,0.25,3,10.72,45.11,55.83,67.0,105.26,Prophet,0.95,1.64,2025-12-09
+C008,SKU0123,Pond's Face Cream 50g,Pond's,Personal_Care,3.9,1.48,0.38,3,4.22,11.71,15.93,19.11,27.32,Prophet,0.95,1.64,2025-12-09
+C008,SKU0116,Safeguard Soap 3-pack,Safeguard,Personal_Care,2.34,2.42,1.04,3,6.9,7.02,13.92,16.7,16.37,Prophet,0.95,1.64,2025-12-09
+C008,SKU0137,Sensodyne Toothpaste 75g,Sensodyne,Personal_Care,14.82,4.81,0.32,3,13.72,44.45,58.17,69.8,103.72,Prophet,0.95,1.64,2025-12-09
+C008,SKU0129,Sunsilk Shampoo 180ml,Sunsilk,Personal_Care,24.3,6.83,0.28,3,19.45,72.91,92.37,110.84,170.13,Prophet,0.95,1.64,2025-12-09
+C008,SKU0055,Cheetos Crunchy 48g,Cheetos,Snacks,2.82,1.72,0.61,3,4.9,8.45,13.35,16.02,19.72,Prophet,0.95,1.64,2025-12-09
+C008,SKU0061,Jubilee Chocolate Biscuit 90g,Jubilee,Snacks,10.19,5.71,0.56,3,16.28,30.57,46.84,56.21,71.32,Prophet,0.95,1.64,2025-12-09
+C008,SKU0062,Jubilee Coconut Biscuit 90g,Jubilee,Snacks,22.69,8.9,0.39,3,25.36,68.08,93.43,112.12,158.84,Prophet,0.95,1.64,2025-12-09
+C008,SKU0052,Kolson Slanty 40g,Kolson,Snacks,26.42,8.48,0.32,3,24.16,79.26,103.42,124.1,184.93,Prophet,0.95,1.64,2025-12-09
+C008,SKU0048,Lays Masala Chips 68g,Lays,Snacks,4.1,1.4,0.34,3,3.98,12.3,16.28,19.54,28.69,Prophet,0.95,1.64,2025-12-09
+C008,SKU0060,Peek Freans Chocolate Chip 90g,Peek Freans,Snacks,17.68,5.18,0.29,3,14.76,53.05,67.81,81.37,123.78,Prophet,0.95,1.64,2025-12-09
+C008,SKU0058,Peek Freans Sooper Biscuit Family Pack,Peek Freans,Snacks,10.99,2.82,0.26,3,8.04,32.96,41.0,49.2,76.9,Prophet,0.95,1.64,2025-12-09
+C008,SKU0059,Peek Freans Sooper Biscuit Half Roll,Peek Freans,Snacks,5.04,1.48,0.29,3,4.22,15.11,19.34,23.21,35.27,Prophet,0.95,1.64,2025-12-09
+C008,SKU0065,Rio Wafer 18g,Rio,Snacks,14.3,3.88,0.27,3,11.05,42.9,53.95,64.75,100.11,Prophet,0.95,1.64,2025-12-09
+C008,SKU0066,Rio Wafer 45g,Rio,Snacks,30.62,8.56,0.28,3,24.39,91.87,116.25,139.5,214.35,Prophet,0.95,1.64,2025-12-09
+C008,SKU0053,Super Crisp Nimko 100g,Super Crisp,Snacks,8.74,3.03,0.35,3,8.62,26.23,34.85,41.82,61.2,Prophet,0.95,1.64,2025-12-09
+C008,SKU0054,Super Crisp Nimko 200g,Super Crisp,Snacks,8.16,2.14,0.26,3,6.09,24.47,30.56,36.67,57.1,Prophet,0.95,1.64,2025-12-09
+C009,SKU0074,Bake Parlor Rusk Plain,Bake Parlor,Bakery,25.41,7.25,0.29,3,20.67,76.22,96.89,116.27,177.85,Prophet,0.95,1.64,2025-12-09
+C009,SKU0075,Bake Parlor Rusk Zeera,Bake Parlor,Bakery,10.8,3.5,0.32,3,9.98,32.39,42.37,50.84,75.58,Prophet,0.95,1.64,2025-12-09
+C009,SKU0076,Dawn White Bread Medium,Dawn,Bakery,11.23,5.49,0.49,3,15.63,33.7,49.33,39.31,78.62,Prophet,0.95,1.64,2025-12-09
+C009,SKU0070,English Biscuit Brown Bread Large,English Biscuit,Bakery,6.94,2.9,0.42,3,8.25,20.81,29.07,24.28,48.56,Prophet,0.95,1.64,2025-12-09
+C009,SKU0068,English Biscuit White Bread Large,English Biscuit,Bakery,16.61,5.9,0.35,3,16.8,49.84,66.64,58.14,116.29,Prophet,0.95,1.64,2025-12-09
+C009,SKU0067,English Biscuit White Bread Medium,English Biscuit,Bakery,16.97,6.7,0.39,3,19.08,50.91,69.99,59.4,118.8,Prophet,0.95,1.64,2025-12-09
+C009,SKU0072,Peek Freans Cake Rusk Chocolate,Peek Freans,Bakery,1.89,0.54,0.29,3,1.55,5.67,7.22,10.0,13.23,Prophet,0.95,1.64,2025-12-09
+C009,SKU0071,Peek Freans Cake Rusk Regular,Peek Freans,Bakery,21.26,5.93,0.28,3,16.91,63.77,80.68,96.81,148.79,Prophet,0.95,1.64,2025-12-09
+C009,SKU0026,7UP 7UP 250ml,7UP,Beverages,26.77,7.34,0.27,3,20.92,80.32,101.24,121.49,187.4,Prophet,0.95,1.64,2025-12-09
+C009,SKU0039,Aquafina Water 500ml,Aquafina,Beverages,11.86,5.18,0.44,3,14.76,35.57,50.33,60.4,83.0,Prophet,0.95,1.64,2025-12-09
+C009,SKU0021,Coca Cola Coke 2.25L,Coca Cola,Beverages,2.76,0.92,0.33,3,2.62,8.28,10.91,13.09,19.32,Prophet,0.95,1.64,2025-12-09
+C009,SKU0018,Coca Cola Coke 250ml,Coca Cola,Beverages,6.2,1.77,0.29,3,5.05,18.61,23.66,28.39,43.42,Prophet,0.95,1.64,2025-12-09
+C009,SKU0019,Coca Cola Coke 500ml,Coca Cola,Beverages,10.92,3.23,0.3,3,9.2,32.77,41.96,50.35,76.45,Prophet,0.95,1.64,2025-12-09
+C009,SKU0033,Fanta Orange 1.5L,Fanta,Beverages,6.06,2.69,0.44,3,7.66,18.19,25.84,31.01,42.43,Prophet,0.95,1.64,2025-12-09
+C009,SKU0032,Fanta Orange 500ml,Fanta,Beverages,11.77,3.25,0.28,3,9.26,35.32,44.58,53.5,82.41,Prophet,0.95,1.64,2025-12-09
+C009,SKU0043,Gourmet Green Tea 100 bags,Gourmet,Beverages,16.35,5.42,0.33,3,15.45,49.04,64.49,77.38,114.43,Prophet,0.95,1.64,2025-12-09
+C009,SKU0044,Lipton Yellow Label Tea 100 bags,Lipton,Beverages,6.07,1.44,0.24,3,4.1,18.22,22.32,26.79,42.51,Prophet,0.95,1.64,2025-12-09
+C009,SKU0038,Nestle Pure Life Water 1.5L,Nestle,Beverages,28.87,8.15,0.28,3,23.23,86.62,109.85,131.83,202.12,Prophet,0.95,1.64,2025-12-09
+C009,SKU0037,Nestle Pure Life Water 500ml,Nestle,Beverages,1.7,3.45,2.03,3,9.83,5.1,14.93,17.91,11.9,Prophet,0.95,1.64,2025-12-09
+C009,SKU0024,Pepsi Pepsi 1.5L,Pepsi,Beverages,9.51,2.33,0.24,3,6.63,28.53,35.16,42.19,66.58,Prophet,0.95,1.64,2025-12-09
+C009,SKU0022,Pepsi Pepsi 250ml,Pepsi,Beverages,14.43,4.39,0.3,3,12.51,43.29,55.8,66.96,101.0,Prophet,0.95,1.64,2025-12-09
+C009,SKU0023,Pepsi Pepsi 500ml,Pepsi,Beverages,9.18,2.62,0.29,3,7.45,27.53,34.98,41.97,64.23,Prophet,0.95,1.64,2025-12-09
+C009,SKU0035,Shezan Mango Juice 1L,Shezan,Beverages,3.53,1.27,0.36,3,3.6,10.6,14.21,17.05,24.74,Prophet,0.95,1.64,2025-12-09
+C009,SKU0034,Shezan Mango Juice 250ml,Shezan,Beverages,19.59,4.95,0.25,3,14.12,58.76,72.88,87.46,137.12,Prophet,0.95,1.64,2025-12-09
+C009,SKU0031,Sprite Sprite 1.5L,Sprite,Beverages,7.57,1.94,0.26,3,5.53,22.71,28.23,33.88,52.98,Prophet,0.95,1.64,2025-12-09
+C009,SKU0030,Sprite Sprite 500ml,Sprite,Beverages,2.29,1.89,0.83,3,5.38,6.86,12.24,14.69,16.0,Prophet,0.95,1.64,2025-12-09
+C009,SKU0046,Vital Energy Drink 250ml,Vital,Beverages,10.34,2.99,0.29,3,8.52,31.03,39.55,47.46,72.41,Prophet,0.95,1.64,2025-12-09
+C009,SKU0010,Dairy Omung Milk 1L,Dairy Omung,Dairy,12.55,3.87,0.31,3,11.02,37.65,48.67,58.41,87.85,Prophet,0.95,1.64,2025-12-09
+C009,SKU0006,Haleeb Fresh Milk 1L,Haleeb,Dairy,2.31,0.73,0.32,3,2.09,6.93,9.01,10.81,16.16,Prophet,0.95,1.64,2025-12-09
+C009,SKU0001,Nestle Everyday Milk 1L,Nestle,Dairy,17.43,4.36,0.25,3,12.41,52.29,64.71,77.65,122.02,Prophet,0.95,1.64,2025-12-09
+C009,SKU0012,Nestle Yogurt 900g,Nestle,Dairy,10.89,3.08,0.28,3,8.77,32.66,41.43,49.72,76.22,Prophet,0.95,1.64,2025-12-09
+C009,SKU0008,Nurpur Milk 1L,Nurpur,Dairy,4.36,1.36,0.31,3,3.87,13.08,16.95,20.34,30.53,Prophet,0.95,1.64,2025-12-09
+C009,SKU0015,Olpers Cheese Slices 200g,Olpers,Dairy,15.97,4.51,0.28,3,12.84,47.92,60.77,72.92,111.82,Prophet,0.95,1.64,2025-12-09
+C009,SKU0004,Olpers Full Cream Milk 1L,Olpers,Dairy,10.99,4.83,0.44,3,13.77,32.98,46.75,56.1,76.96,Prophet,0.95,1.64,2025-12-09
+C009,SKU0014,Tarang Dahi 1kg,Tarang,Dairy,27.96,7.55,0.27,3,21.5,83.87,105.37,126.45,195.7,Prophet,0.95,1.64,2025-12-09
+C009,SKU0013,Tarang Dahi 500g,Tarang,Dairy,24.4,6.71,0.27,3,19.11,73.19,92.31,110.77,170.78,Prophet,0.95,1.64,2025-12-09
+C009,SKU0153,K&N's Chicken Nuggets 1kg,K&N's,Frozen,33.38,8.81,0.26,3,25.1,100.15,125.25,150.3,233.69,Prophet,0.95,1.64,2025-12-09
+C009,SKU0152,K&N's Chicken Nuggets 500g,K&N's,Frozen,17.11,4.63,0.27,3,13.2,51.34,64.53,77.44,119.79,Prophet,0.95,1.64,2025-12-09
+C009,SKU0158,Makkhan Paratha 20-pack,Makkhan,Frozen,13.2,5.65,0.43,3,16.11,39.59,55.7,66.84,92.37,Prophet,0.95,1.64,2025-12-09
+C009,SKU0157,Menu Plain Paratha 30-pack,Menu,Frozen,19.39,6.45,0.33,3,18.38,58.16,76.54,91.85,135.71,Prophet,0.95,1.64,2025-12-09
+C009,SKU0160,Walls Magnum Single,Walls,Frozen,2.18,0.63,0.29,3,1.78,6.54,8.32,10.0,15.25,Prophet,0.95,1.64,2025-12-09
+C009,SKU0086,Dalda Cooking Oil 1L,Dalda,Grocery,13.45,4.26,0.32,3,12.14,40.35,52.48,62.98,94.14,Prophet,0.95,1.64,2025-12-09
+C009,SKU0087,Dalda Cooking Oil 2.5L,Dalda,Grocery,3.07,0.95,0.31,3,2.71,9.21,11.92,14.3,21.49,Prophet,0.95,1.64,2025-12-09
+C009,SKU0088,Dalda Cooking Oil 5L,Dalda,Grocery,12.45,3.59,0.29,3,10.22,37.35,47.56,57.08,87.14,Prophet,0.95,1.64,2025-12-09
+C009,SKU0091,Eva Cooking Oil 1L,Eva,Grocery,12.11,6.26,0.52,3,17.83,36.33,54.16,65.0,84.78,Prophet,0.95,1.64,2025-12-09
+C009,SKU0092,Eva Cooking Oil 5L,Eva,Grocery,10.9,3.98,0.37,3,11.34,32.7,44.04,52.85,76.3,Prophet,0.95,1.64,2025-12-09
+C009,SKU0102,Guard Super Basmati 10kg,Guard,Grocery,27.86,6.68,0.24,3,19.04,83.57,102.6,123.12,194.99,Prophet,0.95,1.64,2025-12-09
+C009,SKU0101,Guard Super Basmati 5kg,Guard,Grocery,15.25,4.62,0.3,3,13.16,45.74,58.89,70.67,106.72,Prophet,0.95,1.64,2025-12-09
+C009,SKU0090,Habib Banaspati 2.5kg,Habib,Grocery,22.64,7.56,0.33,3,21.55,67.92,89.47,107.36,158.48,Prophet,0.95,1.64,2025-12-09
+C009,SKU0107,Kolson Macaroni 400g,Kolson,Grocery,2.26,0.69,0.3,3,1.96,6.78,8.74,10.49,15.82,Prophet,0.95,1.64,2025-12-09
+C009,SKU0096,Lipton Yellow Label 200g,Lipton,Grocery,32.58,8.25,0.25,3,23.49,97.73,121.22,145.47,228.03,Prophet,0.95,1.64,2025-12-09
+C009,SKU0103,Mehran Basmati Rice 5kg,Mehran,Grocery,15.53,4.5,0.29,3,12.81,46.6,59.41,71.29,108.73,Prophet,0.95,1.64,2025-12-09
+C009,SKU0077,National Biryani Masala 50g,National,Grocery,11.36,2.95,0.26,3,8.39,34.07,42.46,50.95,79.49,Prophet,0.95,1.64,2025-12-09
+C009,SKU0079,National Korma Masala 50g,National,Grocery,1.84,1.23,0.67,3,3.5,5.51,9.01,10.81,12.86,Prophet,0.95,1.64,2025-12-09
+C009,SKU0108,National Salt 800g,National,Grocery,3.68,0.93,0.25,3,2.65,11.04,13.69,16.43,25.77,Prophet,0.95,1.64,2025-12-09
+C009,SKU0081,Shan Biryani Masala 50g,Shan,Grocery,13.78,3.85,0.28,3,10.97,41.34,52.31,62.77,96.46,Prophet,0.95,1.64,2025-12-09
+C009,SKU0109,Shan Red Chilli Powder 100g,Shan,Grocery,30.73,9.17,0.3,3,26.12,92.19,118.31,141.97,215.11,Prophet,0.95,1.64,2025-12-09
+C009,SKU0110,Shan Red Chilli Powder 200g,Shan,Grocery,15.19,4.52,0.3,3,12.87,45.57,58.44,70.13,106.33,Prophet,0.95,1.64,2025-12-09
+C009,SKU0105,Shangrila Vermicelli 400g,Shangrila,Grocery,17.8,4.48,0.25,3,12.76,53.4,66.16,79.39,124.6,Prophet,0.95,1.64,2025-12-09
+C009,SKU0100,Sufi Basmati Rice 10kg,Sufi,Grocery,28.67,7.47,0.26,3,21.29,86.0,107.29,128.75,200.67,Prophet,0.95,1.64,2025-12-09
+C009,SKU0093,Tapal Danedar Tea 190g,Tapal,Grocery,13.07,3.64,0.28,3,10.36,39.22,49.58,59.49,91.5,Prophet,0.95,1.64,2025-12-09
+C009,SKU0094,Tapal Danedar Tea 475g,Tapal,Grocery,23.82,6.94,0.29,3,19.77,71.46,91.23,109.48,166.75,Prophet,0.95,1.64,2025-12-09
+C009,SKU0095,Tapal Danedar Tea 950g,Tapal,Grocery,10.76,3.11,0.29,3,8.85,32.27,41.12,49.34,75.29,Prophet,0.95,1.64,2025-12-09
+C009,SKU0141,Ariel Detergent 1kg,Ariel,Household,16.83,6.64,0.39,3,18.91,50.49,69.4,83.28,117.8,Prophet,0.95,1.64,2025-12-09
+C009,SKU0142,Ariel Detergent 3kg,Ariel,Household,1.9,0.59,0.31,3,1.67,5.69,7.36,10.0,13.29,Prophet,0.95,1.64,2025-12-09
+C009,SKU0144,Bonus Detergent 3kg,Bonus,Household,4.0,2.17,0.54,3,6.19,12.01,18.2,21.84,28.02,Prophet,0.95,1.64,2025-12-09
+C009,SKU0149,Colin Glass Cleaner 500ml,Colin,Household,8.48,2.36,0.28,3,6.73,25.45,32.18,38.62,59.38,Prophet,0.95,1.64,2025-12-09
+C009,SKU0148,Dettol Disinfectant 500ml,Dettol,Household,23.36,7.32,0.31,3,20.86,70.07,90.94,109.12,163.5,Prophet,0.95,1.64,2025-12-09
+C009,SKU0147,Harpic Toilet Cleaner 1L,Harpic,Household,9.64,5.33,0.55,3,15.17,28.93,44.1,52.92,67.51,Prophet,0.95,1.64,2025-12-09
+C009,SKU0146,Harpic Toilet Cleaner 500ml,Harpic,Household,19.11,5.47,0.29,3,15.58,57.34,72.92,87.51,133.8,Prophet,0.95,1.64,2025-12-09
+C009,SKU0138,Surf Excel Detergent 1kg,Surf Excel,Household,21.37,5.44,0.25,3,15.5,64.11,79.6,95.52,149.58,Prophet,0.95,1.64,2025-12-09
+C009,SKU0145,Wheel Detergent 1kg,Wheel,Household,27.08,6.91,0.26,3,19.69,81.23,100.92,121.11,189.53,Prophet,0.95,1.64,2025-12-09
+C009,SKU0131,Clear Shampoo 185ml,Clear,Personal_Care,9.05,2.78,0.31,3,7.93,27.16,35.1,42.12,63.38,Prophet,0.95,1.64,2025-12-09
+C009,SKU0132,Clear Shampoo 400ml,Clear,Personal_Care,2.11,0.59,0.28,3,1.67,6.33,8.0,10.0,14.77,Prophet,0.95,1.64,2025-12-09
+C009,SKU0135,Close Up Toothpaste 75g,Close Up,Personal_Care,1.51,0.41,0.27,3,1.17,4.54,5.71,10.0,10.6,Prophet,0.95,1.64,2025-12-09
+C009,SKU0134,Colgate Toothpaste 150g,Colgate,Personal_Care,2.77,1.22,0.44,3,3.46,8.32,11.78,14.14,19.41,Prophet,0.95,1.64,2025-12-09
+C009,SKU0118,Dove Beauty Bar 100g,Dove,Personal_Care,10.84,2.94,0.27,3,8.39,32.52,40.91,49.09,75.87,Prophet,0.95,1.64,2025-12-09
+C009,SKU0122,Fair & Lovely Cream 80g,Fair & Lovely,Personal_Care,21.25,5.91,0.28,3,16.84,63.76,80.61,96.73,148.78,Prophet,0.95,1.64,2025-12-09
+C009,SKU0128,Head & Shoulders Shampoo 400ml,Head & Shoulders,Personal_Care,15.03,4.31,0.29,3,12.28,45.09,57.37,68.85,105.21,Prophet,0.95,1.64,2025-12-09
+C009,SKU0115,Lifebuoy Soap 6-pack,Lifebuoy,Personal_Care,11.12,3.81,0.34,3,10.85,33.36,44.22,53.06,77.85,Prophet,0.95,1.64,2025-12-09
+C009,SKU0112,Lux Beauty Soap 3-pack,Lux,Personal_Care,1.69,0.45,0.26,3,1.27,5.07,6.34,10.0,11.83,Prophet,0.95,1.64,2025-12-09
+C009,SKU0113,Lux Beauty Soap 6-pack,Lux,Personal_Care,3.05,0.9,0.3,3,2.57,9.15,11.72,14.06,21.34,Prophet,0.95,1.64,2025-12-09
+C009,SKU0124,Pantene Shampoo 180ml,Pantene,Personal_Care,16.0,4.29,0.27,3,12.22,48.0,60.22,72.27,112.01,Prophet,0.95,1.64,2025-12-09
+C009,SKU0126,Pantene Shampoo 650ml,Pantene,Personal_Care,25.5,6.4,0.25,3,18.23,76.49,94.72,113.67,178.49,Prophet,0.95,1.64,2025-12-09
+C009,SKU0123,Pond's Face Cream 50g,Pond's,Personal_Care,1.4,2.79,1.99,3,7.95,4.2,12.15,14.58,9.8,Prophet,0.95,1.64,2025-12-09
+C009,SKU0116,Safeguard Soap 3-pack,Safeguard,Personal_Care,18.45,5.14,0.28,3,14.63,55.35,69.98,83.97,129.14,Prophet,0.95,1.64,2025-12-09
+C009,SKU0137,Sensodyne Toothpaste 75g,Sensodyne,Personal_Care,8.19,2.43,0.3,3,6.93,24.57,31.49,37.79,57.32,Prophet,0.95,1.64,2025-12-09
+C009,SKU0129,Sunsilk Shampoo 180ml,Sunsilk,Personal_Care,2.15,0.63,0.3,3,1.81,6.45,8.26,10.0,15.05,Prophet,0.95,1.64,2025-12-09
+C009,SKU0130,Sunsilk Shampoo 400ml,Sunsilk,Personal_Care,24.61,7.15,0.29,3,20.37,73.84,94.21,113.05,172.29,Prophet,0.95,1.64,2025-12-09
+C009,SKU0055,Cheetos Crunchy 48g,Cheetos,Snacks,9.49,2.91,0.31,3,8.28,28.47,36.74,44.09,66.42,Prophet,0.95,1.64,2025-12-09
+C009,SKU0051,Kolson Slanty 18g,Kolson,Snacks,10.85,2.7,0.25,3,7.7,32.55,40.25,48.31,75.95,Prophet,0.95,1.64,2025-12-09
+C009,SKU0047,Lays Masala Chips 34g,Lays,Snacks,11.96,3.03,0.25,3,8.63,35.88,44.51,53.41,83.72,Prophet,0.95,1.64,2025-12-09
+C009,SKU0048,Lays Masala Chips 68g,Lays,Snacks,14.65,4.43,0.3,3,12.61,43.96,56.56,67.88,102.56,Prophet,0.95,1.64,2025-12-09
+C009,SKU0050,Lays Wavy Chips 68g,Lays,Snacks,24.67,6.28,0.25,3,17.88,74.02,91.9,110.27,172.71,Prophet,0.95,1.64,2025-12-09
+C009,SKU0060,Peek Freans Chocolate Chip 90g,Peek Freans,Snacks,5.74,2.87,0.5,3,8.17,17.23,25.4,30.48,40.21,Prophet,0.95,1.64,2025-12-09
+C009,SKU0058,Peek Freans Sooper Biscuit Family Pack,Peek Freans,Snacks,15.86,7.51,0.47,3,21.41,47.57,68.98,82.78,111.0,Prophet,0.95,1.64,2025-12-09
+C009,SKU0059,Peek Freans Sooper Biscuit Half Roll,Peek Freans,Snacks,14.78,5.83,0.39,3,16.61,44.33,60.93,73.12,103.43,Prophet,0.95,1.64,2025-12-09
+C009,SKU0065,Rio Wafer 18g,Rio,Snacks,12.01,2.99,0.25,3,8.51,36.03,44.54,53.45,84.07,Prophet,0.95,1.64,2025-12-09
+C009,SKU0066,Rio Wafer 45g,Rio,Snacks,11.49,2.96,0.26,3,8.43,34.48,42.91,51.5,80.46,Prophet,0.95,1.64,2025-12-09
+C010,SKU0074,Bake Parlor Rusk Plain,Bake Parlor,Bakery,7.24,2.35,0.33,3,6.71,21.72,28.43,34.11,50.68,Prophet,0.95,1.64,2025-12-09
+C010,SKU0076,Dawn White Bread Medium,Dawn,Bakery,10.14,3.97,0.39,3,11.3,30.43,41.73,35.5,71.0,Prophet,0.95,1.64,2025-12-09
+C010,SKU0069,English Biscuit Brown Bread Medium,English Biscuit,Bakery,16.28,3.92,0.24,3,11.16,48.85,60.01,56.99,113.98,Prophet,0.95,1.64,2025-12-09
+C010,SKU0068,English Biscuit White Bread Large,English Biscuit,Bakery,31.33,7.73,0.25,3,22.03,93.99,116.02,109.66,219.32,Prophet,0.95,1.64,2025-12-09
+C010,SKU0067,English Biscuit White Bread Medium,English Biscuit,Bakery,5.58,2.74,0.49,3,7.82,16.75,24.56,19.54,39.08,Prophet,0.95,1.64,2025-12-09
+C010,SKU0072,Peek Freans Cake Rusk Chocolate,Peek Freans,Bakery,29.76,8.01,0.27,3,22.83,89.29,112.12,134.55,208.34,Prophet,0.95,1.64,2025-12-09
+C010,SKU0071,Peek Freans Cake Rusk Regular,Peek Freans,Bakery,20.02,6.41,0.32,3,18.27,60.06,78.33,93.99,140.13,Prophet,0.95,1.64,2025-12-09
+C010,SKU0073,Young's Milk Rusk 300g,Young's,Bakery,14.06,5.34,0.38,3,15.22,42.18,57.4,68.88,98.43,Prophet,0.95,1.64,2025-12-09
+C010,SKU0026,7UP 7UP 250ml,7UP,Beverages,17.73,4.32,0.24,3,12.3,53.2,65.5,78.6,124.14,Prophet,0.95,1.64,2025-12-09
+C010,SKU0039,Aquafina Water 500ml,Aquafina,Beverages,7.01,2.68,0.38,3,7.63,21.03,28.65,34.38,49.06,Prophet,0.95,1.64,2025-12-09
+C010,SKU0020,Coca Cola Coke 1.5L,Coca Cola,Beverages,11.96,3.23,0.27,3,9.19,35.87,45.06,54.07,83.7,Prophet,0.95,1.64,2025-12-09
+C010,SKU0021,Coca Cola Coke 2.25L,Coca Cola,Beverages,4.76,1.46,0.31,3,4.17,14.29,18.46,22.15,33.35,Prophet,0.95,1.64,2025-12-09
+C010,SKU0018,Coca Cola Coke 250ml,Coca Cola,Beverages,4.41,1.09,0.25,3,3.11,13.22,16.33,19.59,30.84,Prophet,0.95,1.64,2025-12-09
+C010,SKU0033,Fanta Orange 1.5L,Fanta,Beverages,13.66,4.4,0.32,3,12.53,40.99,53.52,64.23,95.64,Prophet,0.95,1.64,2025-12-09
+C010,SKU0032,Fanta Orange 500ml,Fanta,Beverages,7.26,2.6,0.36,3,7.4,21.79,29.19,35.03,50.85,Prophet,0.95,1.64,2025-12-09
+C010,SKU0043,Gourmet Green Tea 100 bags,Gourmet,Beverages,13.04,3.49,0.27,3,9.93,39.13,49.06,58.87,91.3,Prophet,0.95,1.64,2025-12-09
+C010,SKU0041,Gourmet Green Tea 25 bags,Gourmet,Beverages,25.98,7.46,0.29,3,21.25,77.94,99.18,119.02,181.85,Prophet,0.95,1.64,2025-12-09
+C010,SKU0044,Lipton Yellow Label Tea 100 bags,Lipton,Beverages,24.25,6.22,0.26,3,17.73,72.74,90.47,108.56,169.74,Prophet,0.95,1.64,2025-12-09
+C010,SKU0045,Lipton Yellow Label Tea 200 bags,Lipton,Beverages,21.54,5.43,0.25,3,15.48,64.62,80.1,96.12,150.79,Prophet,0.95,1.64,2025-12-09
+C010,SKU0037,Nestle Pure Life Water 500ml,Nestle,Beverages,13.22,5.48,0.41,3,15.62,39.65,55.27,66.32,92.52,Prophet,0.95,1.64,2025-12-09
+C010,SKU0024,Pepsi Pepsi 1.5L,Pepsi,Beverages,22.11,6.56,0.3,3,18.69,66.32,85.01,102.02,154.75,Prophet,0.95,1.64,2025-12-09
+C010,SKU0023,Pepsi Pepsi 500ml,Pepsi,Beverages,11.09,3.08,0.28,3,8.78,33.26,42.03,50.44,77.6,Prophet,0.95,1.64,2025-12-09
+C010,SKU0029,Sprite Sprite 250ml,Sprite,Beverages,27.81,6.95,0.25,3,19.81,83.43,103.24,123.89,194.67,Prophet,0.95,1.64,2025-12-09
+C010,SKU0030,Sprite Sprite 500ml,Sprite,Beverages,26.33,7.6,0.29,3,21.64,79.0,100.65,120.77,184.34,Prophet,0.95,1.64,2025-12-09
+C010,SKU0046,Vital Energy Drink 250ml,Vital,Beverages,6.24,2.87,0.46,3,8.19,18.71,26.9,32.27,43.66,Prophet,0.95,1.64,2025-12-09
+C010,SKU0010,Dairy Omung Milk 1L,Dairy Omung,Dairy,9.34,2.48,0.27,3,7.06,28.03,35.09,42.11,65.41,Prophet,0.95,1.64,2025-12-09
+C010,SKU0006,Haleeb Fresh Milk 1L,Haleeb,Dairy,4.13,1.34,0.33,3,3.83,12.39,16.22,19.46,28.91,Prophet,0.95,1.64,2025-12-09
+C010,SKU0007,Haleeb Fresh Milk 500ml,Haleeb,Dairy,14.29,3.98,0.28,3,11.33,42.87,54.19,65.03,100.02,Prophet,0.95,1.64,2025-12-09
+C010,SKU0001,Nestle Everyday Milk 1L,Nestle,Dairy,16.1,4.29,0.27,3,12.21,48.31,60.52,72.62,112.72,Prophet,0.95,1.64,2025-12-09
+C010,SKU0003,Nestle Everyday Milk 250ml,Nestle,Dairy,33.93,8.63,0.25,3,24.57,101.8,126.37,151.64,237.52,Prophet,0.95,1.64,2025-12-09
+C010,SKU0011,Nestle Yogurt 400g,Nestle,Dairy,1.37,0.45,0.32,3,1.27,4.12,5.39,10.0,9.6,Prophet,0.95,1.64,2025-12-09
+C010,SKU0012,Nestle Yogurt 900g,Nestle,Dairy,22.02,6.14,0.28,3,17.5,66.07,83.57,100.29,154.17,Prophet,0.95,1.64,2025-12-09
+C010,SKU0017,Nurpur Butter 200g,Nurpur,Dairy,15.89,4.17,0.26,3,11.88,47.67,59.55,71.46,111.23,Prophet,0.95,1.64,2025-12-09
+C010,SKU0008,Nurpur Milk 1L,Nurpur,Dairy,2.74,0.76,0.28,3,2.15,8.22,10.37,12.44,19.17,Prophet,0.95,1.64,2025-12-09
+C010,SKU0009,Nurpur Milk 500ml,Nurpur,Dairy,31.03,8.33,0.27,3,23.74,93.09,116.84,140.2,217.22,Prophet,0.95,1.64,2025-12-09
+C010,SKU0015,Olpers Cheese Slices 200g,Olpers,Dairy,12.34,4.56,0.37,3,12.99,37.01,49.99,59.99,86.35,Prophet,0.95,1.64,2025-12-09
+C010,SKU0016,Olpers Cheese Slices 400g,Olpers,Dairy,15.4,3.78,0.25,3,10.78,46.19,56.97,68.36,107.77,Prophet,0.95,1.64,2025-12-09
+C010,SKU0004,Olpers Full Cream Milk 1L,Olpers,Dairy,6.72,2.3,0.34,3,6.55,20.16,26.72,32.06,47.05,Prophet,0.95,1.64,2025-12-09
+C010,SKU0005,Olpers Full Cream Milk 500ml,Olpers,Dairy,18.41,5.05,0.27,3,14.39,55.24,69.63,83.56,128.9,Prophet,0.95,1.64,2025-12-09
+C010,SKU0014,Tarang Dahi 1kg,Tarang,Dairy,15.4,3.73,0.24,3,10.63,46.2,56.84,68.2,107.81,Prophet,0.95,1.64,2025-12-09
+C010,SKU0013,Tarang Dahi 500g,Tarang,Dairy,13.3,3.56,0.27,3,10.13,39.9,50.03,60.03,93.1,Prophet,0.95,1.64,2025-12-09
+C010,SKU0153,K&N's Chicken Nuggets 1kg,K&N's,Frozen,21.17,6.21,0.29,3,17.71,63.5,81.2,97.44,148.16,Prophet,0.95,1.64,2025-12-09
+C010,SKU0152,K&N's Chicken Nuggets 500g,K&N's,Frozen,5.35,4.29,0.8,3,12.23,16.05,28.28,33.94,37.45,Prophet,0.95,1.64,2025-12-09
+C010,SKU0158,Makkhan Paratha 20-pack,Makkhan,Frozen,19.84,5.04,0.25,3,14.36,59.52,73.87,88.65,138.87,Prophet,0.95,1.64,2025-12-09
+C010,SKU0156,Menu Plain Paratha 20-pack,Menu,Frozen,22.65,6.08,0.27,3,17.34,67.94,85.28,102.33,158.53,Prophet,0.95,1.64,2025-12-09
+C010,SKU0157,Menu Plain Paratha 30-pack,Menu,Frozen,15.26,4.46,0.29,3,12.72,45.79,58.51,70.21,106.85,Prophet,0.95,1.64,2025-12-09
+C010,SKU0160,Walls Magnum Single,Walls,Frozen,1.74,0.48,0.28,3,1.37,5.21,6.58,10.0,12.17,Prophet,0.95,1.64,2025-12-09
+C010,SKU0086,Dalda Cooking Oil 1L,Dalda,Grocery,6.67,1.68,0.25,3,4.8,20.01,24.81,29.77,46.69,Prophet,0.95,1.64,2025-12-09
+C010,SKU0087,Dalda Cooking Oil 2.5L,Dalda,Grocery,1.54,0.66,0.43,3,1.88,4.62,6.5,10.0,10.78,Prophet,0.95,1.64,2025-12-09
+C010,SKU0088,Dalda Cooking Oil 5L,Dalda,Grocery,6.78,2.97,0.44,3,8.45,20.33,28.79,34.54,47.44,Prophet,0.95,1.64,2025-12-09
+C010,SKU0091,Eva Cooking Oil 1L,Eva,Grocery,19.71,6.49,0.33,3,18.5,59.13,77.63,93.16,137.97,Prophet,0.95,1.64,2025-12-09
+C010,SKU0102,Guard Super Basmati 10kg,Guard,Grocery,28.25,7.32,0.26,3,20.84,84.74,105.58,126.7,197.73,Prophet,0.95,1.64,2025-12-09
+C010,SKU0089,Habib Banaspati 1kg,Habib,Grocery,21.08,6.15,0.29,3,17.53,63.25,80.78,96.93,147.59,Prophet,0.95,1.64,2025-12-09
+C010,SKU0090,Habib Banaspati 2.5kg,Habib,Grocery,8.85,2.56,0.29,3,7.28,26.56,33.84,40.61,61.96,Prophet,0.95,1.64,2025-12-09
+C010,SKU0106,Kolson Macaroni 200g,Kolson,Grocery,10.48,3.01,0.29,3,8.56,31.45,40.01,48.02,73.38,Prophet,0.95,1.64,2025-12-09
+C010,SKU0107,Kolson Macaroni 400g,Kolson,Grocery,19.42,4.69,0.24,3,13.37,58.27,71.64,85.97,135.96,Prophet,0.95,1.64,2025-12-09
+C010,SKU0097,Lipton Yellow Label 450g,Lipton,Grocery,8.42,3.12,0.37,3,8.89,25.26,34.14,40.97,58.93,Prophet,0.95,1.64,2025-12-09
+C010,SKU0103,Mehran Basmati Rice 5kg,Mehran,Grocery,10.09,7.89,0.78,3,22.49,30.26,52.74,63.29,70.6,Prophet,0.95,1.64,2025-12-09
+C010,SKU0078,National Biryani Masala 100g,National,Grocery,27.08,9.48,0.35,3,27.01,81.23,108.24,129.89,189.53,Prophet,0.95,1.64,2025-12-09
+C010,SKU0080,National Nihari Masala 50g,National,Grocery,28.95,7.98,0.28,3,22.75,86.85,109.6,131.52,202.65,Prophet,0.95,1.64,2025-12-09
+C010,SKU0108,National Salt 800g,National,Grocery,3.72,1.01,0.27,3,2.89,11.17,14.06,16.88,26.07,Prophet,0.95,1.64,2025-12-09
+C010,SKU0082,Shan Biryani Masala 100g,Shan,Grocery,8.78,2.38,0.27,3,6.78,26.33,33.11,39.74,61.44,Prophet,0.95,1.64,2025-12-09
+C010,SKU0110,Shan Red Chilli Powder 200g,Shan,Grocery,29.05,7.98,0.27,3,22.72,87.16,109.88,131.86,203.38,Prophet,0.95,1.64,2025-12-09
+C010,SKU0104,Shangrila Vermicelli 200g,Shangrila,Grocery,21.64,5.48,0.25,3,15.61,64.92,80.53,96.64,151.49,Prophet,0.95,1.64,2025-12-09
+C010,SKU0100,Sufi Basmati Rice 10kg,Sufi,Grocery,11.72,6.18,0.53,3,17.61,35.15,52.77,63.32,82.03,Prophet,0.95,1.64,2025-12-09
+C010,SKU0099,Sufi Basmati Rice 5kg,Sufi,Grocery,19.51,6.99,0.36,3,19.92,58.54,78.46,94.15,136.58,Prophet,0.95,1.64,2025-12-09
+C010,SKU0141,Ariel Detergent 1kg,Ariel,Household,12.21,4.0,0.33,3,11.38,36.62,48.0,57.6,85.44,Prophet,0.95,1.64,2025-12-09
+C010,SKU0142,Ariel Detergent 3kg,Ariel,Household,23.77,5.94,0.25,3,16.92,71.31,88.22,105.87,166.38,Prophet,0.95,1.64,2025-12-09
+C010,SKU0143,Bonus Detergent 1kg,Bonus,Household,18.71,4.75,0.25,3,13.52,56.13,69.65,83.58,130.97,Prophet,0.95,1.64,2025-12-09
+C010,SKU0144,Bonus Detergent 3kg,Bonus,Household,23.88,7.17,0.3,3,20.44,71.63,92.07,110.49,167.14,Prophet,0.95,1.64,2025-12-09
+C010,SKU0149,Colin Glass Cleaner 500ml,Colin,Household,20.33,5.6,0.28,3,15.95,61.0,76.96,92.35,142.34,Prophet,0.95,1.64,2025-12-09
+C010,SKU0148,Dettol Disinfectant 500ml,Dettol,Household,14.11,4.43,0.31,3,12.62,42.33,54.95,65.94,98.76,Prophet,0.95,1.64,2025-12-09
+C010,SKU0138,Surf Excel Detergent 1kg,Surf Excel,Household,19.49,5.78,0.3,3,16.47,58.48,74.95,89.93,136.45,Prophet,0.95,1.64,2025-12-09
+C010,SKU0140,Surf Excel Detergent 6kg,Surf Excel,Household,14.01,5.71,0.41,3,16.26,42.02,58.28,69.94,98.06,Prophet,0.95,1.64,2025-12-09
+C010,SKU0150,Vim Dishwash Bar 250g,Vim,Household,3.6,1.09,0.3,3,3.11,10.81,13.92,16.71,25.22,Prophet,0.95,1.64,2025-12-09
+C010,SKU0151,Vim Dishwash Bar 500g,Vim,Household,25.74,7.96,0.31,3,22.68,77.23,99.91,119.9,180.21,Prophet,0.95,1.64,2025-12-09
+C010,SKU0145,Wheel Detergent 1kg,Wheel,Household,3.08,1.31,0.42,3,3.72,9.24,12.97,15.56,21.57,Prophet,0.95,1.64,2025-12-09
+C010,SKU0131,Clear Shampoo 185ml,Clear,Personal_Care,12.99,5.07,0.39,3,14.44,38.96,53.4,64.07,90.9,Prophet,0.95,1.64,2025-12-09
+C010,SKU0132,Clear Shampoo 400ml,Clear,Personal_Care,17.81,6.07,0.34,3,17.3,53.44,70.73,84.88,124.69,Prophet,0.95,1.64,2025-12-09
+C010,SKU0135,Close Up Toothpaste 75g,Close Up,Personal_Care,29.22,7.38,0.25,3,21.02,87.65,108.67,130.4,204.52,Prophet,0.95,1.64,2025-12-09
+C010,SKU0134,Colgate Toothpaste 150g,Colgate,Personal_Care,28.5,7.55,0.26,3,21.51,85.49,107.0,128.4,199.48,Prophet,0.95,1.64,2025-12-09
+C010,SKU0133,Colgate Toothpaste 75g,Colgate,Personal_Care,19.17,5.57,0.29,3,15.88,57.5,73.38,88.06,134.17,Prophet,0.95,1.64,2025-12-09
+C010,SKU0118,Dove Beauty Bar 100g,Dove,Personal_Care,11.56,3.59,0.31,3,10.22,34.69,44.91,53.89,80.95,Prophet,0.95,1.64,2025-12-09
+C010,SKU0127,Head & Shoulders Shampoo 185ml,Head & Shoulders,Personal_Care,20.7,7.48,0.36,3,21.32,62.09,83.41,100.09,144.88,Prophet,0.95,1.64,2025-12-09
+C010,SKU0128,Head & Shoulders Shampoo 400ml,Head & Shoulders,Personal_Care,21.21,4.97,0.23,3,14.16,63.62,77.78,93.33,148.44,Prophet,0.95,1.64,2025-12-09
+C010,SKU0114,Lifebuoy Soap 3-pack,Lifebuoy,Personal_Care,10.18,3.22,0.32,3,9.18,30.54,39.72,47.66,71.25,Prophet,0.95,1.64,2025-12-09
+C010,SKU0115,Lifebuoy Soap 6-pack,Lifebuoy,Personal_Care,12.11,5.55,0.46,3,15.81,36.34,52.15,62.58,84.8,Prophet,0.95,1.64,2025-12-09
+C010,SKU0113,Lux Beauty Soap 6-pack,Lux,Personal_Care,11.04,3.33,0.3,3,9.48,33.13,42.61,51.13,77.31,Prophet,0.95,1.64,2025-12-09
+C010,SKU0126,Pantene Shampoo 650ml,Pantene,Personal_Care,10.02,4.07,0.41,3,11.59,30.07,41.66,49.99,70.16,Prophet,0.95,1.64,2025-12-09
+C010,SKU0137,Sensodyne Toothpaste 75g,Sensodyne,Personal_Care,11.75,3.3,0.28,3,9.4,35.25,44.65,53.59,82.26,Prophet,0.95,1.64,2025-12-09
+C010,SKU0129,Sunsilk Shampoo 180ml,Sunsilk,Personal_Care,33.79,8.08,0.24,3,23.01,101.38,124.39,149.27,236.56,Prophet,0.95,1.64,2025-12-09
+C010,SKU0130,Sunsilk Shampoo 400ml,Sunsilk,Personal_Care,11.69,4.5,0.39,3,12.83,35.06,47.89,57.47,81.8,Prophet,0.95,1.64,2025-12-09
+C010,SKU0055,Cheetos Crunchy 48g,Cheetos,Snacks,8.88,3.08,0.35,3,8.77,26.64,35.41,42.49,62.16,Prophet,0.95,1.64,2025-12-09
+C010,SKU0061,Jubilee Chocolate Biscuit 90g,Jubilee,Snacks,14.89,6.71,0.45,3,19.1,44.67,63.77,76.52,104.22,Prophet,0.95,1.64,2025-12-09
+C010,SKU0051,Kolson Slanty 18g,Kolson,Snacks,13.52,3.96,0.29,3,11.28,40.57,51.85,62.22,94.65,Prophet,0.95,1.64,2025-12-09
+C010,SKU0047,Lays Masala Chips 34g,Lays,Snacks,6.58,5.94,0.9,3,16.92,19.73,36.65,43.97,46.03,Prophet,0.95,1.64,2025-12-09
+C010,SKU0048,Lays Masala Chips 68g,Lays,Snacks,2.22,0.64,0.29,3,1.81,6.67,8.49,10.18,15.57,Prophet,0.95,1.64,2025-12-09
+C010,SKU0049,Lays Masala Chips 90g,Lays,Snacks,20.32,6.02,0.3,3,17.14,60.97,78.11,93.73,142.26,Prophet,0.95,1.64,2025-12-09
+C010,SKU0050,Lays Wavy Chips 68g,Lays,Snacks,23.07,6.62,0.29,3,18.86,69.22,88.08,105.7,161.51,Prophet,0.95,1.64,2025-12-09
+C010,SKU0060,Peek Freans Chocolate Chip 90g,Peek Freans,Snacks,15.94,4.43,0.28,3,12.61,47.81,60.43,72.51,111.56,Prophet,0.95,1.64,2025-12-09
+C010,SKU0059,Peek Freans Sooper Biscuit Half Roll,Peek Freans,Snacks,3.94,1.14,0.29,3,3.24,11.81,15.05,18.06,27.56,Prophet,0.95,1.64,2025-12-09
+C010,SKU0065,Rio Wafer 18g,Rio,Snacks,26.12,36.65,1.4,3,104.42,78.38,182.79,219.35,182.88,Prophet,0.95,1.64,2025-12-09
+C010,SKU0066,Rio Wafer 45g,Rio,Snacks,9.11,2.31,0.25,3,6.59,27.33,33.91,40.7,63.76,Prophet,0.95,1.64,2025-12-09
