@@ -1,0 +1,12 @@
+# Data processing and analysis
+numpy==1.24.3
+pandas==2.0.3
+
+# Statistical calculations (for stock norm calculation)
+scipy==1.11.3
+
+# Time series forecasting (Prophet for demand forecasting)
+prophet==1.1.5
+
+# Islamic calendar conversion for dynamic holiday calculation
+hijri-converter==2.3.1
